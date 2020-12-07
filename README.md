@@ -5,11 +5,11 @@ install Miniconda: https://docs.conda.io/en/latest/miniconda.html
 
 create new venv
 
-run `conda install python=3.6.11`
-
 run `conda config --add channels anaconda`
 
 run `conda config --add channels conda-forge`
+
+run `conda install python=3.6.11`
 
 run `conda install dgl=0.5.2 gensim=3.8.3 tensorflow=2.3.1 matplotlib=3.3.3`
 
