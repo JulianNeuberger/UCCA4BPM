@@ -11,7 +11,9 @@ run `conda config --add channels conda-forge`
 
 run `conda install python=3.6.11`
 
-run `conda install dgl=0.5.2 gensim=3.8.3 tensorflow=2.3.1 matplotlib=3.3.3`
+run `conda install gensim=3.8.3 matplotlib=3.3.3`
+
+run `pip install dgl==0.5.2 tensorflow==2.3.1`
 
 ## Reproducing Our Results
 
