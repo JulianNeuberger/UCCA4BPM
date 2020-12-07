@@ -30,3 +30,5 @@ We have prepared several scripts for generating our runs and plots.
 `ucca4bpm/report.py` will print the reported runs to console.
 
 You can run all of those by `python -m ucca4bpm.<your_script>` when you are in the top level directory.
+
+If you want to run the data processing yourself (you don't have to for reproducing the results), you can run the data/transform script. For detailed installation instructions you can sed a mail to julian.neuberger(at)uni-bayreuth.de or lars.ackermann(at)uni-bayreuth.de.
