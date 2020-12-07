@@ -1,0 +1,82 @@
+T0	Condition 848 877	approval of the claim occurs , 
+T1	Condition 150 168	a claim is created 
+T2	Condition 320 339	a claim is approved 
+T3	Action 18 25	created
+T4	Action 44 52	approved
+T5	Action 70 77	created
+T6	Action 92 100	approved
+T7	Action 137 145	approved
+T8	Action 180 188	approved
+T9	Action 203 209	create
+T10	Action 237 244	approve
+T11	Action 271 278	created
+T12	Action 298 305	approve
+T13	Action 364 371	created
+T14	Action 382 389	approve
+T15	Action 412 419	created
+T16	Action 442 450	approved
+T17	Action 470 477	created
+T18	Action 550 557	created
+T19	Action 584 592	required
+T20	Action 611 619	approved
+T21	Action 670 678	approval
+T22	Action 795 801	occurs
+T23	Action 835 843	preceded
+T24	Action 920 927	carried
+T25	Action 965 973	requires
+T26	Action 1059 1067	preceded
+T27	Entity 1075 1096	creation of claim
+T28	Entity 2 7	claim
+T29	Entity 34 36	it
+T30	Entity 56 61	claim
+T31	Entity 86 88	it
+T32	Entity 127 129	it
+T33	Entity 170 172	it
+T34	Entity 214 219	claim
+T35	Entity 245 247	it
+T36	Entity 262 267	claim
+T37	Entity 310 315	claim
+T38	Entity 346 348	it
+T39	Entity 392 397	claim
+T40	Entity 399 401	it
+T41	Entity 429 434	claim
+T42	Entity 458 460	it
+T43	Entity 529 531	it
+T44	Entity 559 580	creation of claim
+T45	Entity 601 603	it
+T46	Entity 686 691	claim
+T47	Entity 773 794	approval of claim
+T48	Entity 803 824	creation of claim
+T49	Entity 883 904	creation of claim
+T50	Entity 943 964	approval of claim
+T51	Entity 1027 1048	approval of claim
+R0	Agent Arg1:T26 Arg2:T27
+R1	Patient Arg1:T3 Arg2:T28
+R2	Patient Arg1:T4 Arg2:T29
+R3	Patient Arg1:T5 Arg2:T30
+R4	Patient Arg1:T6 Arg2:T31
+R5	Patient Arg1:T7 Arg2:T32
+R6	Patient Arg1:T8 Arg2:T33
+R7	Patient Arg1:T9 Arg2:T34
+R8	Patient Arg1:T10 Arg2:T35
+R9	Patient Arg1:T11 Arg2:T36
+R10	Patient Arg1:T12 Arg2:T37
+R11	Patient Arg1:T13 Arg2:T38
+R12	Patient Arg1:T14 Arg2:T39
+R13	Patient Arg1:T15 Arg2:T40
+R14	Patient Arg1:T16 Arg2:T41
+R15	Patient Arg1:T17 Arg2:T42
+R16	Patient Arg1:T18 Arg2:T43
+R17	Patient Arg1:T19 Arg2:T44
+R18	Patient Arg1:T20 Arg2:T45
+R19	Patient Arg1:T21 Arg2:T46
+R20	Patient Arg1:T22 Arg2:T47
+R21	Patient Arg1:T23 Arg2:T48
+R22	Patient Arg1:T24 Arg2:T49
+R23	Patient Arg1:T25 Arg2:T50
+R24	Patient Arg1:T26 Arg2:T51
+R26	Sequence Arg1:T17 Arg2:T16
+R27	Sequence Arg1:T0 Arg2:T24
+R28	Sequence Arg1:T1 Arg2:T8
+R29	Sequence Arg1:T2 Arg2:T13
+A0	Event T22 

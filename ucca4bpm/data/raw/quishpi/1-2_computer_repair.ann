@@ -1,0 +1,40 @@
+T17	Condition 121 171	the customer decides that the costs are acceptable
+T25	Entity 88 111	repair cost calculation
+T10	Action 420 441	checks and configures
+T13	Entity 499 519	system functionality
+T20	Entity 23 41	defective computer
+T8	Action 361 377	check and repair
+T4	Entity 220 233	computer home
+T6	Action 185 194	continues
+T18	Condition 196 205	otherwise
+T23	Action 76 85	hands out
+T9	Entity 382 390	hardware
+T11	Entity 446 454	software
+T15	Action 626 634	finished
+T19	Entity 2 10	customer
+T12	Action 523 529	tested
+T16	Entity 616 622	repair
+T22	Action 11 17	brings
+T3	Action 210 215	takes
+R0	Patient Arg1:T3 Arg2:T4
+R3	Patient Arg1:T8 Arg2:T9
+R4	Patient Arg1:T10 Arg2:T11
+R5	Patient Arg1:T12 Arg2:T13
+R6	Patient Arg1:T15 Arg2:T16
+R7	Sequence Arg1:T17 Arg2:T6
+R8	Sequence Arg1:T18 Arg2:T3
+R14	Conflict Arg1:T17 Arg2:T18
+R17	Sequence Arg1:T8 Arg2:T12
+R18	Sequence Arg1:T10 Arg2:T12
+R19	Sequence Arg1:T10 Arg2:T8
+R20	Sequence Arg1:T10 Arg2:T8
+R21	Sequence Arg1:T8 Arg2:T10
+R22	Sequence Arg1:T12 Arg2:T15
+R25	Agent Arg1:T22 Arg2:T19
+R26	Patient Arg1:T22 Arg2:T20
+R27	Patient Arg1:T23 Arg2:T25
+R28	Sequence Arg1:T22 Arg2:T23
+R29	Sequence Arg1:T23 Arg2:T17
+R30	Sequence Arg1:T23 Arg2:T18
+R31	Sequence Arg1:T6 Arg2:T8
+R32	Sequence Arg1:T6 Arg2:T10

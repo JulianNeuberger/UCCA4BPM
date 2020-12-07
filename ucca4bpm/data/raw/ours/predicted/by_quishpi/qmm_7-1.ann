@@ -1,0 +1,69 @@
+T0	Condition 1410 1418	required 
+T1	Action 18 26	includes
+T2	Action 153 161	assigned
+T3	Action 188 197	accompany
+T4	Action 332 336	used
+T5	Action 434 440	called
+T6	Action 507 516	assessing
+T7	Action 626 634	assessed
+T8	Action 698 706	contains
+T9	Action 760 765	drawn
+T10	Action 783 789	agreed
+T11	Action 824 833	qualified
+T12	Action 861 869	carrying
+T13	Action 970 974	laid
+T14	Action 1040 1050	supervised
+T15	Action 1150 1154	laid
+T16	Action 1243 1250	ensured
+T17	Action 1329 1338	depending
+T18	Action 1391 1401	documented
+T19	Action 1424 1428	used
+T20	Entity 84 103	project coordinator
+T21	Entity 674 691	yearly audit plan
+T22	Entity 834 842	auditor
+T23	Entity 1069 1091	quality representative
+T24	Entity 1254 1266	measurement
+T25	Entity 31 46	customer_centre
+T26	Entity 120 143	our outside sale staff
+T27	Entity 203 214	transaction
+T28	Entity 248 281	regular customer training course
+T29	Entity 397 430	edp-supported complaint data bank
+T30	Entity 517 538	customer satisfaction
+T31	Entity 544 615	continuous quality capacity of quality management
+T32	Entity 715 736	important information
+T33	Entity 674 691	yearly audit plan
+T34	Entity 775 779	plan
+T35	Entity 834 842	auditor
+T36	Entity 878 893	internal audit
+T37	Entity 899 920	result of audit
+T38	Entity 1004 1027	execution of corrective
+T39	Entity 1097 1138	regulation for execution of internal
+T40	Entity 1192 1239	control of quality requirement of product
+T41	Entity 1348 1360	requirement
+T42	Entity 1366 1386	result of test
+T43	Entity 1366 1386	result of test
+R0	Agent Arg1:T3 Arg2:T20
+R1	Agent Arg1:T8 Arg2:T21
+R2	Agent Arg1:T12 Arg2:T22
+R3	Agent Arg1:T14 Arg2:T23
+R4	Agent Arg1:T16 Arg2:T24
+R5	Patient Arg1:T1 Arg2:T25
+R6	Patient Arg1:T2 Arg2:T26
+R7	Patient Arg1:T3 Arg2:T27
+R8	Patient Arg1:T4 Arg2:T28
+R9	Patient Arg1:T5 Arg2:T29
+R10	Patient Arg1:T6 Arg2:T30
+R11	Patient Arg1:T7 Arg2:T31
+R12	Patient Arg1:T8 Arg2:T32
+R13	Patient Arg1:T9 Arg2:T33
+R14	Patient Arg1:T10 Arg2:T34
+R15	Patient Arg1:T11 Arg2:T35
+R16	Patient Arg1:T12 Arg2:T36
+R17	Patient Arg1:T13 Arg2:T37
+R18	Patient Arg1:T14 Arg2:T38
+R19	Patient Arg1:T15 Arg2:T39
+R20	Patient Arg1:T16 Arg2:T40
+R21	Patient Arg1:T17 Arg2:T41
+R22	Patient Arg1:T18 Arg2:T42
+R23	Patient Arg1:T19 Arg2:T42
+R29	Sequence Arg1:T0 Arg2:T19

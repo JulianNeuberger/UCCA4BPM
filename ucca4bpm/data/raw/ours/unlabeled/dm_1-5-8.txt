@@ -1,0 +1,5 @@
+The DCC shall determine whether a DCR meets the criteria for Urgent (if not already so designated by the RCC), Major or Minor.
+If the originator submitting a DCR believes it should be handled as Urgent, the RCC should be informed of that by the originator.
+If the RCC agrees, the RCC has the authority to classify it as Urgent, and the DCR will be handled in accordance with the process outlined below.
+The DCC has the authority to approve Minor DCRs.
+In the event that it is unclear as to whether a DCR falls into the Major or Minor category, the DCR shall be considered Major.

@@ -1,0 +1,18 @@
+The Procure-to-Pay (P2P) process begins when an associate of Cognizant or an authorized "Requisitioner (REQ)", decides a specific product or service is needed.
+He or she, the "Requisitioner (REQ)," is expected to make an informed purchasing decision and to use the authorized buying method, in this case the Purchase Order (P.O.), to help ensure that transactions can proceed smoothly, the correct products and services are delivered to the right place at the right time, and you, the supplier, are paid on time.
+A "Requisitioner (REQ)" (usually an associate or an authorized "Procurement BUYER (PT)" at Cognizant) officially initiates the purchase in the Company’s P2P system CAPPS (Cognizant automated procure to pay solution).
+In CAPPS system, the requisitioner creates a request for purchase, necessary to issue a P.O. in Step 3, by confirming and adding details such as sourcing and funding information, special handling instructions, and/or unique requirements for their facilities and projects.
+Cognizant formalizes its purchase of your products or services by creating and issuing a purchase order (P.O.).
+You should, therefore, never fulfill an order until you receive a P.O. (or other authorized buying Method (which is a Formal Agreement).
+Your invoice cannot be processed and paid in a timely manner without matching to a P.O. in Cognizant’s CAPPS/Catalyst system.
+The delivery of your products or services marks a transition in the P2P process from purchasing activity to Accounts Payable activity.
+In Step 4, you deliver the products or services as specified on the P.O. the Cognizant Requisitioner signs for or otherwise accepts delivery of the order, or initiates any claims or returns directly with your organization.
+This will also be formalized in the receipt system.
+Once your products or services have been received in good order, the Requisitioner will receipt the order in Cognizant’s CAPPS/ARIBA system or notify their department business POC to receipt the order in the system so that your invoice can be processed and paid in Steps 5 and 6 respectively.
+The supplier organization should generate an invoice referencing the P.O. number, specifications and information matching to the P.O, and "Bill to & Ship to" address on the P.O., and send it directly to Accounts Payable (A/P).
+When your invoice is received by A/P, it is entered into the Cognizant financial CAPPS system, matched to the corresponding P.O., and placed in a queue for payment within negotiated terms.
+Once an EDI and physical invoices are in the queue for payment, payment activities completely happen in CAPPS/Catalyst.
+A/P personnel physically do the 2-way/3-way match for invoices.
+Each day, CAPPS selects invoices eligible for payment (invoices not on rejects/hold) based on the invoice date and approved supplier payment terms.
+For invoices related to check payments or advance payments via check, thee procurement Buyer or requisitioner should raise a check request in the Cognizant CAPPS/Catalyst system and the check is produced for those invoices and is sent to the bank for further steps.
+By monitoring and resolving unnecessary process exceptions, we will be able to reduce the supplier payment issues and administrative burden on their organization as well as on Cognizant.

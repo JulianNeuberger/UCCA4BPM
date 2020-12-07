@@ -1,0 +1,3 @@
+Once a document revision has been approved, notification shall go out to all parties who have registered for notification of revisions/changes to documents.
+The DCB shall create, and the RCC shall maintain, a database of the name, affiliation, address, phone number and email address of each person who has electronically registered for such notifications.
+It is the responsibility of each equipment purchaser or user of any document to ensure that the most recent version of any document is used.

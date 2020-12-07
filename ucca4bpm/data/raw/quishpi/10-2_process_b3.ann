@@ -1,0 +1,19 @@
+T13	Entity 365 386	equipment acquisition
+T15	Condition 718 734	the MPON informs
+T16	Condition 845 861	the MPON informs
+T14	Entity 394 403	equipment
+T2	Action 957 965	confirms
+T17	Action 790 798	confirms
+T0	Action 100 107	rejects
+T1	Action 192 199	informs
+T3	Action 265 272	informs
+T4	Action 422 429	informs
+T5	Action 566 573	informs
+T8	Action 1001 1008	informs
+T9	Action 1134 1141	informs
+T10	Action 1267 1274	informs
+T11	Action 404 411	changes
+T12	Action 353 360	perform
+T18	Action 932 939	assigns
+R0	Patient Arg1:T12 Arg2:T13
+R1	Patient Arg1:T11 Arg2:T14

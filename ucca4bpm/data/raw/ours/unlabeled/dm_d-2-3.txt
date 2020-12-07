@@ -1,0 +1,2 @@
+The DCC will now forward the DCR to the appropriate Document Control Board for adjudication.
+While approval is certainly anticipated given the vetting it has had, the DCB can still vote to Reject or Approve/Approve as Amended in accordance with this procedure.

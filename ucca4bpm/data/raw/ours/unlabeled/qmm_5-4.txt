@@ -1,0 +1,9 @@
+Specified product and process characteristics are monitored.
+Faults are registered, evaluated and appropriate corrective measures implemented.
+In addition to this, the control of these faulty products is laid down in detail in procedural instructions.
+Depending upon the particular application, these processes determine where and in what form markings are affixed to the products.
+They not only include type, manufacturer’s or test markings, but also order numbers, serial numbers and the date.
+The data of all the measurement and testing equipment used during production for set testing functions is registered and it is calibrated at regular intervals.
+Similarly, to ensure a constant product quality and to maintain the capacity for use of all the relevant production installations, measures for their care and maintenance have been laid down and the implementation thereof is monitored.
+All production processes, where the results cannot be monitored by follow-up tests, are monitored separately.
+This is done by means of the static process control of all the process parameters that verify the capacity of the process to achieve the desired results.

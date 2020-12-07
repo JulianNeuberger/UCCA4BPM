@@ -1,0 +1,9 @@
+Upon receipt of a DCR from the DCC, the AWG shall begin an evaluation of the proposed change.
+The AWG may have to reach out to PRIIA Technical Working Groups, or outside agencies for assistance.
+At the end of this process, the AWG shall make a recommendation regarding the feasibility of the change requested in the DCR.
+If the AWG determines the change requested is not feasible or appropriate, it shall reject the DCR.
+At this point the DCR is returned to the DCC who will then report back to the submitter of the DCR.
+If the AWG determines that the change requested should be implemented, it shall draft suggested language for modifying the Requirements Document.
+In the case of a complex suggestion in which the system/change requires detailed implementation guidance, a draft specification—or existing specification, if available—shall be included in the information sent to the Technical Subcommittee (TSC).
+Further, all supporting documentation as developed during its evaluation, will be provided to the TSC.
+If the AWG determines it should approve the change proposed in the DCR, it shall determine if the DCR text is satisfactory.

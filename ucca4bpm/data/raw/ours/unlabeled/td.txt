@@ -1,0 +1,10 @@
+Tickets may be delivered in different ways/kinds: by certified mail, per parcel or per express mail. 
+Before the tickets can be shipped a note about the tickets' receipt and the planned shipping method (which has to be determined by an employee of the customer service) have to be recorded in the booking system. 
+The shipping method depends on, among other things, ticket kind, volume of the order (package), the planned date of departure (express) and the attachment of additional documents, e.g. passport for visas (certified mail).
+Before shipment an employee of the shipping department has to generate a cover letter. 
+It must be printed twice.
+The shipment department packs letters, packages and certified mails itself; express mailings are packed by the express service. 
+To determine the ident number for express mailings a new order has to be created via the service provider's website (shipment department). 
+The resulting order id is used as ident number and must be attached to the order.
+Afterwards the delivery is placed in the outbox (letters, packages and certified mails) or at the reception (for collection by the express service provider).
+Finally the process is recorded in the system by an employee of the invoicing department.

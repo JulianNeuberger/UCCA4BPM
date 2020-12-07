@@ -1,0 +1,12 @@
+The Engineering Document Management staff will then perform a final QA/QC on the ZIP files to insure they are correctly named.
+Once verified, the Engineering Document Management staff will copy the ZIP files into the appropriately named folder under Bidding Administration (i.e. July 2012) on the share drive.
+After copying the files into the Bidding Administration share, Engineering Document Management staff will send an email to the appropriate staff in Bidding Administration notifying them that the files are ready to be uploaded for advertisement.
+Engineering Document Management Staff will upload the ZIP files to the Web Hosting Vendors’ websites.
+An email shall be sent to the appropriate staff of each Web Hosting Vendor with the following spreadsheet filled out with the required information for their use in the upload process.
+Send one mass email to the distribution list.
+The Web Hosting Vendor will then upload all files to the web page but hold them as inactive until notified by GDOT Engineering Document Management Staff that the files can be made active.
+At the advertisement time and date, the Engineering Document Management staff will verify the projects included in the Letting using the "Notice to Contractors" on the Bidding Administration web page.
+Based on that list, the vendor will be notified to make the appropriate projects active for viewing and printing from the web.
+All Roadway Contractors requesting plan sets will go to a Web Hosting Vendor’s site and place orders online.
+After authorization is obtained for projects and they are advertised, the Print Room Supervisor is responsible for printing and delivering one half-size set of plans for each advertised project to Engineering Services.
+A new, complete, and up to date set of plans shall be submitted by the Project Manager for processing.

@@ -1,0 +1,139 @@
+T103	Condition 2976 3045	automatic resource restoration from Resource Provisioning is required
+T14	Condition 1400 1458	the problem is analyzable at the level of their department
+T15	Condition 1470 1521	the problem may be located at Resource Provisioning
+T20	Entity 1789 1838	trouble report that indicates the type of problem
+T90	Entity 1992 2039	notification about the normal service execution
+T63	Entity 3080 3122	request for automatic resource restoration
+T88	Condition 2696 2733	minor corrective actions are required
+T54	Condition 1928 1959	there are any possible problems
+T49	Entity 559 587	significance of the customer
+T58	Entity 2613 2639	actual service performance
+T61	Entity 2821 2846	problem resolution report
+T77	Entity 3792 3817	problem resolution report
+T55	Condition 1964 1988	no problems are detected
+T7	Condition 693 716	the customer is premium
+T50	Entity 1102 1125	detailed problem report
+T51	Entity 1142 1165	detailed problem report
+T53	Entity 1881 1904	detailed problem report
+T73	Entity 3568 3591	trouble-shooting report
+T75	Entity 3678 3701	trouble-shooting report
+T86	Entity 1611 1634	detailed problem report
+T101	Condition 2577 2600	no problem was detected
+T24	Condition 2055 2076	a problem is detected
+T81	Entity 4153 4173	SLA violation rebate
+T70	Entity 3392 3411	restoration request
+T60	Entity 2769 2787	corrective actions
+T72	Entity 3501 3519	corrective actions
+T46	Entity 446 462	counter measures
+T100	Entity 2423 2439	counter measures
+T93	Entity 2130 2144	trouble report
+T95	Entity 2332 2345	status report
+T10	Action 1379 1391	investigates
+T47	Entity 328 340	customer SLA
+T45	Action 467 477	determined
+T48	Action 544 554	determines
+T71	Action 3524 3534	undertaken
+T97	Action 2407 2417	determined
+T59	Action 2759 2768	undertake
+T4	Action 312 320	compared
+T21	Entity 1741 1749	analysis
+T22	Action 1868 1876	receives
+T40	Action 3705 3713	received
+T43	Action 4395 4403	receives
+T69	Action 3415 3423	received
+T76	Action 3776 3784	creation
+T80	Action 4177 4185	reported
+T91	Action 2090 2098	analyzed
+T96	Action 2313 2321	prepares
+T13	Action 1129 1136	created
+T18	Action 1729 1736	perform
+T32	Action 2850 2857	created
+T34	Action 3595 3602	created
+T41	Action 4036 4043	created
+T64	Entity 3129 3136	message
+T67	Action 3449 3456	tracked
+T89	Action 2043 2050	created
+T92	Action 2148 2155	created
+T94	Action 1912 1919	checked
+T3	Action 216 222	enters
+T19	Action 1780 1786	create
+T31	Action 3071 3077	create
+T68	Entity 3438 3444	errors
+T74	Entity 3609 3615	report
+T79	Entity 4026 4032	report
+T83	Entity 4244 4250	report
+T2	Action 129 133	sent
+T12	Action 1174 1178	sent
+T30	Action 3145 3149	sent
+T39	Action 3668 3672	ends
+T56	Action 2643 2647	sent
+T62	Action 3619 3623	sent
+T82	Action 4271 4275	sent
+T84	Action 4525 4529	ends
+T85	Action 1638 1642	sent
+T102	Action 2952 2956	ends
+R1	Patient Arg1:T4 Arg2:T47
+R2	Patient Arg1:T45 Arg2:T46
+R3	Sequence Arg1:T4 Arg2:T45
+R4	Sequence Arg1:T2 Arg2:T3
+R5	Patient Arg1:T48 Arg2:T49
+R7	Patient Arg1:T13 Arg2:T50
+R8	Sequence Arg1:T45 Arg2:T13
+R9	Sequence Arg1:T48 Arg2:T7
+R10	Patient Arg1:T12 Arg2:T51
+R11	Sequence Arg1:T13 Arg2:T12
+R13	Patient Arg1:T22 Arg2:T53
+R18	Patient Arg1:T56 Arg2:T58
+R21	Patient Arg1:T59 Arg2:T60
+R22	Sequence Arg1:T59 Arg2:T32
+R23	Patient Arg1:T32 Arg2:T61
+R25	Patient Arg1:T31 Arg2:T63
+R27	Patient Arg1:T30 Arg2:T64
+R28	Sequence Arg1:T31 Arg2:T30
+R29	Patient Arg1:T67 Arg2:T68
+R30	Sequence Arg1:T30 Arg2:T69
+R31	Patient Arg1:T69 Arg2:T70
+R32	Sequence Arg1:T69 Arg2:T67
+R33	Patient Arg1:T71 Arg2:T72
+R34	Sequence Arg1:T67 Arg2:T71
+R35	Patient Arg1:T34 Arg2:T73
+R36	Sequence Arg1:T71 Arg2:T34
+R37	Patient Arg1:T62 Arg2:T74
+R38	Sequence Arg1:T34 Arg2:T62
+R39	Patient Arg1:T40 Arg2:T75
+R40	Sequence Arg1:T62 Arg2:T40
+R41	Patient Arg1:T76 Arg2:T77
+R42	Sequence Arg1:T40 Arg2:T76
+R43	Patient Arg1:T41 Arg2:T79
+R44	Patient Arg1:T80 Arg2:T81
+R45	Sequence Arg1:T41 Arg2:T80
+R46	Sequence Arg1:T80 Arg2:T41
+R47	Patient Arg1:T82 Arg2:T83
+R48	Sequence Arg1:T80 Arg2:T82
+R49	Sequence Arg1:T41 Arg2:T82
+R50	Conflict Arg1:T43 Arg2:T84
+R51	Sequence Arg1:T82 Arg2:T43
+R52	Sequence Arg1:T14 Arg2:T18
+R53	Conflict Arg1:T14 Arg2:T15
+R54	Sequence Arg1:T18 Arg2:T19
+R55	Sequence Arg1:T19 Arg2:T22
+R56	Patient Arg1:T85 Arg2:T86
+R57	Sequence Arg1:T15 Arg2:T85
+R58	Sequence Arg1:T88 Arg2:T59
+R59	Sequence Arg1:T55 Arg2:T89
+R60	Patient Arg1:T89 Arg2:T90
+R61	Patient Arg1:T92 Arg2:T93
+R62	Sequence Arg1:T91 Arg2:T92
+R63	Sequence Arg1:T24 Arg2:T91
+R64	Conflict Arg1:T55 Arg2:T24
+R65	Sequence Arg1:T94 Arg2:T55
+R66	Sequence Arg1:T94 Arg2:T24
+R67	Patient Arg1:T96 Arg2:T95
+R68	Sequence Arg1:T92 Arg2:T96
+R70	Sequence Arg1:T96 Arg2:T97
+R72	Patient Arg1:T97 Arg2:T100
+R73	Sequence Arg1:T97 Arg2:T101
+R74	Sequence Arg1:T101 Arg2:T56
+R75	Conflict Arg1:T101 Arg2:T88
+R76	Sequence Arg1:T32 Arg2:T102
+R77	Sequence Arg1:T103 Arg2:T31

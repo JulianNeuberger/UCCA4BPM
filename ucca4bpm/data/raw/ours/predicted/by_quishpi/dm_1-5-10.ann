@@ -1,0 +1,127 @@
+T0	Condition 545 582	the DCR affects two or more subgroups 
+T1	Condition 903 918	reject each DCR 
+T2	Condition 1049 1095	a DCR is rejected at any point in this process 
+T3	Action 15 20	sends
+T4	Action 41 50	informing
+T5	Action 129 136	handled
+T6	Action 158 163	enter
+T7	Action 269 275	notify
+T8	Action 341 349	received
+T9	Action 354 358	sent
+T10	Action 597 603	select
+T11	Action 692 702	coordinate
+T12	Action 780 786	review
+T13	Action 800 804	make
+T14	Action 942 955	dispositioned
+T15	Action 989 997	returned
+T16	Action 1110 1116	return
+T17	Action 1203 1211	approved
+T18	Action 1215 1223	approved
+T19	Action 1342 1348	review
+T20	Action 1361 1367	return
+T21	Action 1416 1425	determine
+T22	Action 1530 1539	determine
+T23	Action 1629 1636	keeping
+T24	Action 1688 1697	determine
+T25	Action 1741 1749	approved
+T26	Action 1754 1764	determined
+T27	Action 1855 1859	vote
+T28	Action 1985 1991	follow
+T29	Action 2006 2012	notify
+T30	Action 2050 2058	approved
+T31	Action 2064 2070	return
+T32	Action 2143 2150	wording
+T33	Action 2186 2194	approved
+T34	Action 2273 2285	incorporated
+T35	Action 2397 2405	forwards
+T36	Action 2522 2530	included
+T37	Entity 4 14	originator
+T38	Entity 148 151	rcc
+T40	Entity 588 591	dcc
+T41	Entity 772 771	s technical_subgroup
+T42	Entity 963 981	technical_subgroup
+T43	Entity 1303 1309	group
+T44	Entity 1387 1409	technical_subcommittee
+T45	Entity 1668 1681	panel member
+T46	Entity 1874 1879	email
+T49	Entity 25 28	dcr
+T50	Entity 55 63	rcc that
+T51	Entity 140 146	urgent
+T52	Entity 168 171	dcr
+T53	Entity 280 295	executive_board
+T54	Entity 321 331	urgent_dcr
+T55	Entity 321 331	urgent_dcr
+T56	Entity 613 650	appropriate technical_subgroup leader
+T57	Entity 707 728	dcr review with other
+T58	Entity 791 795	dcrs
+T59	Entity 807 821	recommendation
+T60	Entity 929 932	dcr
+T61	Entity 983 985	it
+T62	Entity 1101 1104	rcc
+T63	Entity 1229 1238	amendment
+T64	Entity 1353 1356	dcr
+T65	Entity 1368 1370	it
+T66	Entity 1642 1666	other priia requirement
+T67	Entity 1780 1783	rcc
+T68	Entity 1765 1774	compliant
+T69	Entity 1867 1870	dcr
+T70	Entity 1944 1959	executive_board
+T71	Entity 2017 2032	originator that
+T72	Entity 2037 2040	dcr
+T73	Entity 2075 2078	dcr
+T74	Entity 2158 2161	dcr
+T75	Entity 2195 2203	document
+T76	Entity 2262 2264	it
+T77	Entity 2406 2408	it
+T78	Entity 2538 2560	next periodic revision
+R0	Agent Arg1:T3 Arg2:T37
+R1	Agent Arg1:T6 Arg2:T38
+R2	Agent Arg1:T7 Arg2:T38
+R3	Agent Arg1:T10 Arg2:T40
+R4	Agent Arg1:T12 Arg2:T41
+R5	Agent Arg1:T14 Arg2:T42
+R6	Agent Arg1:T19 Arg2:T43
+R7	Agent Arg1:T21 Arg2:T44
+R8	Agent Arg1:T24 Arg2:T45
+R9	Agent Arg1:T27 Arg2:T46
+R10	Agent Arg1:T29 Arg2:T38
+R11	Agent Arg1:T35 Arg2:T38
+R12	Patient Arg1:T3 Arg2:T49
+R13	Patient Arg1:T4 Arg2:T50
+R14	Patient Arg1:T5 Arg2:T51
+R15	Patient Arg1:T6 Arg2:T52
+R16	Patient Arg1:T7 Arg2:T53
+R17	Patient Arg1:T8 Arg2:T54
+R18	Patient Arg1:T9 Arg2:T54
+R19	Patient Arg1:T10 Arg2:T56
+R20	Patient Arg1:T11 Arg2:T57
+R21	Patient Arg1:T12 Arg2:T58
+R22	Patient Arg1:T13 Arg2:T59
+R23	Patient Arg1:T14 Arg2:T60
+R24	Patient Arg1:T15 Arg2:T61
+R25	Patient Arg1:T16 Arg2:T62
+R26	Patient Arg1:T18 Arg2:T63
+R27	Patient Arg1:T19 Arg2:T64
+R28	Patient Arg1:T20 Arg2:T65
+R29	Patient Arg1:T23 Arg2:T66
+R30	Patient Arg1:T25 Arg2:T67
+R31	Patient Arg1:T26 Arg2:T68
+R32	Patient Arg1:T27 Arg2:T69
+R33	Patient Arg1:T28 Arg2:T70
+R34	Patient Arg1:T29 Arg2:T71
+R35	Patient Arg1:T30 Arg2:T72
+R36	Patient Arg1:T31 Arg2:T73
+R37	Patient Arg1:T32 Arg2:T74
+R38	Patient Arg1:T33 Arg2:T75
+R39	Patient Arg1:T34 Arg2:T76
+R40	Patient Arg1:T35 Arg2:T77
+R41	Patient Arg1:T36 Arg2:T78
+R54	Sequence Arg1:T7 Arg2:T8
+R55	Sequence Arg1:T8 Arg2:T9
+R56	Sequence Arg1:T0 Arg2:T10
+R57	Sequence Arg1:T12 Arg2:T13
+R58	Sequence Arg1:T13 Arg2:T1
+R59	Sequence Arg1:T19 Arg2:T20
+R60	Sequence Arg1:T25 Arg2:T26
+R61	Sequence Arg1:T29 Arg2:T31
+R62	Sequence Arg1:T2 Arg2:T16

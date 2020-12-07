@@ -1,0 +1,305 @@
+T0	Condition 959 966	approve 
+T1	Condition 970 974	deny 
+T2	Condition 3618 3643	all products are on store 
+T3	Condition 4406 4446	the requested amount is greater than 1M_$ 
+T4	Condition 5153 5204	it takes the supervisor more than 7 days to respond 
+T5	Condition 332 352	an error is detected 
+T6	Condition 606 635	the claim is marked as Not_OK 
+T7	Condition 714 767	the claim is OK , the claim handling process proceeds . 
+T8	Condition 982 994	it is denied 
+T9	Condition 1086 1109	the request is approved 
+T10	Condition 1271 1292	it is approved or not 
+T11	Condition 1704 1747	the management does not approve the request 
+T12	Condition 1909 1927	the customer needs 
+T13	Condition 2294 2317	the request is rejected 
+T14	Condition 2344 2381	the request is asked to make a change 
+T15	Condition 2476 2499	the request is approved 
+T16	Condition 3108 3131	the request is rejected 
+T17	Condition 3228 3251	the request is approved 
+T18	Condition 3422 3442	something is missing 
+T19	Condition 3960 4016	the storehouse has successfully reserved or back-ordered 
+T20	Condition 4747 4792	this check does not take place within 28 days 
+T21	Action 18 25	related
+T22	Action 207 215	analyzes
+T23	Action 231 236	gives
+T24	Action 321 327	tested
+T25	Action 425 433	finished
+T26	Action 452 462	registered
+T27	Action 470 478	examined
+T28	Action 528 535	checked
+T29	Action 571 575	mark
+T30	Action 643 647	sent
+T31	Action 783 789	buying
+T32	Action 928 935	analyse
+T33	Action 1012 1020	informed
+T34	Action 1116 1122	edited
+T35	Action 1127 1136	completed
+T36	Action 1157 1165	received
+T37	Action 1177 1183	filled
+T38	Action 1191 1195	sent
+T39	Action 1235 1243	analyses
+T40	Action 1307 1315	accepted
+T41	Action 1348 1353	found
+T42	Action 1371 1379	received
+T43	Action 1444 1448	take
+T44	Action 1543 1550	approve
+T45	Action 1571 1575	send
+T46	Action 1667 1674	editing
+T47	Action 1679 1689	completing
+T48	Action 1771 1775	deny
+T49	Action 1831 1839	approval
+T50	Action 1858 1867	receiving
+T51	Action 2002 2006	sent
+T52	Action 2121 2128	submits
+T53	Action 2179 2189	registered
+T54	Action 2206 2214	received
+T55	Action 2394 2402	returned
+T56	Action 2509 2511	go
+T57	Action 2643 2651	selected
+T58	Action 2656 2665	confirmed
+T59	Action 2696 2700	send
+T60	Action 2722 2726	wait
+T61	Action 2806 2814	approval
+T62	Action 2861 2865	send
+T63	Action 2948 2955	submits
+T64	Action 3000 3010	registered
+T65	Action 3027 3035	received
+T66	Action 3152 3160	returned
+T67	Action 3271 3280	generated
+T68	Action 3398 3407	reviewing
+T69	Action 3461 3467	inform
+T70	Action 3539 3546	waiting
+T71	Action 3665 3672	informs
+T72	Action 3788 3796	delivers
+T73	Action 3821 3827	update
+T74	Action 3903 3911	receives
+T75	Action 3948 3955	created
+T76	Action 4115 4124	assembles
+T77	Action 4209 4217	finishes
+T78	Action 4302 4308	assess
+T79	Action 4381 4389	accepted
+T80	Action 4393 4401	rejected
+T81	Action 4468 4477	requested
+T82	Action 4541 4547	assess
+T83	Action 4595 4600	files
+T84	Action 4671 4679	received
+T85	Action 4692 4701	performed
+T86	Action 4837 4841	sent
+T87	Action 5069 5077	receives
+T88	Action 5218 5222	sent
+T89	Entity 484 498	claim officer
+T90	Entity 541 562	senior claim officer
+T91	Entity 1219 1229	management
+T92	Entity 1387 1400	it department
+T93	Entity 1418 1438	financial department
+T97	Entity 1826 1847	loan approval process
+T98	Entity 2092 2120	employee of organization
+T99	Entity 2222 2258	immediate supervisor of employee
+T100	Entity 2671 2677	system
+T103	Entity 3448 3453	staff
+T104	Entity 3649 3664	courier company
+T105	Entity 3781 3787	driver
+T110	Entity 2250 2258	employee
+T113	Entity 735 740	claim
+T115	Entity 2348 2355	request
+T116	Entity 4683 4688	check
+T117	Entity 4 17	police_report
+T118	Entity 220 226	defect
+T119	Entity 245 252	invoice
+T120	Entity 290 317	proper system functionality
+T121	Entity 415 421	repair
+T122	Entity 443 448	claim
+T123	Entity 464 466	it
+T124	Entity 505 519	recommendation
+T125	Entity 580 585	claim
+T126	Entity 637 639	it
+T127	Entity 790 802	new hardware
+T128	Entity 940 947	request
+T129	Entity 1000 1008	employee
+T130	Entity 1110 1112	it
+T131	Entity 1110 1112	it
+T132	Entity 1148 1153	offer
+T133	Entity 1148 1153	offer
+T134	Entity 1169 1173	form
+T135	Entity 1248 1255	request
+T136	Entity 1324 1343	financial resource
+T137	Entity 1324 1343	financial resource
+T138	Entity 1359 1367	hardware
+T139	Entity 1449 1453	care
+T140	Entity 1555 1562	request
+T141	Entity 1580 1587	request
+T142	Entity 1692 1699	request
+T143	Entity 1692 1699	request
+T144	Entity 1780 1787	request
+T145	Entity 1826 1830	loan
+T146	Entity 1870 1897	customer request for loan
+T147	Entity 1991 1998	request
+T148	Entity 2132 2153	office supply request
+T149	Entity 2164 2175	requirement
+T150	Entity 2195 2202	request
+T151	Entity 2388 2390	it
+T152	Entity 2501 2503	it
+T153	Entity 2633 2639	vendor
+T154	Entity 2633 2639	vendor
+T155	Entity 2703 2717	purchase order
+T156	Entity 2671 2677	system
+T157	Entity 2816 2804	rejection approval case
+T158	Entity 2870 2874	user
+T159	Entity 2958 2974	vacation request
+T160	Entity 2985 2996	requirement
+T161	Entity 3016 3023	request
+T162	Entity 3137 3148	application
+T163	Entity 3255 3267	notification
+T164	Entity 3412 3417	order
+T165	Entity 3468 3494	customer about potential
+T166	Entity 3550 3562	average of x
+T167	Entity 3677 3701	client about potential
+T168	Entity 3801 3808	package
+T169	Entity 3832 3838	system
+T170	Entity 3915 3920	order
+T171	Entity 3915 3920	order
+T172	Entity 4129 4136	bicycle
+T173	Entity 4222 4238	process instance
+T174	Entity 4313 4331	risk of credit
+T175	Entity 4365 4371	credit
+T176	Entity 4365 4371	credit
+T177	Entity 4451 4459	approval
+T178	Entity 4552 4570	risk of credit
+T179	Entity 4604 4618	expense report
+T180	Entity 4653 4667	expense report
+T181	Entity 4683 4688	check
+T182	Entity 4851 4856	email
+T183	Entity 5080 5092	notification
+T184	Entity 5209 5214	email
+R0	Agent Arg1:T27 Arg2:T89
+R1	Agent Arg1:T28 Arg2:T90
+R2	Agent Arg1:T39 Arg2:T91
+R3	Agent Arg1:T42 Arg2:T92
+R4	Agent Arg1:T43 Arg2:T93
+R5	Agent Arg1:T44 Arg2:T91
+R6	Agent Arg1:T46 Arg2:T93
+R7	Agent Arg1:T47 Arg2:T93
+R8	Agent Arg1:T50 Arg2:T97
+R9	Agent Arg1:T52 Arg2:T98
+R10	Agent Arg1:T54 Arg2:T99
+R11	Agent Arg1:T59 Arg2:T100
+R12	Agent Arg1:T62 Arg2:T100
+R13	Agent Arg1:T68 Arg2:T97
+R14	Agent Arg1:T69 Arg2:T103
+R15	Agent Arg1:T71 Arg2:T104
+R16	Agent Arg1:T72 Arg2:T105
+R17	Agent Arg1:T74 Arg2:T93
+R18	Agent Arg1:T76 Arg2:T93
+R19	Agent Arg1:T78 Arg2:T104
+R20	Agent Arg1:T82 Arg2:T104
+R21	Agent Arg1:T83 Arg2:T110
+R22	Agent Arg1:T86 Arg2:T110
+R23	Agent Arg1:T87 Arg2:T110
+R24	Patient Arg1:T21 Arg2:T117
+R25	Patient Arg1:T22 Arg2:T118
+R26	Patient Arg1:T23 Arg2:T119
+R27	Patient Arg1:T24 Arg2:T120
+R28	Patient Arg1:T25 Arg2:T121
+R29	Patient Arg1:T26 Arg2:T122
+R30	Patient Arg1:T27 Arg2:T123
+R31	Patient Arg1:T28 Arg2:T124
+R32	Patient Arg1:T29 Arg2:T125
+R33	Patient Arg1:T30 Arg2:T126
+R34	Patient Arg1:T31 Arg2:T127
+R35	Patient Arg1:T32 Arg2:T128
+R36	Patient Arg1:T33 Arg2:T129
+R37	Patient Arg1:T34 Arg2:T130
+R38	Patient Arg1:T35 Arg2:T130
+R39	Patient Arg1:T36 Arg2:T132
+R40	Patient Arg1:T37 Arg2:T132
+R41	Patient Arg1:T38 Arg2:T134
+R42	Patient Arg1:T39 Arg2:T135
+R43	Patient Arg1:T40 Arg2:T136
+R44	Patient Arg1:T41 Arg2:T136
+R45	Patient Arg1:T42 Arg2:T138
+R46	Patient Arg1:T43 Arg2:T139
+R47	Patient Arg1:T44 Arg2:T140
+R48	Patient Arg1:T45 Arg2:T141
+R49	Patient Arg1:T46 Arg2:T142
+R50	Patient Arg1:T47 Arg2:T142
+R51	Patient Arg1:T48 Arg2:T144
+R52	Patient Arg1:T49 Arg2:T145
+R53	Patient Arg1:T50 Arg2:T146
+R54	Patient Arg1:T51 Arg2:T147
+R55	Patient Arg1:T52 Arg2:T148
+R56	Patient Arg1:T53 Arg2:T149
+R57	Patient Arg1:T54 Arg2:T150
+R58	Patient Arg1:T55 Arg2:T151
+R59	Patient Arg1:T56 Arg2:T152
+R60	Patient Arg1:T57 Arg2:T153
+R61	Patient Arg1:T58 Arg2:T153
+R62	Patient Arg1:T59 Arg2:T155
+R63	Patient Arg1:T60 Arg2:T156
+R64	Patient Arg1:T61 Arg2:T157
+R65	Patient Arg1:T62 Arg2:T158
+R66	Patient Arg1:T63 Arg2:T159
+R67	Patient Arg1:T64 Arg2:T160
+R68	Patient Arg1:T65 Arg2:T161
+R69	Patient Arg1:T66 Arg2:T162
+R70	Patient Arg1:T67 Arg2:T163
+R71	Patient Arg1:T68 Arg2:T164
+R72	Patient Arg1:T69 Arg2:T165
+R73	Patient Arg1:T70 Arg2:T166
+R74	Patient Arg1:T71 Arg2:T167
+R75	Patient Arg1:T72 Arg2:T168
+R76	Patient Arg1:T73 Arg2:T169
+R77	Patient Arg1:T74 Arg2:T170
+R78	Patient Arg1:T75 Arg2:T170
+R79	Patient Arg1:T76 Arg2:T172
+R80	Patient Arg1:T77 Arg2:T173
+R81	Patient Arg1:T78 Arg2:T174
+R82	Patient Arg1:T79 Arg2:T175
+R83	Patient Arg1:T80 Arg2:T175
+R84	Patient Arg1:T81 Arg2:T177
+R85	Patient Arg1:T82 Arg2:T178
+R86	Patient Arg1:T83 Arg2:T179
+R87	Patient Arg1:T84 Arg2:T180
+R88	Patient Arg1:T85 Arg2:T181
+R89	Patient Arg1:T86 Arg2:T182
+R90	Patient Arg1:T87 Arg2:T183
+R91	Patient Arg1:T88 Arg2:T184
+R116	Sequence Arg1:T22 Arg2:T23
+R117	Sequence Arg1:T26 Arg2:T27
+R118	Sequence Arg1:T32 Arg2:T0
+R119	Sequence Arg1:T32 Arg2:T1
+R120	Sequence Arg1:T34 Arg2:T35
+R121	Sequence Arg1:T37 Arg2:T38
+R122	Sequence Arg1:T39 Arg2:T10
+R123	Sequence Arg1:T40 Arg2:T41
+R124	Sequence Arg1:T45 Arg2:T46
+R125	Sequence Arg1:T46 Arg2:T47
+R126	Sequence Arg1:T53 Arg2:T54
+R127	Sequence Arg1:T57 Arg2:T58
+R128	Sequence Arg1:T59 Arg2:T60
+R129	Sequence Arg1:T64 Arg2:T65
+R130	Sequence Arg1:T72 Arg2:T73
+R131	Sequence Arg1:T76 Arg2:T19
+R132	Sequence Arg1:T3 Arg2:T81
+R133	Sequence Arg1:T84 Arg2:T85
+R134	Sequence Arg1:T4 Arg2:T88
+R135	Sequence Arg1:T5 Arg2:T25
+R136	Sequence Arg1:T6 Arg2:T30
+R137	Sequence Arg1:T8 Arg2:T33
+R138	Sequence Arg1:T9 Arg2:T34
+R139	Sequence Arg1:T12 Arg2:T51
+R140	Sequence Arg1:T14 Arg2:T55
+R141	Sequence Arg1:T15 Arg2:T56
+R142	Sequence Arg1:T16 Arg2:T66
+R143	Sequence Arg1:T17 Arg2:T67
+R144	Sequence Arg1:T18 Arg2:T69
+R145	Sequence Arg1:T19 Arg2:T76
+R262	Conflict Arg1:T0 Arg2:T1
+A0	Event T40 
+A1	Event T52 
+A2	Event T53 
+A3	Event T63 
+A4	Event T64 
+A5	Event T72 
+A6	Event T74 
+A7	Event T83 
+A8	Event T84 

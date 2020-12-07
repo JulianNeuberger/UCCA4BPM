@@ -1,0 +1,28 @@
+T6	Entity 234 258	to the intended location
+T2	Condition 141 163	some files are missing
+T14	Entity 412 431	directions hearings
+T15	Entity 342 356	Judges Lawlist
+T12	Action 360 371	distributed
+T3	Action 177 186	initiated
+T13	Action 436 445	conducted
+T5	Action 226 233	tracked
+T7	Action 66 73	checked
+T4	Entity 167 173	search
+T10	Action 300 306	handed
+T8	Entity 18 23	files
+T11	Entity 273 278	files
+R1	Sequence Arg1:T2 Arg2:T3
+R2	Patient Arg1:T3 Arg2:T4
+R4	Patient Arg1:T5 Arg2:T6
+R5	Sequence Arg1:T3 Arg2:T5
+R6	Patient Arg1:T7 Arg2:T8
+R7	Patient Arg1:T10 Arg2:T11
+R8	Patient Arg1:T13 Arg2:T14
+R9	Patient Arg1:T12 Arg2:T15
+R12	Sequence Arg1:T7 Arg2:T2
+R14	Sequence Arg1:T5 Arg2:T10
+R15	Sequence Arg1:T5 Arg2:T12
+R16	Sequence Arg1:T12 Arg2:T10
+R17	Sequence Arg1:T10 Arg2:T12
+R18	Sequence Arg1:T10 Arg2:T13
+R19	Sequence Arg1:T12 Arg2:T13

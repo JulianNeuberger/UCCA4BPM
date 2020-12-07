@@ -1,0 +1,25 @@
+T0	Condition 246 344	the customer sends back the completed offer documents and attaches all prerequisite documents then 
+T1	Condition 102 158	the customer calls or writes back declining the mortgage 
+T2	Condition 401 445	all pre-requisite documents are not provided 
+T3	Condition 523 558	no answer is received after 2 weeks 
+T4	Action 36 41	sends
+T5	Action 181 188	updated
+T6	Action 210 218	archived
+T7	Action 459 468	generated
+T8	Action 581 588	updated
+T9	Entity 4 35	customer_service_representative
+T10	Entity 106 114	customer
+T12	Entity 44 96	mortgage offer for reply
+T13	Entity 164 176	case detail
+T14	Entity 197 201	work
+T15	Entity 448 455	message
+T16	Entity 564 576	case detail
+R0	Agent Arg1:T4 Arg2:T9
+R1	Patient Arg1:T4 Arg2:T12
+R2	Patient Arg1:T5 Arg2:T13
+R3	Patient Arg1:T6 Arg2:T14
+R4	Patient Arg1:T7 Arg2:T15
+R5	Patient Arg1:T8 Arg2:T16
+R7	Sequence Arg1:T1 Arg2:T5
+R8	Sequence Arg1:T2 Arg2:T7
+R9	Sequence Arg1:T3 Arg2:T8

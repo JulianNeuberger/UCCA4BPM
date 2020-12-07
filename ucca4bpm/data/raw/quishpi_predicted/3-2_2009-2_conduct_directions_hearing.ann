@@ -1,0 +1,24 @@
+T0	Condition 142 164	some files are missing 
+T1	Condition 189 198	otherwise
+T2	Action 45 54	processed
+T3	Action 66 73	checked
+T4	Action 78 82	make
+T5	Action 227 234	tracked
+T6	Action 362 373	distributed
+T7	Action 439 448	conducted
+T8	Entity 18 23	file
+T9	Entity 18 23	file
+T10	Entity 55 59	need
+T11	Entity 83 87	sure
+T12	Entity 203 208	file
+T13	Entity 344 358	judges_lawlist
+T14	Entity 415 434	direction hearing
+R0	Agent Arg1:T4 Arg2:T8
+R1	Patient Arg1:T2 Arg2:T9
+R2	Patient Arg1:T3 Arg2:T10
+R3	Patient Arg1:T4 Arg2:T11
+R4	Patient Arg1:T5 Arg2:T12
+R5	Patient Arg1:T6 Arg2:T13
+R6	Patient Arg1:T7 Arg2:T14
+R8	Sequence Arg1:T0 Arg2:T5
+R9	Sequence Arg1:T1 Arg2:T0

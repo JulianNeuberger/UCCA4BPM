@@ -1,0 +1,21 @@
+T0	Condition 32 109	a DCR meets the criteria for Urgent ( if_not already so designated by the RCC ) 
+T1	Condition 498 542	a DCR falls into the Major or Minor category 
+T2	Condition 130 201	the originator submitting a DCR believes it should be handled as Urgent 
+T3	Condition 260 401	the RCC agrees , the RCC has the authority to classify it as Urgent , and the DCR will be handled in accordance with the process outlined below 
+T4	Action 14 23	determine
+T5	Action 221 229	informed
+T6	Action 432 439	approve
+T7	Action 561 571	considered
+T8	Entity 4 7	dcc
+T9	Entity 34 37	dcr
+T10	Entity 134 144	originator
+T11	Entity 280 283	rcc
+T12	Entity 207 210	rcc
+T13	Entity 440 450	minor_dcrs
+T14	Entity 548 551	dcr
+R0	Agent Arg1:T4 Arg2:T8
+R1	Patient Arg1:T5 Arg2:T12
+R2	Patient Arg1:T6 Arg2:T13
+R3	Patient Arg1:T7 Arg2:T14
+R5	Sequence Arg1:T4 Arg2:T0
+R6	Sequence Arg1:T2 Arg2:T5

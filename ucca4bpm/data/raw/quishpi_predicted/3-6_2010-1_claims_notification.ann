@@ -1,0 +1,44 @@
+T0	Condition 378 416	the forms provide all relevant details 
+T1	Condition 54 97	the claimant is insured by the organization 
+T2	Condition 167 176	otherwise
+T3	Condition 520 529	otherwise
+T4	Action 16 24	received
+T5	Action 38 45	checked
+T6	Action 124 132	informed
+T7	Action 207 216	evaluated
+T8	Action 287 291	sent
+T9	Action 329 337	returned
+T10	Action 348 355	checked
+T11	Action 431 441	registered
+T12	Action 547 555	informed
+T13	Action 624 631	checked
+T14	Entity 382 387	form
+T15	Entity 85 97	organization
+T16	Entity 26 28	it
+T17	Entity 26 28	it
+T18	Entity 112 120	claimant
+T19	Entity 182 203	severity of claim
+T20	Entity 268 282	relevant form
+T21	Entity 319 324	form
+T22	Entity 339 343	they
+T23	Entity 422 427	claim
+T24	Entity 535 543	claimant
+T25	Entity 615 619	they
+R0	Patient Arg1:T4 Arg2:T16
+R1	Patient Arg1:T5 Arg2:T16
+R2	Patient Arg1:T6 Arg2:T18
+R3	Patient Arg1:T7 Arg2:T19
+R4	Patient Arg1:T8 Arg2:T20
+R5	Patient Arg1:T9 Arg2:T21
+R6	Patient Arg1:T10 Arg2:T22
+R7	Patient Arg1:T11 Arg2:T23
+R8	Patient Arg1:T12 Arg2:T24
+R9	Patient Arg1:T13 Arg2:T25
+R10	Sequence Arg1:T4 Arg2:T5
+R11	Sequence Arg1:T5 Arg2:T1
+R12	Sequence Arg1:T9 Arg2:T10
+R13	Sequence Arg1:T0 Arg2:T11
+R14	Sequence Arg1:T2 Arg2:T7
+R15	Sequence Arg1:T3 Arg2:T12
+A0	Event T4 
+A1	Event T9 

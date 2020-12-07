@@ -1,0 +1,171 @@
+T0	Condition 1411 1469	the problem is analyzable at the level of their department 
+T1	Condition 1689 1735	Service_Management is sure they can analyze it 
+T2	Condition 1942 1973	there are any possible problems 
+T3	Condition 3877 3909	Customer Service either receives 
+T4	Condition 1481 1532	the problem may be located at Resource_Provisioning 
+T5	Condition 1979 2003	no problems are detected 
+T6	Condition 2071 2092	a problem is detected 
+T7	Condition 988 997	otherwise
+T8	Condition 3353 3362	otherwise
+T9	Action 130 134	sent
+T10	Action 315 323	compared
+T11	Action 471 481	determined
+T12	Action 549 559	determines
+T13	Action 628 637	collected
+T14	Action 881 887	affect
+T15	Action 1022 1028	taking
+T16	Action 1137 1144	created
+T17	Action 1183 1187	sent
+T18	Action 1332 1341	receiving
+T19	Action 1562 1570	assesses
+T20	Action 1742 1749	perform
+T21	Action 1793 1799	create
+T22	Action 1882 1890	receives
+T23	Action 1926 1933	checked
+T24	Action 2058 2065	created
+T25	Action 2164 2171	created
+T26	Action 2241 2249	included
+T27	Action 2331 2339	prepares
+T28	Action 2469 2474	taken
+T29	Action 2572 2577	taken
+T30	Action 2613 2621	detected
+T31	Action 2664 2668	sent
+T32	Action 2747 2755	required
+T33	Action 2781 2790	undertake
+T34	Action 2873 2880	created
+T35	Action 2976 2980	ends
+T36	Action 3062 3070	required
+T37	Action 3096 3102	create
+T38	Action 3171 3175	sent
+T39	Action 3246 3253	waiting
+T40	Action 3343 3347	sent
+T41	Action 3443 3451	received
+T42	Action 3477 3484	tracked
+T43	Action 3553 3563	undertaken
+T44	Action 3625 3632	created
+T45	Action 3649 3653	sent
+T46	Action 3736 3744	received
+T47	Action 3788 3792	goes
+T48	Action 4038 4047	triggered
+T49	Action 4069 4076	created
+T50	Action 4210 4218	reported
+T51	Action 4305 4309	sent
+T52	Action 4354 4363	completed
+T53	Action 4431 4439	receives
+T54	Action 4561 4565	ends
+T55	Entity 525 543	electronic service
+T56	Entity 848 868	certain significance
+T57	Entity 1371 1389	service management
+T58	Entity 1543 1561	service_management
+T63	Entity 3877 3893	customer service
+T64	Entity 21 29	customer
+T65	Entity 85 110	list with problem
+T66	Entity 297 311	problem report
+T67	Entity 440 466	necessary counter measure
+T68	Entity 564 592	significance of customer
+T69	Entity 602 613	information
+T70	Entity 892 899	counter
+T71	Entity 1042 1053	information
+T72	Entity 1119 1133	problem report
+T73	Entity 1160 1174	problem report
+T74	Entity 1355 1369	problem report
+T75	Entity 1575 1582	problem
+T76	Entity 1754 1762	analysis
+T77	Entity 1780 1787	outcome
+T78	Entity 1904 1918	problem report
+T79	Entity 1920 1922	it
+T80	Entity 2007 2044	notification about normal service
+T81	Entity 2146 2160	trouble report
+T82	Entity 2181 2195	trouble report
+T83	Entity 2344 2363	final status report
+T84	Entity 2450 2458	measure
+T85	Entity 2533 2564	3 alternative process path
+T86	Entity 2601 2608	problem
+T87	Entity 2634 2660	actual service performance
+T88	Entity 2718 2742	minor corrective action
+T89	Entity 2791 2809	corrective action
+T90	Entity 2844 2869	problem resolution report
+T91	Entity 2941 2975	process path of service_management
+T92	Entity 3001 3058	automatic resource restoration from resource_provisioning
+T93	Entity 3105 3135	request for automatic resource
+T94	Entity 3155 3162	message
+T95	Entity 3260 3279	restoration request
+T96	Entity 3325 3338	status report
+T97	Entity 3420 3439	restoration request
+T98	Entity 3457 3472	possible error
+T99	Entity 3520 3548	necessary corrective action
+T100	Entity 3598 3621	trouble-shooting report
+T101	Entity 3639 3645	report
+T102	Entity 3709 3732	trouble-shooting report
+T103	Entity 3776 3787	information
+T104	Entity 4008 4033	2 concurrent activity
+T105	Entity 4059 4065	report
+T106	Entity 4186 4206	sla violation rebate
+T107	Entity 4278 4301	report for customer
+T108	Entity 4333 4349	3 activity
+T109	Entity 4444 4464	report about service
+T110	Entity 4527 4555	process flow at customer
+R0	Agent Arg1:T12 Arg2:T55
+R1	Agent Arg1:T14 Arg2:T56
+R2	Agent Arg1:T18 Arg2:T57
+R3	Agent Arg1:T19 Arg2:T58
+R4	Agent Arg1:T27 Arg2:T58
+R5	Agent Arg1:T33 Arg2:T58
+R6	Agent Arg1:T37 Arg2:T58
+R7	Agent Arg1:T53 Arg2:T64
+R8	Patient Arg1:T9 Arg2:T65
+R9	Patient Arg1:T10 Arg2:T66
+R10	Patient Arg1:T11 Arg2:T67
+R11	Patient Arg1:T12 Arg2:T68
+R12	Patient Arg1:T13 Arg2:T69
+R13	Patient Arg1:T14 Arg2:T70
+R14	Patient Arg1:T15 Arg2:T71
+R15	Patient Arg1:T16 Arg2:T72
+R16	Patient Arg1:T17 Arg2:T73
+R17	Patient Arg1:T18 Arg2:T74
+R18	Patient Arg1:T19 Arg2:T75
+R19	Patient Arg1:T20 Arg2:T76
+R20	Patient Arg1:T21 Arg2:T77
+R21	Patient Arg1:T22 Arg2:T78
+R22	Patient Arg1:T23 Arg2:T79
+R23	Patient Arg1:T24 Arg2:T80
+R24	Patient Arg1:T25 Arg2:T81
+R25	Patient Arg1:T26 Arg2:T82
+R26	Patient Arg1:T27 Arg2:T83
+R27	Patient Arg1:T28 Arg2:T84
+R28	Patient Arg1:T29 Arg2:T85
+R29	Patient Arg1:T30 Arg2:T86
+R30	Patient Arg1:T31 Arg2:T87
+R31	Patient Arg1:T32 Arg2:T88
+R32	Patient Arg1:T33 Arg2:T89
+R33	Patient Arg1:T34 Arg2:T90
+R34	Patient Arg1:T35 Arg2:T91
+R35	Patient Arg1:T36 Arg2:T92
+R36	Patient Arg1:T37 Arg2:T93
+R37	Patient Arg1:T38 Arg2:T94
+R38	Patient Arg1:T39 Arg2:T95
+R39	Patient Arg1:T40 Arg2:T96
+R40	Patient Arg1:T41 Arg2:T97
+R41	Patient Arg1:T42 Arg2:T98
+R42	Patient Arg1:T43 Arg2:T99
+R43	Patient Arg1:T44 Arg2:T100
+R44	Patient Arg1:T45 Arg2:T101
+R45	Patient Arg1:T46 Arg2:T102
+R46	Patient Arg1:T47 Arg2:T103
+R47	Patient Arg1:T48 Arg2:T104
+R48	Patient Arg1:T49 Arg2:T105
+R49	Patient Arg1:T50 Arg2:T106
+R50	Patient Arg1:T51 Arg2:T107
+R51	Patient Arg1:T52 Arg2:T108
+R52	Patient Arg1:T53 Arg2:T109
+R53	Patient Arg1:T54 Arg2:T110
+R62	Sequence Arg1:T1 Arg2:T20
+R63	Sequence Arg1:T22 Arg2:T23
+R64	Sequence Arg1:T23 Arg2:T2
+R65	Sequence Arg1:T41 Arg2:T42
+R66	Sequence Arg1:T46 Arg2:T47
+R67	Sequence Arg1:T53 Arg2:T54
+R68	Sequence Arg1:T5 Arg2:T24
+R69	Sequence Arg1:T8 Arg2:T40
+R132	Conflict Arg1:T0 Arg2:T4
+R133	Conflict Arg1:T0 Arg2:T4

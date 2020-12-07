@@ -1,0 +1,4 @@
+The RCC will be responsible for preparing change summaries and submitting them to the TSC according to a schedule which will provide adequate time for the final review of changes for a document prior to a NGEC Executive Board meeting.
+Once the change summary and final review process has begun for a specific revision level of a specific document, no further DCRs will be accepted for that DCR compilation.
+DCRs submitted after the final review process has begun for a specific revision level, will be held by the RCC until the review and update process is complete.
+The RCC and DCC shall use their judgment and experience to determine the cut-off date to accept DCRs for each document revision cycle.

@@ -1,0 +1,73 @@
+T0	Condition 1295 1317	the result is positive 
+T1	Action 24 37	dispositioned
+T2	Action 112 117	moved
+T3	Action 181 188	changed
+T4	Action 192 199	reflect
+T5	Action 345 352	charged
+T6	Action 374 384	formatting
+T7	Action 459 468	described
+T8	Action 494 501	created
+T9	Action 529 537	approved
+T10	Action 573 582	comprises
+T11	Action 647 656	clarified
+T12	Action 661 673	incorporated
+T13	Action 733 741	reviewed
+T14	Action 746 755	clarified
+T15	Action 791 796	drawn
+T16	Action 933 941	prepared
+T17	Action 1029 1033	made
+T18	Action 1034 1039	using
+T19	Action 1173 1177	laid
+T20	Action 1188 1195	written
+T21	Action 1206 1210	sent
+T22	Action 1263 1271	compared
+T23	Action 1344 1348	sent
+T24	Entity 543 572	actual drawing-up of offer
+T25	Entity 9 13	dcrs
+T26	Entity 164 177	revision date
+T27	Entity 164 177	revision date
+T28	Entity 316 344	technical_support individual
+T29	Entity 392 408	actual document
+T30	Entity 476 489	sub-revisions
+T31	Entity 507 518	urgent_dcrs
+T32	Entity 586 598	offer_review
+T33	Entity 622 642	inquiry requirement
+T34	Entity 622 642	inquiry requirement
+T35	Entity 701 722	relevant basic point
+T36	Entity 701 722	relevant basic point
+T37	Entity 757 786	preliminary engineering plan
+T38	Entity 868 903	1 essential technical document
+T39	Entity 1012 1024	calculations
+T40	Entity 1043 1075	edp-controlled calculation model
+T41	Entity 1085 1139	result of offer preliminary
+T42	Entity 1196 1201	offer
+T43	Entity 1255 1259	this
+T44	Entity 1322 1340	order confirmation
+R0	Agent Arg1:T10 Arg2:T24
+R1	Patient Arg1:T1 Arg2:T25
+R2	Patient Arg1:T3 Arg2:T26
+R3	Patient Arg1:T4 Arg2:T26
+R4	Patient Arg1:T5 Arg2:T28
+R5	Patient Arg1:T6 Arg2:T29
+R6	Patient Arg1:T8 Arg2:T30
+R7	Patient Arg1:T9 Arg2:T31
+R8	Patient Arg1:T10 Arg2:T32
+R9	Patient Arg1:T11 Arg2:T33
+R10	Patient Arg1:T12 Arg2:T33
+R11	Patient Arg1:T13 Arg2:T35
+R12	Patient Arg1:T14 Arg2:T35
+R13	Patient Arg1:T15 Arg2:T37
+R14	Patient Arg1:T16 Arg2:T38
+R15	Patient Arg1:T17 Arg2:T39
+R16	Patient Arg1:T18 Arg2:T40
+R17	Patient Arg1:T19 Arg2:T41
+R18	Patient Arg1:T20 Arg2:T42
+R19	Patient Arg1:T22 Arg2:T43
+R20	Patient Arg1:T23 Arg2:T44
+R22	Sequence Arg1:T5 Arg2:T6
+R23	Sequence Arg1:T9 Arg2:T7
+R24	Sequence Arg1:T11 Arg2:T12
+R25	Sequence Arg1:T13 Arg2:T14
+R26	Sequence Arg1:T19 Arg2:T21
+R27	Sequence Arg1:T0 Arg2:T23
+A0	Event T9 

@@ -1,0 +1,60 @@
+T0	Action 9 15	places
+T1	Action 201 209	approved
+T2	Action 220 229	submitted
+T3	Action 350 359	selecting
+T4	Action 378 388	optimising
+T5	Action 428 433	makes
+T6	Action 571 578	cleared
+T7	Action 609 617	approved
+T8	Action 638 647	automated
+T9	Action 676 682	ensure
+T10	Action 778 784	placed
+T11	Action 829 837	informed
+T12	Action 938 944	ensure
+T13	Action 955 961	fulfil
+T14	Action 1039 1046	applied
+T15	Action 1098 1104	assess
+T16	Action 1154 1160	fixing
+T17	Entity 0 3	cch
+T20	Entity 664 675	department
+T22	Entity 16 35	order for product
+T23	Entity 183 196	new supplier
+T24	Entity 211 215	they
+T25	Entity 360 369	supplier
+T26	Entity 389 417	supply management activity
+T27	Entity 434 444	use of its
+T28	Entity 579 608	material from respective
+T29	Entity 598 627	respective supplier
+T30	Entity 537 608	continuous process for material from respective
+T31	Entity 692 701	document
+T32	Entity 763 767	they
+T33	Entity 817 825	supplier
+T34	Entity 966 986	quality requirement
+T35	Entity 1002 1007	good
+T36	Entity 1109 1123	main supplier
+T37	Entity 1148 1153	price
+R0	Agent Arg1:T0 Arg2:T17
+R1	Agent Arg1:T3 Arg2:T17
+R2	Agent Arg1:T5 Arg2:T17
+R3	Agent Arg1:T9 Arg2:T20
+R4	Agent Arg1:T15 Arg2:T20
+R5	Patient Arg1:T0 Arg2:T22
+R6	Patient Arg1:T1 Arg2:T23
+R7	Patient Arg1:T2 Arg2:T24
+R8	Patient Arg1:T3 Arg2:T25
+R9	Patient Arg1:T4 Arg2:T26
+R10	Patient Arg1:T5 Arg2:T27
+R11	Patient Arg1:T6 Arg2:T28
+R12	Patient Arg1:T7 Arg2:T29
+R13	Patient Arg1:T8 Arg2:T30
+R14	Patient Arg1:T9 Arg2:T31
+R15	Patient Arg1:T10 Arg2:T32
+R16	Patient Arg1:T11 Arg2:T33
+R17	Patient Arg1:T13 Arg2:T34
+R18	Patient Arg1:T14 Arg2:T35
+R19	Patient Arg1:T15 Arg2:T36
+R20	Patient Arg1:T16 Arg2:T37
+R26	Sequence Arg1:T3 Arg2:T5
+R27	Sequence Arg1:T3 Arg2:T4
+R28	Sequence Arg1:T15 Arg2:T16
+A0	Event T3 

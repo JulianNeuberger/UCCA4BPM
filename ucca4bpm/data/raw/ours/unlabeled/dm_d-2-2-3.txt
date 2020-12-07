@@ -1,0 +1,10 @@
+The TSC will then evaluate and discuss the proposed change to the requirements.
+Upon review and discussion of the proposed change, the NGEC can make one of three decisions.
+If the NGEC determines it does not want to implement the proposed change(s), it will reject the change.
+As would happen with any rejection, at this point the DCR is returned to the DCC who will then report back to the originator of the DCR.
+If the NGEC determines the change is appropriate, but that more study or work is needed before the Requirements Document is changed, it can send the recommendation back to either the TSC or the AWG.
+If the AWG is required to perform more work, the TSC should be notified.
+If the NGEC determines that the proposed Requirements Document language requires only editorial modifications, it can make modifications itself, and follow the "Approve" path below.
+Upon approving the proposed change to the Requirements Document, or amending and approving the proposed change to address any perceived shortcomings the NGEC will deal with the following tasks.
+The NGEC will request that the Requirements Document be appropriately changed by Technical Support Staff, and then posted on the AASHTO web site along with a brief description of the reasons for any modifications to the proposed change approved by the Executive Committee.
+The NGEC will inform the DCC of the change to the Requirements Document.

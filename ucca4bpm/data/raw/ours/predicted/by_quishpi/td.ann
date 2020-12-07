@@ -1,0 +1,54 @@
+T0	Action 15 24	delivered
+T1	Action 128 135	shipped
+T2	Action 178 185	planned
+T3	Action 334 341	depends
+T4	Action 519 528	certified
+T5	Action 598 606	generate
+T6	Action 635 642	printed
+T7	Action 702 711	certified
+T8	Action 712 717	mails
+T9	Action 782 791	determine
+T10	Action 852 859	created
+T11	Action 945 949	used
+T12	Action 978 986	attached
+T13	Action 1028 1034	placed
+T14	Action 1072 1081	certified
+T15	Action 1182 1190	recorded
+T16	Entity 318 333	shipping method
+T17	Entity 555 579	employee of shipping
+T18	Entity 654 687	shipment department pack package letter
+T19	Entity 1211 1247	employee of department
+T20	Entity 0 7	ticket
+T21	Entity 186 201	shipping method
+T22	Entity 342 439	on among other ticket volume of order package date of departure
+T23	Entity 529 533	mail
+T24	Entity 609 621	cover letter
+T25	Entity 624 626	it
+T26	Entity 654 687	shipment department pack package letter
+T27	Entity 718 724	itself
+T28	Entity 796 808	ident number
+T29	Entity 832 841	new order
+T30	Entity 939 941	id
+T31	Entity 939 941	id
+T32	Entity 1016 1024	delivery
+T33	Entity 1059 1067	package
+T34	Entity 1171 1178	process
+R0	Agent Arg1:T3 Arg2:T16
+R1	Agent Arg1:T5 Arg2:T17
+R2	Agent Arg1:T8 Arg2:T18
+R3	Agent Arg1:T15 Arg2:T19
+R4	Patient Arg1:T0 Arg2:T20
+R5	Patient Arg1:T2 Arg2:T21
+R6	Patient Arg1:T3 Arg2:T22
+R7	Patient Arg1:T4 Arg2:T23
+R8	Patient Arg1:T5 Arg2:T24
+R9	Patient Arg1:T6 Arg2:T25
+R10	Patient Arg1:T7 Arg2:T26
+R11	Patient Arg1:T8 Arg2:T27
+R12	Patient Arg1:T9 Arg2:T28
+R13	Patient Arg1:T10 Arg2:T29
+R14	Patient Arg1:T11 Arg2:T30
+R15	Patient Arg1:T12 Arg2:T30
+R16	Patient Arg1:T13 Arg2:T32
+R17	Patient Arg1:T14 Arg2:T33
+R18	Patient Arg1:T15 Arg2:T34

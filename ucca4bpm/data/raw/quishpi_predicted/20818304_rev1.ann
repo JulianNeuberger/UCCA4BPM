@@ -1,0 +1,25 @@
+T0	Condition 262 278	the risk is high 
+T1	Condition 318 333	the risk is low 
+T2	Action 19 27	collects
+T3	Action 206 212	assess
+T4	Action 300 309	requested
+T5	Action 406 414	accepted
+T6	Action 418 426	rejected
+T7	Action 455 459	sent
+T8	Entity 4 18	credit company
+T10	Entity 32 68	credit information from customer
+T11	Entity 217 235	risk of credit
+T12	Entity 283 291	approval
+T13	Entity 390 396	credit
+T14	Entity 390 396	credit
+T15	Entity 436 441	case
+R0	Agent Arg1:T2 Arg2:T8
+R1	Agent Arg1:T3 Arg2:T8
+R2	Patient Arg1:T2 Arg2:T10
+R3	Patient Arg1:T3 Arg2:T11
+R4	Patient Arg1:T4 Arg2:T12
+R5	Patient Arg1:T5 Arg2:T13
+R6	Patient Arg1:T6 Arg2:T13
+R7	Patient Arg1:T7 Arg2:T15
+R10	Sequence Arg1:T0 Arg2:T4
+R11	Sequence Arg1:T1 Arg2:T0

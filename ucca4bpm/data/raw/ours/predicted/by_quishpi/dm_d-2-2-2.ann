@@ -1,0 +1,68 @@
+T0	Condition 261 344	the TSC determines this is not a change it wishes to forward to the Executive_Board 
+T1	Condition 569 621	the TSC agrees in principal with the proposed change 
+T2	Condition 772 877	the TSC believes that the proposed Requirements_Document language just needs some editorial modifications 
+T3	Condition 898 902	send 
+T4	Condition 936 965	make the modifications itself 
+T5	Condition 1056 1099	the DCR requires modification at this point 
+T6	Condition 1320 1352	the AWG takes this latter action 
+T7	Condition 1562 1611	the TSC agrees with the recommendation of the AWG 
+T8	Condition 1159 1216	Depending upon how extensive the changes are , the AWG can 
+T9	Condition 1273 1315	it can issue a new DCR on the same subject 
+T10	Action 43 51	evaluate
+T11	Action 56 63	discuss
+T12	Action 68 76	proposed
+T13	Action 171 179	proposed
+T14	Action 229 233	make
+T15	Action 354 360	reject
+T16	Action 407 415	returned
+T17	Action 539 547	notified
+T18	Action 1020 1026	follow
+T19	Action 1116 1120	tell
+T20	Action 1364 1368	send
+T21	Action 1517 1525	notified
+T22	Action 1621 1625	vote
+T23	Action 1710 1714	vote
+T24	Action 1847 1851	came
+T25	Action 1889 1893	sent
+T26	Action 2084 2091	approve
+T27	Entity 4 31	technical_subcommittee tsc
+T34	Entity 1060 1063	dcr
+T36	Entity 1209 1212	awg
+T40	Entity 77 83	change
+T41	Entity 77 83	change
+T42	Entity 180 186	change
+T43	Entity 234 256	one of decision
+T44	Entity 374 380	change
+T45	Entity 400 403	dcr
+T46	Entity 527 530	awg
+T47	Entity 1005 1008	tsc
+T48	Entity 1125 1128	awg
+T49	Entity 1373 1376	dcr
+T50	Entity 1482 1504	author of original
+T51	Entity 1828 1841	documentation
+T52	Entity 2096 2102	change
+R0	Agent Arg1:T10 Arg2:T27
+R1	Agent Arg1:T11 Arg2:T27
+R2	Agent Arg1:T14 Arg2:T27
+R3	Agent Arg1:T19 Arg2:T27
+R4	Agent Arg1:T23 Arg2:T27
+R5	Patient Arg1:T10 Arg2:T40
+R6	Patient Arg1:T12 Arg2:T40
+R7	Patient Arg1:T13 Arg2:T42
+R8	Patient Arg1:T14 Arg2:T43
+R9	Patient Arg1:T15 Arg2:T44
+R10	Patient Arg1:T16 Arg2:T45
+R11	Patient Arg1:T17 Arg2:T46
+R12	Patient Arg1:T18 Arg2:T47
+R13	Patient Arg1:T19 Arg2:T48
+R14	Patient Arg1:T20 Arg2:T49
+R15	Patient Arg1:T21 Arg2:T50
+R16	Patient Arg1:T24 Arg2:T51
+R17	Patient Arg1:T26 Arg2:T52
+R23	Sequence Arg1:T10 Arg2:T11
+R24	Sequence Arg1:T0 Arg2:T15
+R25	Sequence Arg1:T5 Arg2:T19
+R26	Sequence Arg1:T6 Arg2:T20
+R27	Sequence Arg1:T7 Arg2:T22
+R51	Conflict Arg1:T3 Arg2:T4
+R52	Conflict Arg1:T8 Arg2:T9

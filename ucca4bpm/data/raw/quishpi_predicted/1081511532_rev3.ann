@@ -1,0 +1,38 @@
+T0	Condition 341 369	the client accepts the offer 
+T1	Condition 427 436	otherwise
+T2	Action 48 54	needed
+T3	Action 80 87	perform
+T4	Action 110 117	prepare
+T5	Action 159 163	sent
+T6	Action 215 222	informs
+T7	Action 294 301	sending
+T8	Action 387 394	prepare
+T9	Action 449 457	analyzes
+T10	Entity 60 74	marketing team
+T12	Entity 6 16	management
+T13	Entity 345 351	client
+T16	Entity 32 43	new client
+T17	Entity 90 105	market analysis
+T18	Entity 120 142	portfolio presentation
+T19	Entity 168 174	offer
+T20	Entity 178 195	potential client
+T21	Entity 317 322	offer
+T22	Entity 397 405	contract
+T23	Entity 462 468	reason
+R0	Agent Arg1:T3 Arg2:T10
+R1	Agent Arg1:T4 Arg2:T10
+R2	Agent Arg1:T7 Arg2:T12
+R3	Agent Arg1:T8 Arg2:T12
+R4	Agent Arg1:T9 Arg2:T12
+R5	Patient Arg1:T2 Arg2:T16
+R6	Patient Arg1:T3 Arg2:T17
+R7	Patient Arg1:T4 Arg2:T18
+R8	Patient Arg1:T5 Arg2:T19
+R9	Patient Arg1:T6 Arg2:T20
+R10	Patient Arg1:T7 Arg2:T21
+R11	Patient Arg1:T8 Arg2:T22
+R12	Patient Arg1:T9 Arg2:T23
+R18	Sequence Arg1:T3 Arg2:T4
+R19	Sequence Arg1:T0 Arg2:T8
+R20	Sequence Arg1:T1 Arg2:T9
+A0	Event T5 

@@ -1,0 +1,72 @@
+T0	Action 52 59	perform
+T1	Action 132 140	verified
+T2	Action 189 193	copy
+T3	Action 316 323	copying
+T4	Action 416 420	send
+T5	Action 481 490	notifying
+T6	Action 598 604	upload
+T7	Action 675 679	sent
+T8	Action 841 845	send
+T9	Action 920 926	upload
+T10	Action 957 961	hold
+T11	Action 1158 1164	verify
+T12	Action 1315 1323	notified
+T13	Action 1427 1437	requesting
+T14	Action 1453 1455	go
+T15	Action 1535 1543	obtained
+T16	Action 1570 1580	advertised
+T17	Action 1627 1635	printing
+T18	Action 1640 1650	delivering
+T19	Action 1665 1668	set
+T20	Action 1687 1697	advertised
+T21	Action 1763 1766	set
+T22	Action 1785 1794	submitted
+T23	Entity 4 41	engineering_document_management staff
+T24	Entity 555 592	engineering document_management_staff
+T25	Entity 1407 1426	roadway_contractors
+T26	Entity 1802 1817	project_manager
+T27	Entity 146 183	engineering_document_management staff
+T28	Entity 328 333	file
+T29	Entity 424 429	email
+T30	Entity 491 495	them
+T31	Entity 609 612	zip
+T32	Entity 660 665	email
+T33	Entity 850 860	mass email
+T34	Entity 931 936	file
+T35	Entity 962 966	them
+T36	Entity 1300 1306	vendor
+T37	Entity 1438 1447	plan set
+T38	Entity 1407 1426	roadway_contractors
+T39	Entity 1518 1531	authorization
+T40	Entity 1561 1565	they
+T41	Entity 1651 1705	one half-size of plan for project
+T42	Entity 1651 1705	one half-size of plan for project
+T43	Entity 1651 1705	one half-size of plan for project
+T44	Entity 1698 1705	project
+T45	Entity 1770 1775	plan
+T46	Entity 1733 1746	new complete
+R0	Agent Arg1:T0 Arg2:T23
+R1	Agent Arg1:T6 Arg2:T24
+R2	Agent Arg1:T13 Arg2:T25
+R3	Agent Arg1:T22 Arg2:T26
+R4	Patient Arg1:T1 Arg2:T27
+R5	Patient Arg1:T3 Arg2:T28
+R6	Patient Arg1:T4 Arg2:T29
+R7	Patient Arg1:T5 Arg2:T30
+R8	Patient Arg1:T6 Arg2:T31
+R9	Patient Arg1:T7 Arg2:T32
+R10	Patient Arg1:T8 Arg2:T33
+R11	Patient Arg1:T9 Arg2:T34
+R12	Patient Arg1:T10 Arg2:T35
+R13	Patient Arg1:T12 Arg2:T36
+R14	Patient Arg1:T13 Arg2:T37
+R15	Patient Arg1:T14 Arg2:T38
+R16	Patient Arg1:T15 Arg2:T39
+R17	Patient Arg1:T16 Arg2:T40
+R18	Patient Arg1:T17 Arg2:T41
+R19	Patient Arg1:T18 Arg2:T41
+R20	Patient Arg1:T19 Arg2:T41
+R21	Patient Arg1:T20 Arg2:T44
+R22	Patient Arg1:T21 Arg2:T45
+R23	Patient Arg1:T22 Arg2:T46
+R28	Sequence Arg1:T17 Arg2:T18

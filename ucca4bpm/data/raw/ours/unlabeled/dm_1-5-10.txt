@@ -1,0 +1,21 @@
+The Originator sends the DCR to the RCC, informing the RCC that the matter addressed by the DCR is time-sensitive, and should be handled as Urgent.
+RCC shall enter the DCR into a log and then forward it to the appropriate DCC.
+In parallel with this, the RCC shall also notify the Executive Board and Review Panel that an Urgent DCR has been received and sent to the DCC.
+The DCC shall, as soon as possible, forward the DCR to the to the appropriate DCB Technical Subgroup leader for the functional group that is most appropriate for the DCR.
+If the DCR affects two or more subgroups, the DCC will select the most appropriate Technical Subgroup leader, and it will be up to that individual to coordinate the DCR review with other affected Subgroups.
+The Technical Subgroup(s) will review the DCRs and make a recommendation within two working days of receipt whether to approve, approve with amendment or reject each DCR.
+Once the DCR has been dispositioned by the Technical Subgroup, it is returned to the DCC, who will then return it to the RCC.
+If a DCR is rejected at any point in this process, the RCC will return the DCR to the DCC or Originator, as appropriate.
+The RCC will forward DCRs that were approved or approved with amendment to the Technical Subcommittee and Review Panel for review.
+Both groups will have three working days to review the DCR and return it to the RCC.
+The Technical Subcommittee shall determine how best to obtain a vote on the DCR, e.g., by email or by conference call.
+The Review Panel role is to determine that the change is in keeping with the requirements document (for a specification) or in keeping with other PRIIA requirements.
+Panel members shall determine how best to obtain a vote on the DCR.
+Once approved and determined compliant, the RCC will forward the DCR to the Executive Board. 
+The Executive Board will vote on the DCR by email within two working days.
+After the DCR has been approved by the Executive Board the following activities follow.
+The RCC will notify the Originator that the DCR has been approved, and return the DCR to the originator with the approved wording.
+At this point, the wording in the DCR has the authority of an approved document.
+The RCC will forward the DCR to Technical Support, where it will be incorporated into a Sub-Revision of the affected document.
+Upon receipt of the Sub-Revision from Technical Support, the RCC forwards it and the DCR, as well as any supporting documents, if applicable, to AASHTO for posting.
+The Sub-Revision will be included in the next periodic revision to the affected document.

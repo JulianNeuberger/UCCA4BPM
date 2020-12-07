@@ -1,0 +1,27 @@
+T0	Condition 122 172	the customer decides that the costs are acceptable 
+T1	Condition 539 559	an error is detected 
+T2	Condition 197 206	otherwise
+T3	Action 211 216	takes
+T4	Action 267 275	consists
+T5	Action 374 380	repair
+T6	Action 434 444	configures
+T7	Action 527 533	tested
+T8	Action 631 639	finished
+T9	Entity 126 134	customer
+T10	Entity 217 234	her computer home
+T11	Entity 252 266	ongoing repair
+T12	Entity 385 393	hardware
+T13	Entity 449 457	software
+T14	Entity 496 523	proper system functionality
+T15	Entity 621 627	repair
+R0	Agent Arg1:T3 Arg2:T9
+R1	Patient Arg1:T3 Arg2:T10
+R2	Patient Arg1:T4 Arg2:T11
+R3	Patient Arg1:T5 Arg2:T12
+R4	Patient Arg1:T6 Arg2:T13
+R5	Patient Arg1:T7 Arg2:T14
+R6	Patient Arg1:T8 Arg2:T15
+R8	Sequence Arg1:T5 Arg2:T6
+R9	Sequence Arg1:T0 Arg2:T3
+R10	Sequence Arg1:T1 Arg2:T8
+R11	Sequence Arg1:T2 Arg2:T0

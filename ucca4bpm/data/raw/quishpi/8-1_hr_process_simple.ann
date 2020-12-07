@@ -1,0 +1,9 @@
+T0	Action 94 104	advertised
+T4	Action 145 152	checked
+T5	Action 169 175	filled
+T6	Action 216 222	filled
+T3	Action 117 122	apply
+T1	Entity 86 90	post
+T7	Entity 207 211	post
+R0	Patient Arg1:T0 Arg2:T1
+R1	Patient Arg1:T6 Arg2:T7

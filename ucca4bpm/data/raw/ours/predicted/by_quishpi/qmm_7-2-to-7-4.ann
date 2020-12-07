@@ -1,0 +1,35 @@
+T0	Action 21 27	comply
+T1	Action 61 67	marked
+T2	Action 164 172	relating
+T3	Action 248 252	laid
+T4	Action 368 377	described
+T5	Action 413 422	processed
+T6	Action 427 436	evaluated
+T7	Action 437 442	using
+T8	Action 538 543	serve
+T9	Action 633 642	described
+T10	Entity 0 8	product
+T11	Entity 156 163	aspect
+T12	Entity 509 528	result of data
+T13	Entity 621 632	connection
+T14	Entity 37 49	requirement
+T15	Entity 0 8	product
+T16	Entity 156 163	aspect
+T17	Entity 378 393	process method
+T18	Entity 305 327	large part of data
+T19	Entity 305 327	large part of data
+T20	Entity 464 484	statistic procedure
+T21	Entity 549 568	basis for decision
+R0	Agent Arg1:T0 Arg2:T10
+R1	Agent Arg1:T2 Arg2:T11
+R2	Agent Arg1:T8 Arg2:T12
+R3	Agent Arg1:T9 Arg2:T13
+R4	Patient Arg1:T0 Arg2:T14
+R5	Patient Arg1:T1 Arg2:T15
+R6	Patient Arg1:T3 Arg2:T16
+R7	Patient Arg1:T4 Arg2:T17
+R8	Patient Arg1:T5 Arg2:T18
+R9	Patient Arg1:T6 Arg2:T18
+R10	Patient Arg1:T7 Arg2:T20
+R11	Patient Arg1:T8 Arg2:T21
+R16	Sequence Arg1:T5 Arg2:T6

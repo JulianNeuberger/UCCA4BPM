@@ -1,0 +1,34 @@
+T0	Condition 220 264	any parts are not available in the warehouse 
+T1	Condition 403 438	the production process has finished 
+T2	Action 57 65	received
+T3	Action 92 101	processed
+T4	Action 156 165	determine
+T5	Action 310 313	are
+T6	Action 389 398	performed
+T7	Action 457 465	packaged
+T8	Action 470 477	labeled
+T9	Action 537 545	informed
+T10	Action 600 604	sold
+T11	Entity 136 155	warehouse employee
+T12	Entity 39 53	customer order
+T13	Entity 77 82	order
+T14	Entity 170 175	part
+T15	Entity 294 309	necessary part
+T16	Entity 366 380	quality check
+T17	Entity 440 448	product
+T18	Entity 440 448	product
+T19	Entity 523 528	sale
+T20	Entity 585 592	product
+R0	Agent Arg1:T4 Arg2:T11
+R1	Patient Arg1:T2 Arg2:T12
+R2	Patient Arg1:T3 Arg2:T13
+R3	Patient Arg1:T4 Arg2:T14
+R4	Patient Arg1:T5 Arg2:T15
+R5	Patient Arg1:T6 Arg2:T16
+R6	Patient Arg1:T7 Arg2:T17
+R7	Patient Arg1:T8 Arg2:T17
+R8	Patient Arg1:T9 Arg2:T19
+R9	Patient Arg1:T10 Arg2:T20
+R11	Sequence Arg1:T7 Arg2:T8
+R12	Sequence Arg1:T1 Arg2:T7
+A0	Event T5 

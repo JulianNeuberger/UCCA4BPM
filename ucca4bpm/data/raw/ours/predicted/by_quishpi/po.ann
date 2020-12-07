@@ -1,0 +1,115 @@
+T0	Action 111 118	decides
+T1	Action 152 158	needed
+T2	Action 201 209	expected
+T3	Action 257 260	use
+T4	Action 424 433	delivered
+T5	Action 499 503	paid
+T6	Action 565 575	authorized
+T7	Action 664 665	s
+T8	Action 765 772	creates
+T9	Action 837 847	confirming
+T10	Action 852 858	adding
+T11	Action 875 883	sourcing
+T12	Action 888 895	funding
+T13	Action 1012 1022	formalizes
+T14	Action 1068 1076	creating
+T15	Action 1143 1150	fulfill
+T16	Action 1170 1177	receive
+T17	Action 1274 1283	processed
+T18	Action 1288 1292	paid
+T19	Action 2328 2336	received
+T20	Action 2530 2533	are
+T21	Action 2696 2703	selects
+T22	Action 2795 2803	approved
+T23	Action 2841 2848	related
+T24	Action 2945 2950	raise
+T25	Action 3023 3031	produced
+T26	Action 3058 3062	sent
+T27	Action 3097 3107	monitoring
+T28	Action 3112 3121	resolving
+T29	Action 3173 3179	reduce
+T30	Entity 48 70	associate of cognizant
+T31	Entity 531 529	req requisitioner
+T34	Entity 2504 2529	edi invoice
+T35	Entity 2690 2695	capps
+T36	Entity 2898 2914	thee buyer procurement
+T37	Entity 48 70	associate of cognizant
+T38	Entity 160 162	he
+T39	Entity 276 289	buying method
+T40	Entity 160 162	he
+T41	Entity 507 511	time
+T42	Entity 596 588	pt buyer procurement
+T43	Entity 666 676	P2P capps system
+T44	Entity 775 806	request for purchase necessary
+T45	Entity 859 871	detail as such
+T46	Entity 859 871	detail as such
+T47	Entity 909 907	special handling instruction information
+T48	Entity 909 907	special handling instruction information
+T49	Entity 1023 1043	its purchase of your
+T50	Entity 1091 1105	purchase p.o. order
+T51	Entity 1154 1159	order
+T52	Entity 1180 1184	p.o.
+T53	Entity 1251 1263	your invoice
+T54	Entity 1251 1263	your invoice
+T55	Entity 2312 2324	your invoice
+T56	Entity 2541 2558	queue in for payment
+T57	Entity 2704 2712	invoice
+T58	Entity 2804 2826	supplier payment term
+T59	Entity 2832 2840	invoice
+T60	Entity 2953 2989	check request in cognizant_capps
+T61	Entity 3014 3019	check
+T62	Entity 3014 3019	check
+T63	Entity 3122 3152	unnecessary process exception
+T64	Entity 3122 3152	unnecessary process exception
+T65	Entity 3184 3242	supplier payment issue on their
+R0	Agent Arg1:T0 Arg2:T30
+R1	Agent Arg1:T7 Arg2:T31
+R2	Agent Arg1:T8 Arg2:T31
+R3	Agent Arg1:T9 Arg2:T31
+R4	Agent Arg1:T20 Arg2:T34
+R5	Agent Arg1:T21 Arg2:T35
+R6	Agent Arg1:T24 Arg2:T36
+R7	Patient Arg1:T1 Arg2:T37
+R8	Patient Arg1:T2 Arg2:T38
+R9	Patient Arg1:T3 Arg2:T39
+R10	Patient Arg1:T4 Arg2:T38
+R11	Patient Arg1:T5 Arg2:T41
+R12	Patient Arg1:T6 Arg2:T42
+R13	Patient Arg1:T7 Arg2:T43
+R14	Patient Arg1:T8 Arg2:T44
+R15	Patient Arg1:T9 Arg2:T45
+R16	Patient Arg1:T10 Arg2:T45
+R17	Patient Arg1:T11 Arg2:T47
+R18	Patient Arg1:T12 Arg2:T47
+R19	Patient Arg1:T13 Arg2:T49
+R20	Patient Arg1:T14 Arg2:T50
+R21	Patient Arg1:T15 Arg2:T51
+R22	Patient Arg1:T16 Arg2:T52
+R23	Patient Arg1:T17 Arg2:T53
+R24	Patient Arg1:T18 Arg2:T53
+R25	Patient Arg1:T19 Arg2:T55
+R26	Patient Arg1:T20 Arg2:T56
+R27	Patient Arg1:T21 Arg2:T57
+R28	Patient Arg1:T22 Arg2:T58
+R29	Patient Arg1:T23 Arg2:T59
+R30	Patient Arg1:T24 Arg2:T60
+R31	Patient Arg1:T25 Arg2:T61
+R32	Patient Arg1:T26 Arg2:T61
+R33	Patient Arg1:T27 Arg2:T63
+R34	Patient Arg1:T28 Arg2:T63
+R35	Patient Arg1:T29 Arg2:T65
+R43	Sequence Arg1:T0 Arg2:T1
+R44	Sequence Arg1:T8 Arg2:T9
+R45	Sequence Arg1:T9 Arg2:T11
+R46	Sequence Arg1:T9 Arg2:T10
+R47	Sequence Arg1:T11 Arg2:T12
+R48	Sequence Arg1:T13 Arg2:T14
+R49	Sequence Arg1:T15 Arg2:T17
+R50	Sequence Arg1:T16 Arg2:T17
+R51	Sequence Arg1:T17 Arg2:T18
+R52	Sequence Arg1:T19 Arg2:T18
+R53	Sequence Arg1:T20 Arg2:T18
+R54	Sequence Arg1:T27 Arg2:T28
+A0	Event T0 
+A1	Event T19 
+A2	Event T20 

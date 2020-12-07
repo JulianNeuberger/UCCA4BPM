@@ -1,0 +1,8 @@
+T0	Action 15 24	requested
+T1	Action 169 178	requested
+T2	Entity 32 79	member of tsc
+T3	Entity 0 7	change
+T4	Entity 153 160	change
+R0	Agent Arg1:T0 Arg2:T2
+R1	Patient Arg1:T0 Arg2:T3
+R2	Patient Arg1:T1 Arg2:T4

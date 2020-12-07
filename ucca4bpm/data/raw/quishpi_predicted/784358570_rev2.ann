@@ -1,0 +1,57 @@
+T0	Condition 69 106	all the requested items are available 
+T1	Condition 425 450	all products are on store 
+T2	Condition 455 471	everything is OK 
+T3	Condition 111 131	something is missing 
+T4	Action 22 31	reviewing
+T5	Action 150 156	inform
+T6	Action 293 301	informed
+T7	Action 346 353	waiting
+T8	Action 488 498	recollects
+T9	Action 516 523	prepare
+T10	Action 555 563	informed
+T11	Action 617 624	informs
+T12	Action 745 751	picked
+T13	Action 801 808	decides
+T14	Action 874 882	delivers
+T15	Action 907 913	update
+T16	Entity 4 11	process
+T17	Entity 137 142	staff
+T20	Entity 601 616	courier company
+T21	Entity 771 777	driver
+T22	Entity 793 800	service
+T23	Entity 36 41	order
+T24	Entity 157 183	customer about potential
+T25	Entity 274 282	customer
+T26	Entity 357 369	average of x
+T27	Entity 503 511	product
+T28	Entity 526 533	package
+T29	Entity 539 546	courier
+T30	Entity 629 653	client about potential
+T31	Entity 734 741	package
+T32	Entity 813 823	good route
+T33	Entity 887 894	package
+T34	Entity 918 924	system
+R0	Agent Arg1:T4 Arg2:T16
+R1	Agent Arg1:T5 Arg2:T17
+R2	Agent Arg1:T8 Arg2:T17
+R3	Agent Arg1:T9 Arg2:T17
+R4	Agent Arg1:T11 Arg2:T20
+R5	Agent Arg1:T12 Arg2:T21
+R6	Agent Arg1:T13 Arg2:T22
+R7	Patient Arg1:T4 Arg2:T23
+R8	Patient Arg1:T5 Arg2:T24
+R9	Patient Arg1:T6 Arg2:T25
+R10	Patient Arg1:T7 Arg2:T26
+R11	Patient Arg1:T8 Arg2:T27
+R12	Patient Arg1:T9 Arg2:T28
+R13	Patient Arg1:T10 Arg2:T29
+R14	Patient Arg1:T11 Arg2:T30
+R15	Patient Arg1:T12 Arg2:T31
+R16	Patient Arg1:T13 Arg2:T32
+R17	Patient Arg1:T14 Arg2:T33
+R18	Patient Arg1:T15 Arg2:T34
+R26	Sequence Arg1:T2 Arg2:T8
+R27	Sequence Arg1:T8 Arg2:T9
+R28	Sequence Arg1:T14 Arg2:T15
+R29	Sequence Arg1:T3 Arg2:T5
+A0	Event T14 

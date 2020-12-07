@@ -1,0 +1,15 @@
+The Technical Subcommittee (TSC) will then evaluate and discuss the proposed change to the Requirements Document as provided by the AWG.
+Upon review and discussion of the proposed change to the Requirements Document, the TSC can make one of three decisions.
+If the TSC determines this is not a change it wishes to forward to the Executive Board, it will reject the proposed change.
+At this point the DCR is returned to the DCC who will then report back to the submitter of the DCR as delineated in Appendix B.
+In addition, the AWG will be notified of the rejection.
+If the TSC agrees in principal with the proposed change, but believes more work is needed before the Requirements Document is changed, it can send the recommendation back to the AWG for additional work.
+If the TSC believes that the proposed Requirements Document language just needs some editorial modifications, the TSC can either send the language back to the AWG, or make the modifications itself.
+In the case of the latter choice, the TSC would then follow the "Approve" path below.
+If the DCR requires modification at this point, the TSC should tell the AWG what is needed to be changed.
+Depending upon how extensive the changes are, the AWG can either edit the language it had previously modified, or it can issue a new DCR on the same subject.
+If the AWG takes this latter action, it should send the DCR to the RCC so that it can be properly logged into the change management system records.
+In addition, the author of the original DCR will be notified with the status of the document.
+If the TSC agrees with the recommendation of the AWG, it will vote to approve sending the proposed change to the Executive Committee.
+The TSC may also vote to amend the recommendation to address shortcomings identified by the full TSC membership.
+All of the supporting documentation that came with the package to the TSC shall be sent to the Executive Committee along with a summary of the TSC deliberations on the matter, including a brief justification for any modifications made by the TSC, and the results of the vote to approve the change to the Requirements Document.

@@ -1,0 +1,5651 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1606411387,
+        "id": 27001,
+        "lead_time": 9586.556,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "3m6_rSnN0M",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 630,
+              "labels": [
+                "Activity"
+              ],
+              "start": 536,
+              "text": "The continuous quality capacity and effectiveness of the quality management system is assessed"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "kVzpEdKl25",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 763,
+              "labels": [
+                "Activity"
+              ],
+              "start": 668,
+              "text": "A yearly audit plan, that contains all the important information and specifications, is drawn up."
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "iaqPUPI6N8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 887,
+              "labels": [
+                "Activity"
+              ],
+              "start": 855,
+              "text": "carrying out the internal audits"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "9lBHgXTaN0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 992,
+              "labels": [
+                "Activity"
+              ],
+              "start": 889,
+              "text": "The results of the audits and the corrective measures with time limits are laid down in an audit report"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "bPZrTeb835",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1085,
+              "labels": [
+                "Activity"
+              ],
+              "start": 994,
+              "text": "The execution of corrective measures is supervised by the authorized quality representative"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "QKcqaZjPR1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1180,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1087,
+              "text": "The regulations for the execution of internal audits are laid down in procedural instructions"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "9aS0o8vQzQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1321,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1182,
+              "text": "The control of the quality requirements of products is ensured by measurements and comparisons with the specifications in the form of tests"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "qmm_7-1.txt",
+      "text": "This organization includes the Customer Centre where transactions are processed. A project coordinator and a member of our outside sales staff who are assigned directly to the customer accompany each transaction throughout i.e. until delivery. Regular customer training courses and contacts at trade fair presentations are also used to obtain information to promote customer satisfaction. The EDP supported complaint data bank is called upon as an objective parameter and as a source of information for assessing customer satisfaction. The continuous quality capacity and effectiveness of the quality management system is assessed on the basis of the internal audits. A yearly audit plan that contains all the important information and specifications is drawn up. This plan is agreed upon with the company management. Qualified auditors are available for carrying out the internal audits. The results of the audits and the corrective measures with time limits are laid down in an audit report. The execution of corrective measures is supervised by the authorized quality representative. The regulations for the execution of internal audits are laid down in procedural instructions. The control of the quality requirements of products is ensured by measurements and comparisons with the specifications in the form of tests. Depending upon the requirements the results of the tests are documented and if required are used for further analyses."
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410108,
+        "id": 9001,
+        "lead_time": 12653.628,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "oi6bHRJn2T",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 154,
+              "labels": [
+                "Activity"
+              ],
+              "start": 89,
+              "text": "the revision level is moved up to the next letter of the alphabet"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ZttMdH3Xim",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 268,
+              "labels": [
+                "Activity"
+              ],
+              "start": 159,
+              "text": "the revision date is changed to reflect the date on which the NGEC Executive Board approved the Major Changes"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "RHcPXjqbPU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 343,
+              "labels": [
+                "Activity"
+              ],
+              "start": 270,
+              "text": "The RCC shall forward all the changes to the Technical Support individual"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "bS61i4w7fI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 452,
+              "labels": [
+                "Activity"
+              ],
+              "start": 408,
+              "text": "who will enter the changes into the document"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "lN8-71UQ3Z",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 534,
+              "labels": [
+                "Activity"
+              ],
+              "start": 473,
+              "text": "Sub-revisions are created when Urgent DCRs have been approved"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ixT6nH1byx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 683,
+              "labels": [
+                "Activity"
+              ],
+              "start": 615,
+              "text": "the inquiry requirements are clarified and incorporated in the offer"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "qpElZucN8n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 858,
+              "labels": [
+                "Activity"
+              ],
+              "start": 753,
+              "text": "preliminary engineering plans are drawn up for customer-specific modifications and complete installations"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "FRltmp0_K1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 961,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 957,
+              "text": "Then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "7NacARJE4F",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1069,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1006,
+              "text": "CALCULATIONS are made using an EDP-controlled calculation model"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "5dym8xZtiy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 955,
+              "labels": [
+                "Activity"
+              ],
+              "start": 860,
+              "text": "The first essential technical documents and dimensional drawings are prepared during this phase"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "xhNRoOgiGs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1217,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1071,
+              "text": "All the results of the three phases, offer review, preliminary engineering and calculation, are laid down in a written offer and sent to the customer"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Jsb39jyO44",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 88,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 0,
+              "text": "Once all DCRs have been dispositioned for an update cycle of a specification or document"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "KthNX86zNT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 752,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 685,
+              "text": "Once all the relevant basic points have been reviewed and clarified"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "OgRjD0tT1x",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1276,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1245,
+              "text": "this is compared with the offer"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "5iBsrHc7fG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1244,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 1219,
+              "text": "After receipt of an order"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "tmoPwMZx8p",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1306,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1281,
+              "text": "if the result is positive"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "MHSi7TPziy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1352,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1307,
+              "text": "an order confirmation is sent to the customer"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_1-6-1.txt",
+      "text": "Once all DCRs have been dispositioned for an update cycle of a specification or document the revision level is moved up to the next letter of the alphabet and the revision date is changed to reflect the date on which the NGEC Executive Board approved the Major Changes. The RCC shall forward all the changes to the Technical Support individual charged with the editing and formatting of the actual documents who will enter the changes into the document. As described above Sub revisions are created when Urgent DCRs have been approved. The actual drawing up of an offer comprises an OFFER REVIEW. During this phase the inquiry requirements are clarified and incorporated in the offer. Once all the relevant basic points have been reviewed and clarified preliminary engineering plans are drawn up for customer specific modifications and complete installations. The first essential technical documents and dimensional drawings are prepared during this phase. Then on the basis of these preliminary documents CALCULATIONS are made using an EDP controlled calculation model. All the results of the three phases offer review preliminary engineering and calculation are laid down in a written offer and sent to the customer. After receipt of an order this is compared with the offer and if the result is positive an order confirmation is sent to the customer."
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410299,
+        "id": 11001,
+        "lead_time": 12983.881,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "RdGVUxAqEv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 154,
+              "labels": [
+                "Activity"
+              ],
+              "start": 42,
+              "text": " notification shall go out to all parties who have registered for notification of revisions/changes to documents"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "GAh6h18dld",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 42,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 0,
+              "text": "Once a document revision has been approved"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "BFDNRkD6kO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 277,
+              "labels": [
+                "Activity"
+              ],
+              "start": 156,
+              "text": "The DCB shall create, and the RCC shall maintain, a database of the name, affiliation, address, phone number and email address"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "isTdRWLiwq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 349,
+              "labels": [
+                "Statement",
+                "loop_begin"
+              ],
+              "start": 278,
+              "text": "of each person who has electronically registered for such notifications"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_1-6-3.txt",
+      "text": "Once a document revision has been approved notification shall go out to all parties who have registered for notification of revisions changes to documents. The DCB shall create and the RCC shall maintain a database of the name affiliation address phone number and email address of each person who has electronically registered for such notifications. It is the responsibility of each equipment purchaser or user of any document to ensure that the most recent version of any document is used."
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606411607,
+        "id": 28001,
+        "lead_time": 218.969,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "tJsNb1oE3T",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 67,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "Products that do not comply with the requirements are always marked"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "JvRY2_-i5d",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 296,
+              "labels": [
+                "Activity"
+              ],
+              "start": 156,
+              "text": "Aspects relating to, marking, approval, clearance, fault elimination, and documentation are laid down in detail in special procedure instructions"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Fnfg-31zmm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 431,
+              "labels": [
+                "Activity"
+              ],
+              "start": 298,
+              "text": "A large part of the data that is accrued in conjunction with the described process methods or the products is processed and evaluated"
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "source": "qmm_7-2-to-7-4.txt",
+      "text": "Products that do not comply with the requirements are always marked to prevent their inadvertent use and to prevent them from being delivered to customers. Aspects relating to marking approval clearance fault elimination and documentation are laid down in detail in special procedure instructions. A large part of the data that is accrued in conjunction with the described process methods or the products is processed and evaluated using the commonly applied statistic procedures and analysis tools. The results of the data analyses serve as a basis for decisions relating to corrective and preventive measures. The connections described there are applied within the CCH organization to ensure that the Quality Control System Loop PDCA is closed."
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606409799,
+        "id": 7001,
+        "lead_time": 6539.455,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "5b08TvWJTd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 122,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The DCC shall determine whether a DCR meets the criteria for Urgent (if not already so designated by the RCC), Major or Minor"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "3GbATZJaaE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 251,
+              "labels": [
+                "Activity"
+              ],
+              "start": 199,
+              "text": "the RCC should be informed of that by the originator"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "tID9cI6zG4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 395,
+              "labels": [
+                "Statement",
+                "polygon_begin"
+              ],
+              "start": 322,
+              "text": "and the DCR will be handled in accordance with the process outlined below"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "e8kjfIvjxh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 570,
+              "labels": [
+                "Activity"
+              ],
+              "start": 537,
+              "text": "the DCR shall be considered Major"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "PgAKdjQ4tF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 198,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 124,
+              "text": "If the originator submitting a DCR believes it should be handled as Urgent"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "UGmSkj5A5i",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 270,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 253,
+              "text": "If the RCC agrees"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "VyEiz3sucg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 321,
+              "labels": [
+                "Activity"
+              ],
+              "start": 271,
+              "text": "the RCC has the authority to classify it as Urgent"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "180MoZ13zD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 444,
+              "labels": [
+                "Activity"
+              ],
+              "start": 397,
+              "text": "The DCC has the authority to approve Minor DCRs"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "GvPM82WjDK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 536,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 446,
+              "text": "In the event that it is unclear as to whether a DCR falls into the Major or Minor category"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_1-5-8.txt",
+      "text": "The DCC shall determine whether a DCR meets the criteria for Urgent if not already so designated by the RCC Major or Minor. If the originator submitting a DCR believes it should be handled as Urgent the RCC should be informed of that by the originator. If the RCC agrees the RCC has the authority to classify it as Urgent and the DCR will be handled in accordance with the process outlined below. The DCC has the authority to approve Minor DCRs. In the event that it is unclear as to whether a DCR falls into the Major or Minor category the DCR shall be considered Major."
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410356,
+        "id": 12001,
+        "lead_time": 13073.941,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "VKQ25D4xo7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 91,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "All DCRs for specifications and documents are sent to the Revision Control Coordinator (RCC)"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "BtJWEgi_Y1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 191,
+              "labels": [
+                "Activity"
+              ],
+              "start": 93,
+              "text": "The RCC is responsible for forwarding the DCR to the appropriate Document Control Coordinator (DCC)"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "fItb8XQhiY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 567,
+              "labels": [
+                "Activity"
+              ],
+              "start": 460,
+              "text": "The DCB portion of the DCR form (see Appendix A) shall be used by the DCC to record the forwarding of the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "hW8O8kTzfX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 266,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 193,
+              "text": "If the DCC receives a DCR that meets the conditions listed in Section D.1"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "x6oLaGRs3e",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 458,
+              "labels": [
+                "Activity"
+              ],
+              "start": 391,
+              "text": "(s)he shall forward the DCR to the Accessibility Working Group (AWG)"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_d-2-1.txt",
+      "text": "All DCRs for specifications and documents are sent to the Revision Control Coordinator RCC . The RCC is responsible for forwarding the DCR to the appropriate Document Control Coordinator DCC . If the DCC receives a DCR that meets the conditions listed in Section D.1 however a change in the normal DCR handling process must occur. Rather than forwarding the DCR to the Document Control Board s he shall forward the DCR to the Accessibility Working Group AWG . The DCB portion of the DCR form see Appendix A shall be used by the DCC to record the forwarding of the DCR."
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606411163,
+        "id": 24001,
+        "lead_time": 9110.053,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "7UDePJV7yu",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 59,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "Specified product and process characteristics are monitored"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ZnCWmXV3mm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 140,
+              "labels": [
+                "Activity"
+              ],
+              "start": 61,
+              "text": "Faults are registered, evaluated and appropriate corrective measures implemented"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "f7MCS99lfV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 648,
+              "labels": [
+                "Activity"
+              ],
+              "start": 490,
+              "text": "The data of all the measurement and testing equipment used during production for set testing functions is registered and it is calibrated at regular intervals"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "d1m0rtTV4I",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 990,
+              "labels": [
+                "Activity"
+              ],
+              "start": 884,
+              "text": "All production processes, where the results cannot be monitored by follow-up tests, are monitored separately"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "bjjoVYYOQH",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 248,
+              "labels": [
+                "Activity"
+              ],
+              "start": 162,
+              "text": "the control of these faulty products is laid down in detail in procedural instructions"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "oGw4kvuCdA",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 648,
+              "labels": [
+                "Statement",
+                "loop_begin"
+              ],
+              "start": 628,
+              "text": "at regular intervals"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "cHFxR0_ajX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 882,
+              "labels": [
+                "Activity"
+              ],
+              "start": 779,
+              "text": "measures for their care and maintenance have been laid down and the implementation thereof is monitored"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "8LqPgCoQMB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 965,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 909,
+              "text": "where the results cannot be monitored by follow-up tests"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "qmm_5-4.txt",
+      "text": "Specified product and process characteristics are monitored. Faults are registered evaluated and appropriate corrective measures implemented. In addition to this the control of these faulty products is laid down in detail in procedural instructions. Depending upon the particular application these processes determine where and in what form markings are affixed to the products. They not only include type manufacturer\u2019s or test markings but also order numbers serial numbers and the date. The data of all the measurement and testing equipment used during production for set testing functions is registered and it is calibrated at regular intervals. Similarly to ensure a constant product quality and to maintain the capacity for use of all the relevant production installations measures for their care and maintenance have been laid down and the implementation thereof is monitored. All production processes where the results cannot be monitored by follow up tests are monitored separately. This is done by means of the static process control of all the process parameters that verify the capacity of the process to achieve the desired results."
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410392,
+        "id": 17001,
+        "lead_time": 2907.123,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "zvt-22I4Dj",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 236,
+              "labels": [
+                "Activity"
+              ],
+              "start": 93,
+              "text": "Bidding Administration will provide the Engineering Document Management staff by email a final list of the Projects in the next month\u2019s Letting"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "QC22q-WIGL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 412,
+              "labels": [
+                "Activity"
+              ],
+              "start": 238,
+              "text": "The Design Group Manager responsible for Plans Reproduction for the Lettings (or a designated representative) will send a meeting request/email to the relevant Project Managers"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "4fJGVuU4mV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 686,
+              "labels": [
+                "Activity"
+              ],
+              "start": 610,
+              "text": "All Project Managers will submit electronic plans to Design Policy & Support"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "_euBdZh0sF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 883,
+              "labels": [
+                "Activity"
+              ],
+              "start": 814,
+              "text": "All offices are to submit their plans through Design Policy & Support"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "MrTDrHwp1m",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1068,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1007,
+              "text": "If required plans are not received by Design Policy & Support"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "mPRL6A2wMe",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1215,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1133,
+              "text": "Engineering Document Management staff will contact the relevant Project Manager(s)"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "NvqwsahPbf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1344,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1277,
+              "text": "If plans are not in our office by Close of Business on the due date"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "whidUFN_Rq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1460,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1345,
+              "text": "Engineering Document Management staff will email the State Transportation Office Engineer in Bidding Administration"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "ep_2-1-to-2-4.txt",
+      "text": "During the week before or the week of printing scanning leading up to the advertisement date Bidding Administration will provide the Engineering Document Management staff by email a final list of the Projects in the next month\u2019s Letting. The Design Group Manager responsible for Plans Reproduction for the Lettings or a designated representative will send a meeting request email to the relevant Project Managers reminding them that their project s is scheduled for the next month\u2019s Letting and plans are due in our office by 10:00AM on the Original Plans to Reproduction Section date on the Letting Schedule. All Project Managers will submit electronic plans to Design Policy & Support \u2013 Engineering Document Management staff by 10:00AM on the Original Plans to Reproduction Section date on the Letting Schedule. All offices are to submit their plans through Design Policy & Support including General Office Traffic Safety and Design and Districts. No office is to submit their plans directly to a vendor. If required plans are not received by Design Policy & Support Engineering Document Management by 10:00AM of the due date then Engineering Document Management staff will contact the relevant Project Manager s reminding them that plans were due in this office by 10:00AM. If plans are not in our office by Close of Business on the due date Engineering Document Management staff will email the State Transportation Office Engineer in Bidding Administration and let him know what projects are late in being submitted along with the Office and Project Manager responsible for those projects."
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606403240,
+        "id": 4001,
+        "lead_time": 35.836,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "EAojNOgFYm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 87,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "Changes may be requested by any member of the NGEC, Technical Subcommittee (TSC) or others"
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "source": "dm_1-5-2.txt",
+      "text": "Changes may be requested by any member of the NGEC Technical Subcommittee TSC or others by submitting a DCR that is found on the AASHTO web site. All changes must be requested by using a DCR."
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606403042,
+        "id": 2001,
+        "lead_time": 6089.732,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "9UHdgZAIis",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 262,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "Specification revisions which are identified during periods in which participation by the full Technical Subcommittee membership is precluded (\"closed\" periods, such as during an active procurement, bid evaluation or negotiation) must be initiated in the form of a DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "oAmqOUbvO6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 361,
+              "labels": [
+                "Activity"
+              ],
+              "start": 323,
+              "text": "and submitted to the NGEC Review Panel"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "VDo2t5lCpz",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 442,
+              "labels": [
+                "Activity"
+              ],
+              "start": 363,
+              "text": "The Review Panel remains responsible for reviewing NGEC specification revisions"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "LXF8OvMNrE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 678,
+              "labels": [
+                "Activity"
+              ],
+              "start": 544,
+              "text": "Proposed revisions which are accepted will be incorporated into the version of the specification against which the contract is awarded"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Y86E3mVXQF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 919,
+              "labels": [
+                "Activity"
+              ],
+              "start": 774,
+              "text": "changes to the specification which occurred during the proposal phase will be presented to the Revision Control and Document Control Coordinators"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "pAbvChCeQ_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1068,
+              "labels": [
+                "Activity"
+              ],
+              "start": 920,
+              "text": "who will make a decision (based on the nature of the revisions) as to whether or not these revisions should be incorporated into a \"base\" specification "
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "wACMtbYYWY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1199,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1115,
+              "text": "or should remain unique to the as-built specification for the particular procurement"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "5YDVzr60BB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1382,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1274,
+              "text": "these changes will be submitted as DCRs and be handled using the existing Document Management \"Urgent\" Process"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "tmYHDkjy9K",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 773,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 747,
+              "text": "Once contract award occurs"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "oIkI0IM9wy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1273,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1201,
+              "text": "If it is determined that changes to the base specification are warranted"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_1-5-12.txt",
+      "text": "Specification revisions which are identified during periods in which participation by the full Technical Subcommittee membership is precluded closed periods such as during an active procurement bid evaluation or negotiation must be initiated in the form of a DCR jointly by the Agencies and States involved in the activity and submitted to the NGEC Review Panel. The Review Panel remains responsible for reviewing NGEC specification revisions to ensure that revised specifications remain compliant with their respective Requirements Documents. Proposed revisions which are accepted will be incorporated into the version of the specification against which the contract is awarded and serve to create the as built specification for the procurement. Once contract award occurs changes to the specification which occurred during the proposal phase will be presented to the Revision Control and Document Control Coordinators who will make a decision based on the nature of the revisions as to whether or not these revisions should be incorporated into a base specification that would be used for additional procurements or should remain unique to the as built specification for the particular procurement. If it is determined that changes to the base specification are warranted these changes will be submitted as DCRs and be handled using the existing Document Management Urgent Process. It is expected that revisions which have been accepted by the Review Panel during the closed period will also be made to the base specification in parallel."
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606402334,
+        "id": 1001,
+        "lead_time": 5784.172,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "E5J3YbMpnj",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 56,
+              "labels": [
+                "Activity"
+              ],
+              "start": 21,
+              "text": "the RCC shall enter DCRs into a log"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "NLg96WiuQm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 101,
+              "labels": [
+                "Activity"
+              ],
+              "start": 66,
+              "text": "forward them to the appropriate DCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "VO10XRbldh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 205,
+              "labels": [
+                "Activity"
+              ],
+              "start": 103,
+              "text": "The DCC shall determine whether a DCR is Urgent (if not already so designated by the RCC), Major or Minor"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "KGBJ2Zp0Xc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 256,
+              "labels": [
+                "Activity"
+              ],
+              "start": 207,
+              "text": "Minor DCRs can be approved or rejected by the DCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "80cKXemPxB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 297,
+              "labels": [
+                "Activity"
+              ],
+              "start": 266,
+              "text": "returned to the RCC for holding"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "R3s7S5cN1G",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 424,
+              "labels": [
+                "Activity"
+              ],
+              "start": 347,
+              "text": "Major DCRs will be forwarded to the appropriate DCB Technical Subgroup leader"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "IHscDKGmcN",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 595,
+              "labels": [
+                "Activity"
+              ],
+              "start": 529,
+              "text": "the DCC will select the most appropriate Technical Subgroup leader"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "FISwcTICEp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 691,
+              "labels": [
+                "Activity"
+              ],
+              "start": 596,
+              "text": "and it will be up to that individual to coordinate the DCR review with other affected Subgroups"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "cgEKqujrZ9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 764,
+              "labels": [
+                "Activity"
+              ],
+              "start": 693,
+              "text": "The Technical Subgroup(s) will review the DCRs and make a recommendation"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "-phe14wAdp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 983,
+              "labels": [
+                "Activity"
+              ],
+              "start": 922,
+              "text": " it is returned to the DCC, who will then return it to the RCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "eRY0TcWBDl",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1129,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1030,
+              "text": "the RCC will create a Change Summary that will be routed to the Technical Subcommittee for approval"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "kI6V78zn2v",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1495,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1437,
+              "text": "the RCC will forward it to the Review Panel for its review"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "c7bcVENCxi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1898,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1770,
+              "text": "The Review Panel will provide a recommendation to the NGEC Board to approve or reject the changes included in the Change Summary"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "gRfZqYAc7l",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2156,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2060,
+              "text": "the recommendation and Change Summary will be forwarded to the NGEC Executive Board for approval"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "VilWW3DHu3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2240,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2158,
+              "text": "The NGEC Executive Board has the ability to hold individual DCRs in question aside"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "HiqOstX-KA",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2336,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2241,
+              "text": "while still approving or rejecting the remaining package of DCRs included in the Change Summary"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "5YnQuaqPpq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2410,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2338,
+              "text": "The disposition of each submitted DCR will be provided to the originator"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "tKpKwFjqO3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 0,
+              "text": "As they are received"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "bjiKTH1uMS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 65,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 61,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "BDMgCmFfXS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 266,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 261,
+              "text": "then "
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "eSZlmgiw0U",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 528,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 488,
+              "text": "If the DCR affects two or more subgroups"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "_OngHTyV--",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 922,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 861,
+              "text": "Once the DCR has been dispositioned by the Technical Subgroup"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "r7TASwfHMB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1029,
+              "labels": [
+                "Statement",
+                "polygon_begin"
+              ],
+              "start": 985,
+              "text": "At the beginning of the final review process"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "6x8OP6aYKv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1436,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 1401,
+              "text": "Upon approval of the Change Summary"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "UZ4ts7Tqqx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2060,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 1900,
+              "text": "Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval (or, disapproval of certain changes, as appropriate)"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_1-5-11.txt",
+      "text": "As they are received the RCC shall enter DCRs into a log and then forward them to the appropriate DCC. The DCC shall determine whether a DCR is Urgent if not already so designated by the RCC Major or Minor. Minor DCRs can be approved or rejected by the DCC and then returned to the RCC for holding until the beginning of the final review process. Major DCRs will be forwarded to the appropriate DCB Technical Subgroup leader for the functional group that is most appropriate for the DCR. If the DCR affects two or more subgroups the DCC will select the most appropriate Technical Subgroup leader and it will be up to that individual to coordinate the DCR review with other affected Subgroups. The Technical Subgroup s will review the DCRs and make a recommendation within 10 working days of receipt whether to approve approve with amendment or reject each DCR. Once the DCR has been dispositioned by the Technical Subgroup it is returned to the DCC who will then return it to the RCC. At the beginning of the final review process the RCC will create a Change Summary that will be routed to the Technical Subcommittee for approval. The Change Summary will provide the TSC Review Panel and NGEC with the relevant information regarding each change. The intention is that all changes in a Change Summary will be voted on as a group though the TSC can vote to reject individual DCRs in the Change Summary. Upon approval of the Change Summary the RCC will forward it to the Review Panel for its review. The purpose of this review is to ensure the changes approved have not inadvertently or negatively affected a document\u2019s compliance with the original requirements document. This step is analogous to the review of a completed specification before approval by the NGEC Board. The Review Panel will provide a recommendation to the NGEC Board to approve or reject the changes included in the Change Summary. Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval or disapproval of certain changes as appropriate the recommendation and Change Summary will be forwarded to the NGEC Executive Board for approval. The NGEC Executive Board has the ability to hold individual DCRs in question aside while still approving or rejecting the remaining package of DCRs included in the Change Summary. The disposition of each submitted DCR will be provided to the originator both approved approved as amended and rejected together with the rationale for amending a DCR or its rejection."
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410363,
+        "id": 14001,
+        "lead_time": 1570.172,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "X1Www1o8fQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 110,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The Technical Subcommittee (TSC) will then evaluate and discuss the proposed change to the Requirements Document"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "jVH-b4Xtmu",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 213,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 135,
+              "text": "Upon review and discussion of the proposed change to the Requirements Document"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "_NHZyIFIV5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 341,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 255,
+              "text": "If the TSC determines this is not a change it wishes to forward to the Executive Board"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "fsfNyZF8dQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 376,
+              "labels": [
+                "Activity"
+              ],
+              "start": 342,
+              "text": "it will reject the proposed change"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "2nWO3bndC0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 391,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 378,
+              "text": "At this point"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "VfMTSY8BvW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 422,
+              "labels": [
+                "Activity"
+              ],
+              "start": 392,
+              "text": "the DCR is returned to the DCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "1oj3FPp_Qs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 436,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 432,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "d-x95QUhsg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 504,
+              "labels": [
+                "Activity"
+              ],
+              "start": 437,
+              "text": "report back to the submitter of the DCR as delineated in Appendix B"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "yynlgT8MR-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 559,
+              "labels": [
+                "Activity"
+              ],
+              "start": 518,
+              "text": "the AWG will be notified of the rejection"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "hMFyL8Bvdm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 693,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 561,
+              "text": "If the TSC agrees in principal with the proposed change, but believes more work is needed before the Requirements Document is changed"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "29ARTh5zPw",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 760,
+              "labels": [
+                "Activity"
+              ],
+              "start": 694,
+              "text": "it can send the recommendation back to the AWG for additional work"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "CDTuIsrL1Y",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 870,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 762,
+              "text": "If the TSC believes that the proposed Requirements Document language just needs some editorial modifications"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "GuiRZzBgie",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 956,
+              "labels": [
+                "Activity"
+              ],
+              "start": 871,
+              "text": "the TSC can either send the language back to the AWG, or make the modifications itself"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "s6ViMPkxYn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 990,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 958,
+              "text": "In the case of the latter choice"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "1On6kleEut",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1041,
+              "labels": [
+                "Activity"
+              ],
+              "start": 991,
+              "text": "the TSC would then follow the \u201cApprove\u201d path below"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "IsErX7wiUr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1146,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1090,
+              "text": "the TSC should tell the AWG what is needed to be changed"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "O62BRW-RIj",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1089,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1043,
+              "text": "If the DCR requires modification at this point"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "wb_M5sbE6a",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1192,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1148,
+              "text": "Depending upon how extensive the changes are"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "30e_3CDcOK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1256,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1193,
+              "text": "the AWG can either edit the language it had previously modified"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "UDklQmGz2y",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1302,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1260,
+              "text": "it can issue a new DCR on the same subject"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "uVZeSL5u00",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1339,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1304,
+              "text": "If the AWG takes this latter action"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "NcIwxOSLlc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1373,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1340,
+              "text": "it should send the DCR to the RCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "dyMYAUZdaN",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1542,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1463,
+              "text": "the author of the original DCR will be notified with the status of the document"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "YFIS1U3YQ1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1596,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1544,
+              "text": "If the TSC agrees with the recommendation of the AWG"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "mmiLFs3iiD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1675,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1597,
+              "text": "it will vote to approve sending the proposed change to the Executive Committee"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "LsnrLbo9ha",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1750,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1677,
+              "text": "The TSC may also vote to amend the recommendation to address shortcomings"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "tY6icAhfqd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1904,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1790,
+              "text": "All of the supporting documentation that came with the package to the TSC shall be sent to the Executive Committee"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "TfR5MeEyl0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 40,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 36,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Ocm9q6VQul",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 253,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 214,
+              "text": "the TSC can make one of three decisions"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_d-2-2-2.txt",
+      "text": "The Technical Subcommittee TSC will then evaluate and discuss the proposed change to the Requirements Document as provided by the AWG. Upon review and discussion of the proposed change to the Requirements Document the TSC can make one of three decisions. If the TSC determines this is not a change it wishes to forward to the Executive Board it will reject the proposed change. At this point the DCR is returned to the DCC who will then report back to the submitter of the DCR as delineated in Appendix B. In addition the AWG will be notified of the rejection. If the TSC agrees in principal with the proposed change but believes more work is needed before the Requirements Document is changed it can send the recommendation back to the AWG for additional work. If the TSC believes that the proposed Requirements Document language just needs some editorial modifications the TSC can either send the language back to the AWG or make the modifications itself. In the case of the latter choice the TSC would then follow the \u201cApprove\u201d path below. If the DCR requires modification at this point the TSC should tell the AWG what is needed to be changed. Depending upon how extensive the changes are the AWG can either edit the language it had previously modified or it can issue a new DCR on the same subject. If the AWG takes this latter action it should send the DCR to the RCC so that it can be properly logged into the change management system records. In addition the author of the original DCR will be notified with the status of the document. If the TSC agrees with the recommendation of the AWG it will vote to approve sending the proposed change to the Executive Committee. The TSC may also vote to amend the recommendation to address shortcomings identified by the full TSC membership. All of the supporting documentation that came with the package to the TSC shall be sent to the Executive Committee along with a summary of the TSC deliberations on the matter including a brief justification for any modifications made by the TSC and the results of the vote to approve the change to the Requirements Document."
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606403392,
+        "id": 6001,
+        "lead_time": 84.513,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "P9AeTtUG7x",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 280,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The Revision Control Coordinator (RCC) shall be responsible for administering DCRs: reviewing for completeness, assigning a tracking number, collating and compiling completed DCRs and making the appropriate changes to the affected documents, and managing the document revision process."
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "yDQYdETtDo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 371,
+              "labels": [
+                "Activity"
+              ],
+              "start": 281,
+              "text": "The RCC shall also develop and administer a document archiving, tracking and storage system"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "UieFiqtZ8-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 478,
+              "labels": [
+                "Activity"
+              ],
+              "start": 443,
+              "text": "The RCC shall appoint an understudy"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "6vrhHKzixm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 705,
+              "labels": [
+                "Activity"
+              ],
+              "start": 582,
+              "text": "The name, affiliation and contact information for the RCC and RCC understudy shall be communicated to all members of the TSC"
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "source": "dm_1-5-4.txt",
+      "text": "The Revision Control Coordinator RCC shall be responsible for administering DCRs: reviewing for completeness assigning a tracking number collating and compiling completed DCRs and making the appropriate changes to the affected documents and managing the document revision process. The RCC shall also develop and administer a document archiving tracking and storage system for all DCRs previous revisions of specifications and other documents. The RCC shall appoint an understudy who shall be fully trained on all aspects of the DCR process and who can act as primary RCC if needed. The name affiliation and contact information for the RCC and RCC understudy shall be communicated to all members of the TSC."
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606411066,
+        "id": 23001,
+        "lead_time": 8739.217,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "aQtnwR4mks",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 269,
+              "labels": [
+                "Activity"
+              ],
+              "start": 210,
+              "text": "they are submitted to a comprehensive qualification process"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "1ag5P9zPt2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 749,
+              "labels": [
+                "Activity"
+              ],
+              "start": 645,
+              "text": "The purchasing departments ensure that the documents that are referred to have been reviewed and cleared"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "HDLxPGjMja",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 807,
+              "labels": [
+                "Activity"
+              ],
+              "start": 754,
+              "text": "that they have been placed at the supplier's disposal"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "atRctA9a6Q",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 885,
+              "labels": [
+                "Activity"
+              ],
+              "start": 809,
+              "text": "The supplier is informed immediately of any changes to purchasing documents."
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ggjPjMna3a",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 209,
+              "labels": [
+                "Activity"
+              ],
+              "start": 183,
+              "text": "new suppliers are approved"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "EkWXTQFbqY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 182,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 176,
+              "text": "Before"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "BfBQTpvfzj",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 930,
+              "labels": [
+                "Activity"
+              ],
+              "start": 886,
+              "text": "Incoming materials or products are inspected"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "_cKSSwBsN5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1118,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1043,
+              "text": "The purchasing and quality management departments assess the main suppliers"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "qmm_5-3.txt",
+      "text": "CCH only places orders for products and services with manufacturers and service providers that have proved that they are qualified by supplying satisfactory goods or services. Before new suppliers are approved they are submitted to a comprehensive qualification process that includes various alternative individual stages. In addition to this when selecting suppliers and for optimising supply management activities CCH also makes use of its possibilities as part of a global company group structure. Due to the use of EDP tools the continuous purchasing process for cleared materials from the respective approved suppliers is highly automated. The purchasing departments ensure that the documents that are referred to have been reviewed and cleared and that they have been placed at the supplier s disposal. The supplier is informed immediately of any changes to purchasing documents. Incoming materials or products are inspected to ensure that they fulfil the quality requirements whereby a set goods inward inspection procedure is applied. The purchasing and quality management departments assess the main suppliers with regard to quality price fixing and services rendered at regular intervals."
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606411384,
+        "id": 26001,
+        "lead_time": 9333.606,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "hynLTrp0dM",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 119,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "When appointing new employees, the qualifications of the applicants are confirmed in accordance with the job description"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Y2NOBeXEXd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 200,
+              "labels": [
+                "Activity"
+              ],
+              "start": 121,
+              "text": "Additionally, they are instructed under the direction of experienced specialists"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "0QJ8qq06uL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 218,
+              "labels": [
+                "Statement",
+                "and_begin"
+              ],
+              "start": 202,
+              "text": "At the same time"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "1LzI3JNIy_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 345,
+              "labels": [
+                "Activity"
+              ],
+              "start": 219,
+              "text": "the employees also become acquainted with the quality assurance instructions, processes and measures for their specialized area"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "gW6sNCjOR8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 505,
+              "labels": [
+                "Activity"
+              ],
+              "start": 398,
+              "text": "the training requirements and the ensuing training measures for the following period of time are determined"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "mORyL6rAxp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 626,
+              "labels": [
+                "Activity"
+              ],
+              "start": 544,
+              "text": "The personnel department organizes and coordinates the respective training courses"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "TPXBwsGsOG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 832,
+              "labels": [
+                "Activity"
+              ],
+              "start": 767,
+              "text": "an assessment of the effectiveness of the training is carried out"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "NXXmtKbw5E",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 763,
+              "labels": [
+                "Activity"
+              ],
+              "start": 668,
+              "text": "At CCH appropriate records are kept on the qualification, training and instruction of employees "
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "qmm_6-2.txt",
+      "text": "When appointing new employees the qualifications of the applicants are confirmed in accordance with the job description. Additionally they are instructed under the direction of experienced specialists. At the same time the employees also become acquainted with the quality assurance instructions processes and measures for their specialized area. In order to guarantee a purposive further training the training requirements and the ensuing training measures for the following period of time are determined during personal talks with employees. The personnel department organizes and coordinates the respective training courses on the basis of this requirement report. At CCH appropriate records are kept on the qualification training and instruction of employees and an assessment of the effectiveness of the training is carried out."
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606411943,
+        "id": 29001,
+        "lead_time": 9908.575,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "Lu8abk0gus",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 284,
+              "labels": [
+                "Activity"
+              ],
+              "start": 134,
+              "text": "a note about the tickets' receipt and the planned shipping method (which has to be determined by an employee of the customer service) have to be recorded"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "UoVlQBK7iU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 106,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 100,
+              "text": "Before"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "fdA5bJKKoM",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 133,
+              "labels": [
+                "Activity"
+              ],
+              "start": 107,
+              "text": "the tickets can be shipped"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "AJHmciXicU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 535,
+              "labels": [
+                "Activity"
+              ],
+              "start": 527,
+              "text": "shipment"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "buQr9x-F9y",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 605,
+              "labels": [
+                "Activity"
+              ],
+              "start": 536,
+              "text": "an employee of the shipping department has to generate a cover letter"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "8QQiZhGZ2f",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 526,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 520,
+              "text": "Before"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "lzxsjttV2U",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 631,
+              "labels": [
+                "Activity"
+              ],
+              "start": 607,
+              "text": "It must be printed twice"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "7GBsQz7kPI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 707,
+              "labels": [
+                "Activity"
+              ],
+              "start": 633,
+              "text": "The shipment department packs letters, packages and certified mails itself;"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "64Q0HLaut8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 758,
+              "labels": [
+                "Activity"
+              ],
+              "start": 708,
+              "text": "express mailings are packed by the express service"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "qJC94V2BqO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 840,
+              "labels": [
+                "Activity"
+              ],
+              "start": 811,
+              "text": "a new order has to be created"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "S1imtw01pe",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 920,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 898,
+              "text": "The resulting order id"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Hg1zFYsKZo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 978,
+              "labels": [
+                "Activity"
+              ],
+              "start": 898,
+              "text": "The resulting order id is used as ident number and must be attached to the order"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "25gteejbDc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 990,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 980,
+              "text": "Afterwards"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Sdu_j6L3F9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1132,
+              "labels": [
+                "Activity"
+              ],
+              "start": 991,
+              "text": "the delivery is placed in the outbox (letters, packages and certified mails) or at the reception (for collection by the express service provider)"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "aaSl0EoGEZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1141,
+              "labels": [
+                "end"
+              ],
+              "start": 1134,
+              "text": "Finally"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "mxP1y6BTWp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1222,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1142,
+              "text": "the process is recorded in the system by an employee of the invoicing department"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "td.txt",
+      "text": "Tickets may be delivered in different ways kinds: by certified mail per parcel or per express mail. Before the tickets can be shipped a note about the tickets receipt and the planned shipping method which has to be determined by an employee of the customer service have to be recorded in the booking system. The shipping method depends on among other things ticket kind volume of the order package the planned date of departure express and the attachment of additional documents e.g. passport for visas certified mail . Before shipment an employee of the shipping department has to generate a cover letter. It must be printed twice. The shipment department packs letters packages and certified mails itself; express mailings are packed by the express service. To determine the ident number for express mailings a new order has to be created via the service provider s website shipment department . The resulting order id is used as ident number and must be attached to the order. Afterwards the delivery is placed in the outbox letters packages and certified mails or at the reception for collection by the express service provider . Finally the process is recorded in the system by an employee of the invoicing department."
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606409883,
+        "id": 8001,
+        "lead_time": 12809.017,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "Eo06yUuHUP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 89,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The RCC will be responsible for preparing change summaries and submitting them to the TSC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "U6uEjbwofL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 515,
+              "labels": [
+                "Activity"
+              ],
+              "start": 406,
+              "text": "DCRs submitted after the final review process has begun for a specific revision level, will be held by the RCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "4Ajc9dK7lh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 666,
+              "labels": [
+                "Activity"
+              ],
+              "start": 565,
+              "text": "The RCC and DCC shall use their judgment and experience to determine the cut-off date to accept DCRs "
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "bQ8XByNZcL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 346,
+              "labels": [
+                "Statement",
+                "polygon_begin"
+              ],
+              "start": 235,
+              "text": "Once the change summary and final review process has begun for a specific revision level of a specific document"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "lF-maXHR5q",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 698,
+              "labels": [
+                "Statement",
+                "loop_begin"
+              ],
+              "start": 666,
+              "text": "for each document revision cycle"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_1-5-9.txt",
+      "text": "The RCC will be responsible for preparing change summaries and submitting them to the TSC according to a schedule which will provide adequate time for the final review of changes for a document prior to a NGEC Executive Board meeting. Once the change summary and final review process has begun for a specific revision level of a specific document no further DCRs will be accepted for that DCR compilation. DCRs submitted after the final review process has begun for a specific revision level will be held by the RCC until the review and update process is complete. The RCC and DCC shall use their judgment and experience to determine the cut off date to accept DCRs for each document revision cycle."
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410364,
+        "id": 15001,
+        "lead_time": 2195.307,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "WLpb24JFzj",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 78,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The TSC will then evaluate and discuss the proposed change to the requirements"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "UDW3ODtB4R",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 13,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Gk7PuDwtDX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 129,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 80,
+              "text": "Upon review and discussion of the proposed change"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "S6k4KDsm0n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 170,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 130,
+              "text": "the NGEC can make one of three decisions"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "QVM5r78kCl",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 247,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 172,
+              "text": "If the NGEC determines it does not want to implement the proposed change(s)"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "6P_c7jijEg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 272,
+              "labels": [
+                "Activity"
+              ],
+              "start": 247,
+              "text": "it will reject the change"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "McetflehAd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 322,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 309,
+              "text": "at this point"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "txgqSTZOG0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 353,
+              "labels": [
+                "Activity"
+              ],
+              "start": 323,
+              "text": "the DCR is returned to the DCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "OAt_WV7aW6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 367,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 363,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "39dDXUPfEJ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 408,
+              "labels": [
+                "Activity"
+              ],
+              "start": 368,
+              "text": "report back to the originator of the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "uEJDPu2FM_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 540,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 410,
+              "text": "If the NGEC determines the change is appropriate, but that more study or work is needed before the Requirements Document is changed"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "5j2SeCVt6q",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 605,
+              "labels": [
+                "Activity"
+              ],
+              "start": 541,
+              "text": "it can send the recommendation back to either the TSC or the AWG"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "QYkq5J4pGQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 650,
+              "labels": [
+                "Statement"
+              ],
+              "start": 607,
+              "text": "If the AWG is required to perform more work"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "2uihQ6FhPf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 677,
+              "labels": [
+                "Activity"
+              ],
+              "start": 651,
+              "text": "the TSC should be notified"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "b75c7pWD5s",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 788,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 679,
+              "text": "If the NGEC determines that the proposed Requirements Document language requires only editorial modifications"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "CEUR8ouLlS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 857,
+              "labels": [
+                "Activity"
+              ],
+              "start": 789,
+              "text": "it can make modifications itself, and follow the \u201cApprove\u201d path below"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "lm7HxSckbi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1006,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 859,
+              "text": "Upon approving the proposed change to the Requirements Document, or amending and approving the proposed change to address any perceived shortcomings"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "1W6cSJoC44",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1156,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1052,
+              "text": "The NGEC will request that the Requirements Document be appropriately changed by Technical Support Staff"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "3175-7FpWB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1165,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 1161,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "rzY4WvHuC3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1195,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1166,
+              "text": "posted on the AASHTO web site"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "OEpBSIA_SN",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1395,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1324,
+              "text": "The NGEC will inform the DCC of the change to the Requirements Document"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_d-2-2-3.txt",
+      "text": "The TSC will then evaluate and discuss the proposed change to the requirements. Upon review and discussion of the proposed change the NGEC can make one of three decisions. If the NGEC determines it does not want to implement the proposed change s it will reject the change. As would happen with any rejection at this point the DCR is returned to the DCC who will then report back to the originator of the DCR. If the NGEC determines the change is appropriate but that more study or work is needed before the Requirements Document is changed it can send the recommendation back to either the TSC or the AWG. If the AWG is required to perform more work the TSC should be notified. If the NGEC determines that the proposed Requirements Document language requires only editorial modifications it can make modifications itself and follow the \u201cApprove\u201d path below. Upon approving the proposed change to the Requirements Document or amending and approving the proposed change to address any perceived shortcomings the NGEC will deal with the following tasks. The NGEC will request that the Requirements Document be appropriately changed by Technical Support Staff and then posted on the AASHTO web site along with a brief description of the reasons for any modifications to the proposed change approved by the Executive Committee. The NGEC will inform the DCC of the change to the Requirements Document."
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606411281,
+        "id": 25001,
+        "lead_time": 9216.893,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "MzLtT39Gyg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 212,
+              "labels": [
+                "Activity"
+              ],
+              "start": 168,
+              "text": "it is repaired based on an estimate of costs"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "iFmt6J7d8X",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 272,
+              "labels": [
+                "Activity"
+              ],
+              "start": 213,
+              "text": "or the customer is offered a new appliance as a replacement"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "9sA84CPzZR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 312,
+              "labels": [
+                "Statement"
+              ],
+              "start": 274,
+              "text": "Before being sent back to the customer"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "7npzd55m5B",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 431,
+              "labels": [
+                "Activity"
+              ],
+              "start": 313,
+              "text": "all equipment and systems are subjected to the required factory inspections to ensure that it is in good working order"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "YTIIB__-xs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 73,
+              "labels": [
+                "Activity"
+              ],
+              "start": 33,
+              "text": "the examination of the supplied products"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "qmm_5-5.txt",
+      "text": "The after sales service includes the examination of the supplied products to establish any faults and depending upon the results if required together with the customer it is repaired based on an estimate of costs or the customer is offered a new appliance as a replacement. Before being sent back to the customer all equipment and systems are subjected to the required factory inspections to ensure that it is in good working order."
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410396,
+        "id": 21001,
+        "lead_time": 7273.408,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "8aF0c-mulr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 36,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "Customer requirements are registered"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "mUEPBZUl5m",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 145,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 141,
+              "text": "Then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ih89p7wwCm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 279,
+              "labels": [
+                "Activity"
+              ],
+              "start": 247,
+              "text": "a development project is defined"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "9nnxAUmAT5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 346,
+              "labels": [
+                "Activity"
+              ],
+              "start": 311,
+              "text": "the scope of the project is defined"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "wwKFFOloT1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 383,
+              "labels": [
+                "Activity"
+              ],
+              "start": 351,
+              "text": "an initial specification written"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "hzzhAdwcLv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 440,
+              "labels": [
+                "Activity"
+              ],
+              "start": 388,
+              "text": "a risk and market price analysis is then carried out"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "X3fmsr1UQ9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 428,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 424,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "9xP27hqOql",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 718,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 698,
+              "text": "During the following"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "3cq7xWqVmw",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 782,
+              "labels": [
+                "Statement",
+                "loop_begin"
+              ],
+              "start": 733,
+              "text": "the risk analysis is repeated by the project team"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "t79PFafMl0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 974,
+              "labels": [
+                "Activity"
+              ],
+              "start": 912,
+              "text": "a first specification and an initial project plan are drawn up"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "IQRbSfBpKx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1298,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1133,
+              "text": "Where necessary, a DFMEA, a production assessment and a patent analysis are also carried out, and critical quality characteristics and a purchasing strategy are defined"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "M41pBDzn3P",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1348,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1315,
+              "text": "the product is developed in depth"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "fz87GaB3MX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1666,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1513,
+              "text": "Necessary basics for the implementation, such as the selection of materials, if applicable, a PFMEA, testing instructions, control plans and tools are defined"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ZqNsEmj4rZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1790,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1762,
+              "text": "all the basics are rechecked"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ke7efjz2zs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1807,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1795,
+              "text": "if necessary"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "CfLkrzkszR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1824,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1808,
+              "text": "they are revised"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "4sSKnHMQDc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1837,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1827,
+              "text": " finalized"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "dZW8Vi59l-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1862,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1842,
+              "text": "production is set up"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ivC_YNkQ5R",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2182,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 2124,
+              "text": "A successful validation with a pilot series is followed by"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "CLUB4z2DQ5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2286,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2183,
+              "text": "the market launch with the preparation and furnishing of the necessary training materials and documents"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "teS3jNgtG4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2402,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2300,
+              "text": "production documents such as control and production plans, capacity assessments and PFMEA are finalized"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "JQpILB8oKw",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2436,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 2404,
+              "text": "After a successful market launch"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "t8mBl28x7V",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2515,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2475,
+              "text": "an individually determined startup phase"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "dm-ttFeaSH",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2474,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 2469,
+              "text": "after"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "vaZHObeATv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2468,
+              "labels": [
+                "Statement",
+                "end"
+              ],
+              "start": 2437,
+              "text": "a development project is closed"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "kyzTPVnZq4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2595,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2522,
+              "text": "all the documents relating to the project are archived and formally filed"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "qdNT2m2D8x",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2614,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 2597,
+              "text": "Where appropriate"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "-4OGB3Ly0K",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2714,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2615,
+              "text": "the \"Lessons Learned\" from a project can also be recorded and filed together with the other documents"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "_hZqTHBAM_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2914,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 2716,
+              "text": "In the event of amendments to technical documents due to changes to the specification, customer requirements, materials or a modified manufacturing process or because of internal/external test results"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "5h0EGnEdh0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2991,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2915,
+              "text": "they shall be processed in accordance with the specified amendment procedure"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "qmm_5-1.txt",
+      "text": "Customer requirements are registered by various means of communication with the customer and on numerous different functional levels at CCH. Then based on these requirements which are then bundled and assessed by the product management department a development project is defined. During this preliminary phase the scope of the project is defined and an initial specification written and a risk and market price analysis is then carried out on this basis. The risk analysis subdivides projects into 5 categories from low risk to risky: Runner Minor Repeater Major Repeater Stranger and Alien. The purpose of the categorization is to place more focus on the necessary tasks by the PROLaunch system. During the following Concept Phase the risk analysis is repeated by the project team that has now been established and the market analysis is concretised based on the Market Customer Requirements MCR . In addition a first specification and an initial project plan are drawn up based on a rough concept. Phase 2 features a concrete concept on the content which can result in a first prototype with which the specification is finalized. Where necessary a DFMEA a production assessment and a patent analysis are also carried out and critical quality characteristics and a purchasing strategy are defined. During Phase 3 the product is developed in depth on the basis of the detailed concept and where necessary this is supported by further samples and a detailed planning by the production and purchasing departments. Necessary basics for the implementation such as the selection of materials if applicable a PFMEA testing instructions control plans and tools are defined during this phase on the basis of which any necessary investments are made. For the validation all the basics are rechecked and if necessary they are revised or finalized and production is set up with the installation of all the production and testing facilities installation of routines e.g. KANBAN and training of personnel. The aim is to manufacture a pilot series under series production conditions and their verification for series production release. A successful validation with a pilot series is followed by the market launch with the preparation and furnishing of the necessary training materials and documents. In addition production documents such as control and production plans capacity assessments and PFMEA are finalized. After a successful market launch a development project is closed after an individually determined startup phase. Here all the documents relating to the project are archived and formally filed. Where appropriate the Lessons Learned from a project can also be recorded and filed together with the other documents. In the event of amendments to technical documents due to changes to the specification customer requirements materials or a modified manufacturing process or because of internal external test results they shall be processed in accordance with the specified amendment procedure."
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410136,
+        "id": 10001,
+        "lead_time": 12878.711,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "T41Yu_RD6k",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 44,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "All DCRs shall be archived for recordkeeping"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "x4XxOH4VuW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 251,
+              "labels": [
+                "Activity"
+              ],
+              "start": 145,
+              "text": "Obsolete specifications and documents, and their relevant DCRs, shall also be archived and stored by the RCC"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_1-6-2.txt",
+      "text": "All DCRs shall be archived for recordkeeping. The RCC shall be responsible for archiving and storage of all records relating to the DCR process. Obsolete specifications and documents and their relevant DCRs shall also be archived and stored by the RCC."
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410362,
+        "id": 13001,
+        "lead_time": 18662.302,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "PovU0Zy9Q_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 34,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 0,
+              "text": "Upon receipt of a DCR from the DCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "hNSdkYH_z9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 91,
+              "labels": [
+                "Activity"
+              ],
+              "start": 35,
+              "text": "the AWG shall begin an evaluation of the proposed change"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "zOFcYB2f8i",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 191,
+              "labels": [
+                "Activity"
+              ],
+              "start": 93,
+              "text": "The AWG may have to reach out to PRIIA Technical Working Groups, or outside agencies for assistance"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "SB_-6D2ZAa",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 219,
+              "labels": [
+                "Statement",
+                "end"
+              ],
+              "start": 193,
+              "text": "At the end of this process"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "4lPKomaSSm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 316,
+              "labels": [
+                "Activity"
+              ],
+              "start": 220,
+              "text": "the AWG shall make a recommendation regarding the feasibility of the change requested in the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "xRzpeXp7uh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 391,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 318,
+              "text": "If the AWG determines the change requested is not feasible or appropriate"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "TGoncD-Avh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 415,
+              "labels": [
+                "Activity"
+              ],
+              "start": 392,
+              "text": "it shall reject the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "drNIZRPHsY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 430,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 417,
+              "text": "At this point"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "U-PM7FZ_06",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 461,
+              "labels": [
+                "Activity"
+              ],
+              "start": 431,
+              "text": "the DCR is returned to the DCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "x0fwyrD9nM",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 515,
+              "labels": [
+                "Activity"
+              ],
+              "start": 476,
+              "text": "report back to the submitter of the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "WgnsfMz8zg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 475,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 462,
+              "text": "who will then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "yGLLXIKC03",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 586,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 517,
+              "text": "If the AWG determines that the change requested should be implemented"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ixPG1yODv8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 660,
+              "labels": [
+                "Activity"
+              ],
+              "start": 587,
+              "text": "it shall draft suggested language for modifying the Requirements Document"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "HrfGP5eFWj",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 766,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 662,
+              "text": "In the case of a complex suggestion in which the system/change requires detailed implementation guidance"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "bmYjHituw3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 904,
+              "labels": [
+                "Activity"
+              ],
+              "start": 767,
+              "text": "a draft specification\u2014or existing specification, if available\u2014shall be included in the information sent to the Technical Subcommittee (TSC)"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "QraXT6SBP5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1005,
+              "labels": [
+                "Activity"
+              ],
+              "start": 914,
+              "text": "all supporting documentation as developed during its evaluation, will be provided to the TSC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "w5YbhQaNhO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1077,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1007,
+              "text": "If the AWG determines it should approve the change proposed in the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "QjJqdOZReR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1128,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1078,
+              "text": "it shall determine if the DCR text is satisfactory"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_d-2-2-1.txt",
+      "text": "Upon receipt of a DCR from the DCC the AWG shall begin an evaluation of the proposed change. The AWG may have to reach out to PRIIA Technical Working Groups or outside agencies for assistance. At the end of this process the AWG shall make a recommendation regarding the feasibility of the change requested in the DCR. If the AWG determines the change requested is not feasible or appropriate it shall reject the DCR. At this point the DCR is returned to the DCC who will then report back to the submitter of the DCR. If the AWG determines that the change requested should be implemented it shall draft suggested language for modifying the Requirements Document. In the case of a complex suggestion in which the system change requires detailed implementation guidance a draft specification\u2014or existing specification if available\u2014shall be included in the information sent to the Technical Subcommittee TSC . Further all supporting documentation as developed during its evaluation will be provided to the TSC. If the AWG determines it should approve the change proposed in the DCR it shall determine if the DCR text is satisfactory."
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606403204,
+        "id": 3001,
+        "lead_time": 161.138,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "gWMp9nMz6k",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 34,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The DCB shall develop the criteria"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "b_mqMaY98Z",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 216,
+              "labels": [
+                "Activity"
+              ],
+              "start": 129,
+              "text": "The criteria developed by the DCB shall be submitted to the TSC for review and approval"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Z0jMH2s0Zd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 432,
+              "labels": [
+                "Activity"
+              ],
+              "start": 342,
+              "text": "Rejected DCRs may be resubmitted by the originator upon receipt of rationale for rejection"
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "source": "dm_1-5-13.txt",
+      "text": "The DCB shall develop the criteria to be used to determine whether a DCR should be accepted accepted with amendment or rejected. The criteria developed by the DCB shall be submitted to the TSC for review and approval to ensure that revised specifications and documents continue to meet the TSC\u2019s stated goals for standardized rail equipment. Rejected DCRs may be resubmitted by the originator upon receipt of rationale for rejection."
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410395,
+        "id": 20001,
+        "lead_time": 5690.148,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "RCrtiPOhg1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 37,
+              "labels": [
+                "polygon_begin"
+              ],
+              "start": 0,
+              "text": "The Procure-to-Pay (P2P) process begins"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ts8fqJdfIJ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 151,
+              "labels": [
+                "Activity"
+              ],
+              "start": 43,
+              "text": "an associate of Cognizant or an authorized \"Requisitioner (REQ)\", decides a specific product or service is needed"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "mc5bxGDcNZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 236,
+              "labels": [
+                "Activity"
+              ],
+              "start": 153,
+              "text": "He or she, the \"Requisitioner (REQ),\" is expected to make an informed purchasing decision"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "qRF5ns7N9c",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 617,
+              "labels": [
+                "Statement"
+              ],
+              "start": 492,
+              "text": "A \"Requisitioner (REQ)\" (usually an associate or an authorized \"Procurement BUYER (PT)\" at Cognizant) officially initiates the purchase"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "79VhOtUTsp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 762,
+              "labels": [
+                "Activity"
+              ],
+              "start": 714,
+              "text": "the requisitioner creates a request for purchase"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "9lHsGDdNew",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1027,
+              "labels": [
+                "Activity"
+              ],
+              "start": 965,
+              "text": "Cognizant formalizes its purchase of your products or services"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "9SskbrVN-t",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1579,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1480,
+              "text": "you deliver the products or services as specified on the P.O. the Cognizant Requisitioner signs for"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "33-4jE6pSv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1592,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1580,
+              "text": "or otherwise"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "oafXSzqNXf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1622,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1593,
+              "text": "accepts delivery of the order"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "tBWMAXH1O5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1625,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1623,
+              "text": "or"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "g_uXRO82i3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1689,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1626,
+              "text": "initiates any claims or returns directly with your organization"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "6euFRDHOs5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1806,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 1743,
+              "text": "Once your products or services have been received in good order"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "4mPvzXoKM5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1881,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1807,
+              "text": "the Requisitioner will receipt the order in Cognizant\u2019s CAPPS/ARIBA system"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "WUM6bs4d7L",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1921,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1885,
+              "text": "notify their department business POC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Ayx8RMhCuX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1884,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1882,
+              "text": "or"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Mie6SaXRCK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2087,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2035,
+              "text": "The supplier organization should generate an invoice"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "fLJXUCmLe5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2254,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2213,
+              "text": "send it directly to Accounts Payable (A/P)"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "8LO97ZCVnZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2292,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 2256,
+              "text": "When your invoice is received by A/P"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "WerCS2IVpW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2440,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2293,
+              "text": "it is entered into the Cognizant financial CAPPS system, matched to the corresponding P.O., and placed in a queue for payment within negotiated terms"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "BB03DETyWY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2559,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2505,
+              "text": "payment activities completely happen in CAPPS/Catalyst"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "XOztkamiAm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2504,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 2442,
+              "text": "Once an EDI and physical invoices are in the queue for payment"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Yw2aamr-47",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2623,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2561,
+              "text": "A/P personnel physically do the 2-way/3-way match for invoices"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "t_q83fPlnc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2677,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2634,
+              "text": "CAPPS selects invoices eligible for payment"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "oMTb47hA7n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2838,
+              "labels": [
+                "xor_begin"
+              ],
+              "start": 2770,
+              "text": "For invoices related to check payments or advance payments via check"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "6MMZjmkzdp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3033,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2839,
+              "text": "thee procurement Buyer or requisitioner should raise a check request in the Cognizant CAPPS/Catalyst system and the check is produced for those invoices and is sent to the bank for further steps"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "QiLC7UkSiL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3093,
+              "labels": [
+                "Activity"
+              ],
+              "start": 3038,
+              "text": "monitoring and resolving unnecessary process exceptions"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "po.txt",
+      "text": "The Procure to Pay P2P process begins when an associate of Cognizant or an authorized Requisitioner REQ decides a specific product or service is needed. He or she the Requisitioner REQ is expected to make an informed purchasing decision and to use the authorized buying method in this case the Purchase Order P.O. to help ensure that transactions can proceed smoothly the correct products and services are delivered to the right place at the right time and you the supplier are paid on time. A Requisitioner REQ usually an associate or an authorized Procurement BUYER PT at Cognizant officially initiates the purchase in the Company\u2019s P2P system CAPPS Cognizant automated procure to pay solution . In CAPPS system the requisitioner creates a request for purchase necessary to issue a P.O. in Step 3 by confirming and adding details such as sourcing and funding information special handling instructions and or unique requirements for their facilities and projects. Cognizant formalizes its purchase of your products or services by creating and issuing a purchase order P.O. . You should therefore never fulfill an order until you receive a P.O. or other authorized buying Method which is a Formal Agreement . Your invoice cannot be processed and paid in a timely manner without matching to a P.O. in Cognizant\u2019s CAPPS Catalyst system. The delivery of your products or services marks a transition in the P2P process from purchasing activity to Accounts Payable activity. In Step 4 you deliver the products or services as specified on the P.O. the Cognizant Requisitioner signs for or otherwise accepts delivery of the order or initiates any claims or returns directly with your organization. This will also be formalized in the receipt system. Once your products or services have been received in good order the Requisitioner will receipt the order in Cognizant\u2019s CAPPS ARIBA system or notify their department business POC to receipt the order in the system so that your invoice can be processed and paid in Steps 5 and 6 respectively. The supplier organization should generate an invoice referencing the P.O. number specifications and information matching to the P.O and Bill to & Ship to address on the P.O. and send it directly to Accounts Payable A P . When your invoice is received by A P it is entered into the Cognizant financial CAPPS system matched to the corresponding P.O. and placed in a queue for payment within negotiated terms. Once an EDI and physical invoices are in the queue for payment payment activities completely happen in CAPPS Catalyst. A P personnel physically do the 2 way 3 way match for invoices. Each day CAPPS selects invoices eligible for payment invoices not on rejects hold based on the invoice date and approved supplier payment terms. For invoices related to check payments or advance payments via check thee procurement Buyer or requisitioner should raise a check request in the Cognizant CAPPS Catalyst system and the check is produced for those invoices and is sent to the bank for further steps. By monitoring and resolving unnecessary process exceptions we will be able to reduce the supplier payment issues and administrative burden on their organization as well as on Cognizant."
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410394,
+        "id": 19001,
+        "lead_time": 4006.628,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "hOLWQRtr0m",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 90,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The Engineering Document Management staff will then perform a final QA/QC on the ZIP files"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Er4_F5pvn9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 51,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 47,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "fL_FFSoFoS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 140,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 127,
+              "text": "Once verified"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "lxCofO_hUe",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 242,
+              "labels": [
+                "Activity"
+              ],
+              "start": 141,
+              "text": "the Engineering Document Management staff will copy the ZIP files into the appropriately named folder"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "VVndl2NSRv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 368,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 307,
+              "text": "After copying the files into the Bidding Administration share"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "pumidtN3Aw",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 476,
+              "labels": [
+                "Activity"
+              ],
+              "start": 369,
+              "text": "Engineering Document Management staff will send an email to the appropriate staff in Bidding Administration"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "yudiq3gq9j",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 651,
+              "labels": [
+                "Activity"
+              ],
+              "start": 551,
+              "text": "Engineering Document Management Staff will upload the ZIP files to the Web Hosting Vendors\u2019 websites"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "3j2fgnL4K4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 727,
+              "labels": [
+                "Activity"
+              ],
+              "start": 653,
+              "text": "An email shall be sent to the appropriate staff of each Web Hosting Vendor"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "qdPEXgYwxy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 881,
+              "labels": [
+                "Activity"
+              ],
+              "start": 837,
+              "text": "Send one mass email to the distribution list"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "HMJMUcWMkf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 948,
+              "labels": [
+                "Activity"
+              ],
+              "start": 883,
+              "text": "The Web Hosting Vendor will then upload all files to the web page"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "m--cbmZvEq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 915,
+              "labels": [
+                "Activity",
+                "then"
+              ],
+              "start": 911,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "0IcZoimpRJ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1196,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1106,
+              "text": "the Engineering Document Management staff will verify the projects included in the Letting"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "L7f4nqxi5p",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1355,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1288,
+              "text": "the vendor will be notified to make the appropriate projects active"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "cGnrYXZE34",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1572,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 1504,
+              "text": "After authorization is obtained for projects and they are advertised"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "K7vqnt1g9h",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1720,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1573,
+              "text": "the Print Room Supervisor is responsible for printing and delivering one half-size set of plans for each advertised project to Engineering Services"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "vctAZQiZgP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1821,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1722,
+              "text": "A new, complete, and up to date set of plans shall be submitted by the Project Manager for processing"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "ep_2-6-to-2-15.txt",
+      "text": "The Engineering Document Management staff will then perform a final QA QC on the ZIP files to insure they are correctly named. Once verified the Engineering Document Management staff will copy the ZIP files into the appropriately named folder under Bidding Administration i.e. July 2012 on the share drive. After copying the files into the Bidding Administration share Engineering Document Management staff will send an email to the appropriate staff in Bidding Administration notifying them that the files are ready to be uploaded for advertisement. Engineering Document Management Staff will upload the ZIP files to the Web Hosting Vendors\u2019 websites. An email shall be sent to the appropriate staff of each Web Hosting Vendor with the following spreadsheet filled out with the required information for their use in the upload process. Send one mass email to the distribution list. The Web Hosting Vendor will then upload all files to the web page but hold them as inactive until notified by GDOT Engineering Document Management Staff that the files can be made active. At the advertisement time and date the Engineering Document Management staff will verify the projects included in the Letting using the Notice to Contractors on the Bidding Administration web page. Based on that list the vendor will be notified to make the appropriate projects active for viewing and printing from the web. All Roadway Contractors requesting plan sets will go to a Web Hosting Vendor\u2019s site and place orders online. After authorization is obtained for projects and they are advertised the Print Room Supervisor is responsible for printing and delivering one half size set of plans for each advertised project to Engineering Services. A new complete and up to date set of plans shall be submitted by the Project Manager for processing."
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606403307,
+        "id": 5001,
+        "lead_time": 6264.512,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "Mphhk4VjEg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 240,
+              "labels": [
+                "Activity"
+              ],
+              "start": 172,
+              "text": "The DCR may be returned to the originator at any step in the process"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "dMMhAgc1I-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 340,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 241,
+              "text": "if it is determined that inadequate information was provided for the DCR to be approved or rejected"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_1-5-3.txt",
+      "text": "Change requests must document the provision that is proposed to be changed the new language that is proposed and a justification as to the reason the change is to be made. The DCR may be returned to the originator at any step in the process if it is determined that inadequate information was provided for the DCR to be approved or rejected."
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410390,
+        "id": 16001,
+        "lead_time": 2226.546,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "QOShG2zhEi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 91,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The DCC will now forward the DCR to the appropriate Document Control Board for adjudication"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "XkYAuqvtkx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 224,
+              "labels": [
+                "Activity"
+              ],
+              "start": 162,
+              "text": "the DCB can still vote to Reject or Approve/Approve as Amended"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "6DsHleco6D",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 13,
+              "text": "now"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_d-2-3.txt",
+      "text": "The DCC will now forward the DCR to the appropriate Document Control Board for adjudication. While approval is certainly anticipated given the vetting it has had the DCB can still vote to Reject or Approve Approve as Amended in accordance with this procedure."
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410393,
+        "id": 18001,
+        "lead_time": 3587.183,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "_un13SlTsE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 114,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The Design Policy & Support, Engineering Document Management section is responsible for processing submitted images"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "8_Nh4Naavq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 234,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 207,
+              "text": "Once the files are received"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "WK3QpDjFFS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 297,
+              "labels": [
+                "Activity"
+              ],
+              "start": 235,
+              "text": "the Engineering Document Management staff will QA/QC the files"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "JxbfllWm13",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 675,
+              "labels": [
+                "Activity"
+              ],
+              "start": 481,
+              "text": "the staff will create a new folder for the year (if not already done previously) under the directory below, and then a subsequent subfolder with the name of the month of the Letting being processed"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "0udcBLbCq5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 706,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 696,
+              "text": "Afterwards"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "k06LZbBzvi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 772,
+              "labels": [
+                "Activity"
+              ],
+              "start": 707,
+              "text": "they will copy all project folders into this newly created folder"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "UYB-HIjgaP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 889,
+              "labels": [
+                "Activity"
+              ],
+              "start": 842,
+              "text": "They will also verify that images are full-size"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "kvCtFJETFw",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 996,
+              "labels": [
+                "Activity"
+              ],
+              "start": 891,
+              "text": "They also have to check the sheet order, sheet/drawing number, and quality by opening all of the PDF images"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "_jqy9MFlTC",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1130,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1058,
+              "text": "Any sheets that are illegible or missing shall be re-submitted by the PM"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "mnkO8qln6U",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1160,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1132,
+              "text": "Sheet order may be corrected"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "idD2mafA1w",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1214,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1194,
+              "text": "check the file names"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "rwwIqTu-KT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1322,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 1271,
+              "text": "Once QA/QC of the electronic files is 100% complete"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "hsR4ulElxv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1392,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1323,
+              "text": "copy entire project folder of PDF files over to the network directory"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "TAio4dAxLo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1454,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1394,
+              "text": "Rename the original scanned images (PDF format) in the folders"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "eI00RR4oMr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1664,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1622,
+              "text": "PDF images must be converted to TIF images"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "XfLo3VHHA6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1786,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1698,
+              "text": "They have to create another folder called TIF and subsequent subfolders for each project"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "j3NjmhJlCM",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1892,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1833,
+              "text": "Select each project\u2019s PDF images and open them in MetaPrint"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ka7UysmWQ_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1927,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1894,
+              "text": "Click the Print icon in MetaPrint"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "8rYznqBcIT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1984,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1952,
+              "text": "choose 200 for Output Resolution"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "AMDilO82Vb",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2081,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2015,
+              "text": "navigate in the \"Select save path\" to where the images will be saved"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "4cV3mn8BMo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2192,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2143,
+              "text": "Create a Zip file of the TIF images in the folder"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "ep_2-5-to-2-5.txt",
+      "text": "The Design Policy & Support Engineering Document Management section is responsible for processing submitted images to get them in the format required for posting for advertisement by Bidding Administration. Once the files are received the Engineering Document Management staff will QA QC the files to insure they are in correct order are full size 24 x36 contain the correct sheets for each project and are in the correct file name format PI# SHEET# i.e. 712930 0001 . Furthermore the staff will create a new folder for the year if not already done previously under the directory below and then a subsequent subfolder with the name of the month of the Letting being processed ie: 2012 February . Afterwards they will copy all project folders into this newly created folder all folder names must be the PI # with dash if needed: i.e. 123456 . They will also verify that images are full size. They also have to check the sheet order sheet drawing number and quality by opening all of the PDF images using Bluebeam Revu or the Preview Pane in Windows Explorer. Any sheets that are illegible or missing shall be re submitted by the PM. Sheet order may be corrected easily using Flash Renamer. Also check the file names to ensure they follow the standards file naming scheme. Once QA QC of the electronic files is 100% complete copy entire project folder of PDF files over to the network directory. Rename the original scanned images PDF format in the folders that were copied in step 2 to a format of Contract ID # plus the sheet number i.e. B11739 05 M002 2 0001.pdf . The Flash Renamer software is used to rename all files. PDF images must be converted to TIF images in order to be uploaded to BIDX. They have to create another folder called TIF and subsequent subfolders for each project using the Contract ID\u2019s ie: B12205 06 000 2 . Select each project\u2019s PDF images and open them in MetaPrint. Click the Print icon in MetaPrint and on the File Ftp tab choose 200 for Output Resolution TIFF for Output file type and navigate in the Select save path to where the images will be saved the Contract ID folders that were created in previous step . Create a Zip file of the TIF images in the folder by the name of the Contract ID Number."
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606410466,
+        "id": 22001,
+        "lead_time": 7377.478,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "wmBZ5fSfu6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 30,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 0,
+              "text": "In the case of catalogue parts"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Jms8UPukxZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 135,
+              "labels": [
+                "Activity"
+              ],
+              "start": 71,
+              "text": "a standard offer is submitted and the offer process is concluded"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "IXsnZknyMS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 165,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 137,
+              "text": "In the case of installations"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "_43uRtJaxv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 286,
+              "labels": [
+                "Activity"
+              ],
+              "start": 166,
+              "text": "first of all the feasibility is clarified and then a fundamental decision made as to whether an offer is to be submitted"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Gsnr2liSmv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 389,
+              "labels": [
+                "Activity"
+              ],
+              "start": 331,
+              "text": "the offer is drawn up by an interdisciplinary project team"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "3ndKIZ7V-s",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 542,
+              "labels": [
+                "Activity"
+              ],
+              "start": 499,
+              "text": "or it is attended to by the customer centre"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "k0K-pl5btK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 330,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 288,
+              "text": "Depending upon the complexity of the offer"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "YuJzdW7Qm0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 178,
+              "labels": [
+                "then"
+              ],
+              "start": 166,
+              "text": "first of all"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "V-9VrUOADY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 217,
+              "labels": [
+                "then"
+              ],
+              "start": 212,
+              "text": "then "
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "qmm_5-2.txt",
+      "text": "In the case of catalogue parts in accordance with the frame conditions a standard offer is submitted and the offer process is concluded. In the case of installations first of all the feasibility is clarified and then a fundamental decision made as to whether an offer is to be submitted. Depending upon the complexity of the offer the offer is drawn up by an interdisciplinary project team comprising all the technical departments involved e.g. customer centre production purchasing and quality ... or it is attended to by the customer centre."
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1606401910,
+        "id": 1,
+        "lead_time": 717.81,
+        "result": [
+          {
+            "from_name": "class",
+            "id": "9ojJHGtYJU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 39,
+              "labels": [
+                "Activity"
+              ],
+              "start": 0,
+              "text": "The Originator sends the DCR to the RCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "zQGxu3x_Sv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 180,
+              "labels": [
+                "Activity"
+              ],
+              "start": 146,
+              "text": "RCC shall enter the DCR into a log"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "7TeCSFf6mD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 223,
+              "labels": [
+                "Activity"
+              ],
+              "start": 190,
+              "text": "forward it to the appropriate DCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "xiFTpFMmmD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 246,
+              "labels": [
+                "Statement",
+                "and_begin"
+              ],
+              "start": 225,
+              "text": "In parallel with this"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "dl_sig8pLI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 366,
+              "labels": [
+                "Activity"
+              ],
+              "start": 247,
+              "text": "the RCC shall also notify the Executive Board and Review Panel that an Urgent DCR has been received and sent to the DCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "DpGZo7SaKK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 473,
+              "labels": [
+                "Activity"
+              ],
+              "start": 368,
+              "text": "The DCC shall, as soon as possible, forward the DCR to the to the appropriate DCB Technical Subgroup leader"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "VMk561mCG5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 787,
+              "labels": [
+                "Activity"
+              ],
+              "start": 742,
+              "text": "The Technical Subgroup(s) will review the DCRs"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "v4_iN3RHAQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 813,
+              "labels": [
+                "Activity"
+              ],
+              "start": 792,
+              "text": "make a recommendation"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "Hi23pJGUzD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 998,
+              "labels": [
+                "Activity"
+              ],
+              "start": 972,
+              "text": " it is returned to the DCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "FuXzl6fTVa",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1033,
+              "labels": [
+                "Activity"
+              ],
+              "start": 999,
+              "text": "who will then return it to the RCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "ENbroGb2bi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1272,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1154,
+              "text": "The RCC will forward DCRs that were approved or approved with amendment to the Technical Subcommittee and Review Panel"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "yeW_vmKpvX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1368,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1329,
+              "text": "review the DCR and return it to the RCC"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "dwvixq8BSh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1449,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1370,
+              "text": "The Technical Subcommittee shall determine how best to obtain a vote on the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "J746nAWNzO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1554,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1487,
+              "text": "The Review Panel role is to determine that the change is in keeping"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "PxQApX2uSK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1717,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1651,
+              "text": "Panel members shall determine how best to obtain a vote on the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "97OiEjZml9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1809,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1758,
+              "text": "the RCC will forward the DCR to the Executive Board"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "iOk71DJkOH",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1851,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1811,
+              "text": "The Executive Board will vote on the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "yOPUtb2epP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1972,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 1886,
+              "text": "After the DCR has been approved by the Executive Board the following activities follow"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "gry4fYfHLf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2039,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1974,
+              "text": "The RCC will notify the Originator that the DCR has been approved"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "RB1LemYwCH",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2076,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2044,
+              "text": "return the DCR to the originator"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "i3f82jqzEF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2233,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2184,
+              "text": "The RCC will forward the DCR to Technical Support"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "KO6Trj3fKV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2397,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2366,
+              "text": "the RCC forwards it and the DCR"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "D2gEFnEJR9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 189,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 185,
+              "text": "then"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "DI93igZ1y-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 644,
+              "labels": [
+                "Activity"
+              ],
+              "start": 578,
+              "text": "the DCC will select the most appropriate Technical Subgroup leader"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "4fiWHJmYO2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 740,
+              "labels": [
+                "Activity"
+              ],
+              "start": 703,
+              "text": " review with other affected Subgroups"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "TXb7Twcbce",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 577,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 537,
+              "text": "If the DCR affects two or more subgroups"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "BFyO1sNn2w",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 972,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 911,
+              "text": "Once the DCR has been dispositioned by the Technical Subgroup"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "k-cI05wuwc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1137,
+              "labels": [
+                "Activity"
+              ],
+              "start": 1085,
+              "text": "the RCC will return the DCR to the DCC or Originator"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "sI8VLnV6H8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1084,
+              "labels": [
+                "Statement",
+                "xor_begin"
+              ],
+              "start": 1035,
+              "text": "If a DCR is rejected at any point in this process"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "jc7x8sedmx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1757,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 1719,
+              "text": "Once approved and determined compliant"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "0tAnJjJLWE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2308,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2240,
+              "text": "it will be incorporated into a Sub-Revision of the affected document"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "DT-C4fwfAh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2239,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 2233,
+              "text": " where"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "g15LedRCus",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2365,
+              "labels": [
+                "Statement",
+                "then"
+              ],
+              "start": 2310,
+              "text": "Upon receipt of the Sub-Revision from Technical Support"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "xHhWVjlp_y",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2559,
+              "labels": [
+                "Activity"
+              ],
+              "start": 2526,
+              "text": "revision to the affected document"
+            }
+          },
+          {
+            "from_name": "class",
+            "id": "B_VtxV7KCV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2525,
+              "labels": [
+                "Statement",
+                "loop_begin"
+              ],
+              "start": 2517,
+              "text": "periodic"
+            }
+          }
+        ],
+        "skipped": false,
+        "was_cancelled": false
+      }
+    ],
+    "data": {
+      "source": "dm_1-5-10.txt",
+      "text": "The Originator sends the DCR to the RCC informing the RCC that the matter addressed by the DCR is time sensitive and should be handled as Urgent. RCC shall enter the DCR into a log and then forward it to the appropriate DCC. In parallel with this the RCC shall also notify the Executive Board and Review Panel that an Urgent DCR has been received and sent to the DCC. The DCC shall as soon as possible forward the DCR to the to the appropriate DCB Technical Subgroup leader for the functional group that is most appropriate for the DCR. If the DCR affects two or more subgroups the DCC will select the most appropriate Technical Subgroup leader and it will be up to that individual to coordinate the DCR review with other affected Subgroups. The Technical Subgroup s will review the DCRs and make a recommendation within two working days of receipt whether to approve approve with amendment or reject each DCR. Once the DCR has been dispositioned by the Technical Subgroup it is returned to the DCC who will then return it to the RCC. If a DCR is rejected at any point in this process the RCC will return the DCR to the DCC or Originator as appropriate. The RCC will forward DCRs that were approved or approved with amendment to the Technical Subcommittee and Review Panel for review. Both groups will have three working days to review the DCR and return it to the RCC. The Technical Subcommittee shall determine how best to obtain a vote on the DCR e.g. by email or by conference call. The Review Panel role is to determine that the change is in keeping with the requirements document for a specification or in keeping with other PRIIA requirements. Panel members shall determine how best to obtain a vote on the DCR. Once approved and determined compliant the RCC will forward the DCR to the Executive Board. The Executive Board will vote on the DCR by email within two working days. After the DCR has been approved by the Executive Board the following activities follow. The RCC will notify the Originator that the DCR has been approved and return the DCR to the originator with the approved wording. At this point the wording in the DCR has the authority of an approved document. The RCC will forward the DCR to Technical Support where it will be incorporated into a Sub Revision of the affected document. Upon receipt of the Sub Revision from Technical Support the RCC forwards it and the DCR as well as any supporting documents if applicable to AASHTO for posting. The Sub Revision will be included in the next periodic revision to the affected document."
+    },
+    "id": 0
+  }
+]

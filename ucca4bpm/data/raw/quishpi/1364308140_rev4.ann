@@ -1,0 +1,32 @@
+T18	Condition 502 555	the subsidiary relationship is already modeled in ERP
+T10	Condition 299 341	subsidiary relationship is not yet modeled
+T14	Entity 372 407	parent company as invoicing address
+T17	Condition 471 498	the customer is independent
+T9	Condition 264 290	the customer is subsidiary
+T3	Entity 110 128	goods for shipment
+T1	Entity 59 75	subsidiary order
+T7	Action 173 182	preparing
+T0	Action 48 56	receives
+T2	Action 101 109	prepares
+T23	Action 197 205	shipping
+T12	Entity 449 456	invoice
+T19	Action 590 597	creates
+T20	Entity 602 609	invoice
+T22	Entity 654 661	invoice
+T11	Action 438 444	create
+T8	Entity 187 192	goods
+T21	Action 644 649	sends
+T24	Entity 148 153	goods
+T13	Action 367 371	adds
+R0	Patient Arg1:T0 Arg2:T1
+R1	Patient Arg1:T2 Arg2:T3
+R3	Patient Arg1:T7 Arg2:T8
+R4	Patient Arg1:T11 Arg2:T12
+R5	Patient Arg1:T13 Arg2:T14
+R7	Conflict Arg1:T10 Arg2:T18
+R8	Conflict Arg1:T9 Arg2:T17
+R9	Patient Arg1:T19 Arg2:T20
+R10	Patient Arg1:T21 Arg2:T22
+R11	Patient Arg1:T23 Arg2:T24
+R12	Sequence Arg1:T7 Arg2:T23
+R14	Sequence Arg1:T19 Arg2:T21

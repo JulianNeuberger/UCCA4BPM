@@ -1,0 +1,76 @@
+T0	Condition 650 699	after a maximum time limit no message of the MPON 
+T1	Condition 726 789	the MPON informs the GO about the failure of the entire process 
+T2	Condition 854 932	the MPON informs the GO about the successful completion of the overall process 
+T3	Action 9 16	reports
+T4	Action 56 64	examines
+T5	Action 102 109	rejects
+T6	Action 148 157	confirmes
+T7	Action 195 202	informs
+T8	Action 269 276	informs
+T9	Action 358 365	perform
+T10	Action 428 435	informs
+T11	Action 495 502	informs
+T12	Action 573 580	informs
+T13	Action 798 806	confirms
+T14	Action 941 948	assigns
+T15	Action 967 975	confirms
+T16	Action 1012 1019	informs
+T17	Action 1087 1094	informs
+T18	Action 1146 1153	informs
+T19	Action 1221 1228	informs
+T20	Action 1280 1287	informs
+T21	Entity 4 8	mpon
+T22	Entity 53 55	go
+T37	Entity 21 36	meter operation
+T38	Entity 69 92	application of mpon
+T39	Entity 114 137	application of mpon
+T40	Entity 162 185	application of mpon
+T41	Entity 207 211	mpoo
+T42	Entity 281 285	mspo
+T43	Entity 370 391	equipment acquisition
+T44	Entity 440 442	go
+T45	Entity 507 509	go
+T46	Entity 585 589	mpon
+T47	Entity 811 836	failure of assignment
+T48	Entity 953 957	mpon
+T49	Entity 980 990	assignment
+T50	Entity 1024 1028	mpoo
+T51	Entity 1099 1103	mpoo
+T52	Entity 1158 1162	mspo
+T53	Entity 1233 1237	mspo
+T54	Entity 1292 1294	sp
+R0	Agent Arg1:T3 Arg2:T21
+R1	Agent Arg1:T4 Arg2:T22
+R2	Agent Arg1:T5 Arg2:T22
+R3	Agent Arg1:T7 Arg2:T22
+R4	Agent Arg1:T8 Arg2:T22
+R5	Agent Arg1:T9 Arg2:T21
+R6	Agent Arg1:T10 Arg2:T21
+R7	Agent Arg1:T12 Arg2:T22
+R8	Agent Arg1:T13 Arg2:T22
+R9	Agent Arg1:T14 Arg2:T22
+R10	Agent Arg1:T15 Arg2:T22
+R11	Agent Arg1:T16 Arg2:T22
+R12	Agent Arg1:T18 Arg2:T22
+R13	Agent Arg1:T20 Arg2:T22
+R14	Patient Arg1:T3 Arg2:T37
+R15	Patient Arg1:T4 Arg2:T38
+R16	Patient Arg1:T5 Arg2:T39
+R17	Patient Arg1:T6 Arg2:T40
+R18	Patient Arg1:T7 Arg2:T41
+R19	Patient Arg1:T8 Arg2:T42
+R20	Patient Arg1:T9 Arg2:T43
+R21	Patient Arg1:T10 Arg2:T44
+R22	Patient Arg1:T11 Arg2:T45
+R23	Patient Arg1:T12 Arg2:T46
+R24	Patient Arg1:T13 Arg2:T47
+R25	Patient Arg1:T14 Arg2:T48
+R26	Patient Arg1:T15 Arg2:T49
+R27	Patient Arg1:T16 Arg2:T50
+R28	Patient Arg1:T17 Arg2:T51
+R29	Patient Arg1:T18 Arg2:T52
+R30	Patient Arg1:T19 Arg2:T53
+R31	Patient Arg1:T20 Arg2:T54
+R46	Sequence Arg1:T0 Arg2:T12
+R47	Sequence Arg1:T1 Arg2:T13
+R48	Sequence Arg1:T2 Arg2:T14

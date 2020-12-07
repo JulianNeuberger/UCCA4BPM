@@ -1,0 +1,606 @@
+Then, then, y
+Then, and_begin, n
+Then, xor_begin, n
+Then, loop_begin, n
+Then, polygon_begin, n
+Then, end, n
+Once all DCRs have been dispositioned for an update cycle of a specification or document, then, y
+Once all DCRs have been dispositioned for an update cycle of a specification or document, and_begin, n
+Once all DCRs have been dispositioned for an update cycle of a specification or document, xor_begin, n
+Once all DCRs have been dispositioned for an update cycle of a specification or document, loop_begin, n
+Once all DCRs have been dispositioned for an update cycle of a specification or document, polygon_begin, n
+Once all DCRs have been dispositioned for an update cycle of a specification or document, end, n
+Once all the relevant basic points have been reviewed and clarified, then, y
+Once all the relevant basic points have been reviewed and clarified, and_begin, n
+Once all the relevant basic points have been reviewed and clarified, xor_begin, n
+Once all the relevant basic points have been reviewed and clarified, loop_begin, n
+Once all the relevant basic points have been reviewed and clarified, polygon_begin, n
+Once all the relevant basic points have been reviewed and clarified, end, n
+After receipt of an order, then, y
+After receipt of an order, and_begin, n
+After receipt of an order, xor_begin, n
+After receipt of an order, loop_begin, n
+After receipt of an order, polygon_begin, n
+After receipt of an order, end, n
+if the result is positive, then, n
+if the result is positive, and_begin, n
+if the result is positive, xor_begin, y
+if the result is positive, loop_begin, n
+if the result is positive, polygon_begin, n
+if the result is positive, end, n
+Once a document revision has been approved, then, y
+Once a document revision has been approved, and_begin, n
+Once a document revision has been approved, xor_begin, n
+Once a document revision has been approved, loop_begin, n
+Once a document revision has been approved, polygon_begin, n
+Once a document revision has been approved, end, n
+of each person who has electronically registered for such notifications, then, n
+of each person who has electronically registered for such notifications, and_begin, n
+of each person who has electronically registered for such notifications, xor_begin, n
+of each person who has electronically registered for such notifications, loop_begin, y
+of each person who has electronically registered for such notifications, polygon_begin, n
+of each person who has electronically registered for such notifications, end, n
+If the originator submitting a DCR believes it should be handled as Urgent, then, n
+If the originator submitting a DCR believes it should be handled as Urgent, and_begin, n
+If the originator submitting a DCR believes it should be handled as Urgent, xor_begin, y
+If the originator submitting a DCR believes it should be handled as Urgent, loop_begin, n
+If the originator submitting a DCR believes it should be handled as Urgent, polygon_begin, n
+If the originator submitting a DCR believes it should be handled as Urgent, end, n
+If the RCC agrees, then, n
+If the RCC agrees, and_begin, n
+If the RCC agrees, xor_begin, y
+If the RCC agrees, loop_begin, n
+If the RCC agrees, polygon_begin, n
+If the RCC agrees, end, n
+In the event that it is unclear as to whether a DCR falls into the Major or Minor category, then, n
+In the event that it is unclear as to whether a DCR falls into the Major or Minor category, and_begin, n
+In the event that it is unclear as to whether a DCR falls into the Major or Minor category, xor_begin, y
+In the event that it is unclear as to whether a DCR falls into the Major or Minor category, loop_begin, n
+In the event that it is unclear as to whether a DCR falls into the Major or Minor category, polygon_begin, n
+In the event that it is unclear as to whether a DCR falls into the Major or Minor category, end, n
+If the DCC receives a DCR that meets the conditions listed in Section D.1, then, n
+If the DCC receives a DCR that meets the conditions listed in Section D.1, and_begin, n
+If the DCC receives a DCR that meets the conditions listed in Section D.1, xor_begin, y
+If the DCC receives a DCR that meets the conditions listed in Section D.1, loop_begin, n
+If the DCC receives a DCR that meets the conditions listed in Section D.1, polygon_begin, n
+If the DCC receives a DCR that meets the conditions listed in Section D.1, end, n
+at regular intervals, then, n
+at regular intervals, and_begin, n
+at regular intervals, xor_begin, n
+at regular intervals, loop_begin, y
+at regular intervals, polygon_begin, n
+at regular intervals, end, n
+where the results cannot be monitored by follow up tests, then, n
+where the results cannot be monitored by follow up tests, and_begin, n
+where the results cannot be monitored by follow up tests, xor_begin, y
+where the results cannot be monitored by follow up tests, loop_begin, n
+where the results cannot be monitored by follow up tests, polygon_begin, n
+where the results cannot be monitored by follow up tests, end, n
+If required plans are not received by Design Policy & Support, then, n
+If required plans are not received by Design Policy & Support, and_begin, n
+If required plans are not received by Design Policy & Support, xor_begin, y
+If required plans are not received by Design Policy & Support, loop_begin, n
+If required plans are not received by Design Policy & Support, polygon_begin, n
+If required plans are not received by Design Policy & Support, end, n
+If plans are not in our office by Close of Business on the due date, then, n
+If plans are not in our office by Close of Business on the due date, and_begin, n
+If plans are not in our office by Close of Business on the due date, xor_begin, y
+If plans are not in our office by Close of Business on the due date, loop_begin, n
+If plans are not in our office by Close of Business on the due date, polygon_begin, n
+If plans are not in our office by Close of Business on the due date, end, n
+Once contract award occurs, then, y
+Once contract award occurs, and_begin, n
+Once contract award occurs, xor_begin, n
+Once contract award occurs, loop_begin, n
+Once contract award occurs, polygon_begin, n
+Once contract award occurs, end, n
+If it is determined that changes to the base specification are warranted, then, n
+If it is determined that changes to the base specification are warranted, and_begin, n
+If it is determined that changes to the base specification are warranted, xor_begin, y
+If it is determined that changes to the base specification are warranted, loop_begin, n
+If it is determined that changes to the base specification are warranted, polygon_begin, n
+If it is determined that changes to the base specification are warranted, end, n
+As they are received, then, y
+As they are received, and_begin, n
+As they are received, xor_begin, n
+As they are received, loop_begin, n
+As they are received, polygon_begin, n
+As they are received, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+If the DCR affects two or more subgroups, then, y
+If the DCR affects two or more subgroups, and_begin, n
+If the DCR affects two or more subgroups, xor_begin, n
+If the DCR affects two or more subgroups, loop_begin, n
+If the DCR affects two or more subgroups, polygon_begin, n
+If the DCR affects two or more subgroups, end, n
+Once the DCR has been dispositioned by the Technical Subgroup, then, y
+Once the DCR has been dispositioned by the Technical Subgroup, and_begin, n
+Once the DCR has been dispositioned by the Technical Subgroup, xor_begin, n
+Once the DCR has been dispositioned by the Technical Subgroup, loop_begin, n
+Once the DCR has been dispositioned by the Technical Subgroup, polygon_begin, n
+Once the DCR has been dispositioned by the Technical Subgroup, end, n
+Upon approval of the Change Summary, then, y
+Upon approval of the Change Summary, and_begin, n
+Upon approval of the Change Summary, xor_begin, n
+Upon approval of the Change Summary, loop_begin, n
+Upon approval of the Change Summary, polygon_begin, n
+Upon approval of the Change Summary, end, n
+Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval or disapproval of certain changes as appropriate, then, y
+Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval or disapproval of certain changes as appropriate, and_begin, n
+Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval or disapproval of certain changes as appropriate, xor_begin, n
+Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval or disapproval of certain changes as appropriate, loop_begin, n
+Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval or disapproval of certain changes as appropriate, polygon_begin, n
+Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval or disapproval of certain changes as appropriate, end, n
+Upon review and discussion of the proposed change to the Requirements Document, then, y
+Upon review and discussion of the proposed change to the Requirements Document, and_begin, n
+Upon review and discussion of the proposed change to the Requirements Document, xor_begin, n
+Upon review and discussion of the proposed change to the Requirements Document, loop_begin, n
+Upon review and discussion of the proposed change to the Requirements Document, polygon_begin, n
+Upon review and discussion of the proposed change to the Requirements Document, end, n
+If the TSC determines this is not a change it wishes to forward to the Executive Board, then, n
+If the TSC determines this is not a change it wishes to forward to the Executive Board, and_begin, n
+If the TSC determines this is not a change it wishes to forward to the Executive Board, xor_begin, y
+If the TSC determines this is not a change it wishes to forward to the Executive Board, loop_begin, n
+If the TSC determines this is not a change it wishes to forward to the Executive Board, polygon_begin, n
+If the TSC determines this is not a change it wishes to forward to the Executive Board, end, n
+At this point, then, y
+At this point, and_begin, n
+At this point, xor_begin, n
+At this point, loop_begin, n
+At this point, polygon_begin, n
+At this point, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+If the TSC agrees in principal with the proposed change but believes more work is needed before the Requirements Document is changed, then, n
+If the TSC agrees in principal with the proposed change but believes more work is needed before the Requirements Document is changed, and_begin, n
+If the TSC agrees in principal with the proposed change but believes more work is needed before the Requirements Document is changed, xor_begin, y
+If the TSC agrees in principal with the proposed change but believes more work is needed before the Requirements Document is changed, loop_begin, n
+If the TSC agrees in principal with the proposed change but believes more work is needed before the Requirements Document is changed, polygon_begin, n
+If the TSC agrees in principal with the proposed change but believes more work is needed before the Requirements Document is changed, end, n
+If the TSC believes that the proposed Requirements Document language just needs some editorial modifications, then, n
+If the TSC believes that the proposed Requirements Document language just needs some editorial modifications, and_begin, n
+If the TSC believes that the proposed Requirements Document language just needs some editorial modifications, xor_begin, y
+If the TSC believes that the proposed Requirements Document language just needs some editorial modifications, loop_begin, n
+If the TSC believes that the proposed Requirements Document language just needs some editorial modifications, polygon_begin, n
+If the TSC believes that the proposed Requirements Document language just needs some editorial modifications, end, n
+In the case of the latter choice, then, n
+In the case of the latter choice, and_begin, n
+In the case of the latter choice, xor_begin, y
+In the case of the latter choice, loop_begin, n
+In the case of the latter choice, polygon_begin, n
+In the case of the latter choice, end, n
+If the DCR requires modification at this point, then, n
+If the DCR requires modification at this point, and_begin, n
+If the DCR requires modification at this point, xor_begin, y
+If the DCR requires modification at this point, loop_begin, n
+If the DCR requires modification at this point, polygon_begin, n
+If the DCR requires modification at this point, end, n
+Depending upon how extensive the changes are, then, n
+Depending upon how extensive the changes are, and_begin, n
+Depending upon how extensive the changes are, xor_begin, y
+Depending upon how extensive the changes are, loop_begin, n
+Depending upon how extensive the changes are, polygon_begin, n
+Depending upon how extensive the changes are, end, n
+If the AWG takes this latter action, then, n
+If the AWG takes this latter action, and_begin, n
+If the AWG takes this latter action, xor_begin, y
+If the AWG takes this latter action, loop_begin, n
+If the AWG takes this latter action, polygon_begin, n
+If the AWG takes this latter action, end, n
+If the TSC agrees with the recommendation of the AWG, then, n
+If the TSC agrees with the recommendation of the AWG, and_begin, n
+If the TSC agrees with the recommendation of the AWG, xor_begin, y
+If the TSC agrees with the recommendation of the AWG, loop_begin, n
+If the TSC agrees with the recommendation of the AWG, polygon_begin, n
+If the TSC agrees with the recommendation of the AWG, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+the TSC can make one of three decisions, then, n
+the TSC can make one of three decisions, and_begin, n
+the TSC can make one of three decisions, xor_begin, y
+the TSC can make one of three decisions, loop_begin, n
+the TSC can make one of three decisions, polygon_begin, n
+the TSC can make one of three decisions, end, n
+Before, then, y
+Before, and_begin, n
+Before, xor_begin, n
+Before, loop_begin, n
+Before, polygon_begin, n
+Before, end, n
+Before, then, y
+Before, and_begin, n
+Before, xor_begin, n
+Before, loop_begin, n
+Before, polygon_begin, n
+Before, end, n
+Before, then, y
+Before, and_begin, n
+Before, xor_begin, n
+Before, loop_begin, n
+Before, polygon_begin, n
+Before, end, n
+The resulting order id, then, y
+The resulting order id, and_begin, n
+The resulting order id, xor_begin, n
+The resulting order id, loop_begin, n
+The resulting order id, polygon_begin, n
+The resulting order id, end, n
+Afterwards, then, y
+Afterwards, and_begin, n
+Afterwards, xor_begin, n
+Afterwards, loop_begin, n
+Afterwards, polygon_begin, n
+Afterwards, end, n
+for each document revision cycle, then, n
+for each document revision cycle, and_begin, n
+for each document revision cycle, xor_begin, n
+for each document revision cycle, loop_begin, y
+for each document revision cycle, polygon_begin, n
+for each document revision cycle, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+Upon review and discussion of the proposed change, then, y
+Upon review and discussion of the proposed change, and_begin, n
+Upon review and discussion of the proposed change, xor_begin, n
+Upon review and discussion of the proposed change, loop_begin, n
+Upon review and discussion of the proposed change, polygon_begin, n
+Upon review and discussion of the proposed change, end, n
+the NGEC can make one of three decisions, then, n
+the NGEC can make one of three decisions, and_begin, n
+the NGEC can make one of three decisions, xor_begin, y
+the NGEC can make one of three decisions, loop_begin, n
+the NGEC can make one of three decisions, polygon_begin, n
+the NGEC can make one of three decisions, end, n
+If the NGEC determines it does not want to implement the proposed change s, then, n
+If the NGEC determines it does not want to implement the proposed change s, and_begin, n
+If the NGEC determines it does not want to implement the proposed change s, xor_begin, y
+If the NGEC determines it does not want to implement the proposed change s, loop_begin, n
+If the NGEC determines it does not want to implement the proposed change s, polygon_begin, n
+If the NGEC determines it does not want to implement the proposed change s, end, n
+at this point, then, y
+at this point, and_begin, n
+at this point, xor_begin, n
+at this point, loop_begin, n
+at this point, polygon_begin, n
+at this point, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+If the NGEC determines the change is appropriate but that more study or work is needed before the Requirements Document is changed, then, n
+If the NGEC determines the change is appropriate but that more study or work is needed before the Requirements Document is changed, and_begin, n
+If the NGEC determines the change is appropriate but that more study or work is needed before the Requirements Document is changed, xor_begin, y
+If the NGEC determines the change is appropriate but that more study or work is needed before the Requirements Document is changed, loop_begin, n
+If the NGEC determines the change is appropriate but that more study or work is needed before the Requirements Document is changed, polygon_begin, n
+If the NGEC determines the change is appropriate but that more study or work is needed before the Requirements Document is changed, end, n
+If the NGEC determines that the proposed Requirements Document language requires only editorial modifications, then, n
+If the NGEC determines that the proposed Requirements Document language requires only editorial modifications, and_begin, n
+If the NGEC determines that the proposed Requirements Document language requires only editorial modifications, xor_begin, y
+If the NGEC determines that the proposed Requirements Document language requires only editorial modifications, loop_begin, n
+If the NGEC determines that the proposed Requirements Document language requires only editorial modifications, polygon_begin, n
+If the NGEC determines that the proposed Requirements Document language requires only editorial modifications, end, n
+Upon approving the proposed change to the Requirements Document or amending and approving the proposed change to address any perceived shortcomings, then, y
+Upon approving the proposed change to the Requirements Document or amending and approving the proposed change to address any perceived shortcomings, and_begin, n
+Upon approving the proposed change to the Requirements Document or amending and approving the proposed change to address any perceived shortcomings, xor_begin, n
+Upon approving the proposed change to the Requirements Document or amending and approving the proposed change to address any perceived shortcomings, loop_begin, n
+Upon approving the proposed change to the Requirements Document or amending and approving the proposed change to address any perceived shortcomings, polygon_begin, n
+Upon approving the proposed change to the Requirements Document or amending and approving the proposed change to address any perceived shortcomings, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+Then, then, y
+Then, and_begin, n
+Then, xor_begin, n
+Then, loop_begin, n
+Then, polygon_begin, n
+Then, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+During the following, then, y
+During the following, and_begin, n
+During the following, xor_begin, n
+During the following, loop_begin, n
+During the following, polygon_begin, n
+During the following, end, n
+the risk analysis is repeated by the project team, then, n
+the risk analysis is repeated by the project team, and_begin, n
+the risk analysis is repeated by the project team, xor_begin, n
+the risk analysis is repeated by the project team, loop_begin, y
+the risk analysis is repeated by the project team, polygon_begin, n
+the risk analysis is repeated by the project team, end, n
+if necessary, then, n
+if necessary, and_begin, n
+if necessary, xor_begin, y
+if necessary, loop_begin, n
+if necessary, polygon_begin, n
+if necessary, end, n
+A successful validation with a pilot series is followed by, then, y
+A successful validation with a pilot series is followed by, and_begin, n
+A successful validation with a pilot series is followed by, xor_begin, n
+A successful validation with a pilot series is followed by, loop_begin, n
+A successful validation with a pilot series is followed by, polygon_begin, n
+A successful validation with a pilot series is followed by, end, n
+After a successful market launch, then, y
+After a successful market launch, and_begin, n
+After a successful market launch, xor_begin, n
+After a successful market launch, loop_begin, n
+After a successful market launch, polygon_begin, n
+After a successful market launch, end, n
+after, then, y
+after, and_begin, n
+after, xor_begin, n
+after, loop_begin, n
+after, polygon_begin, n
+after, end, n
+Where appropriate, then, n
+Where appropriate, and_begin, n
+Where appropriate, xor_begin, y
+Where appropriate, loop_begin, n
+Where appropriate, polygon_begin, n
+Where appropriate, end, n
+In the event of amendments to technical documents due to changes to the specification customer requirements materials or a modified manufacturing process or because of internal external test results, then, n
+In the event of amendments to technical documents due to changes to the specification customer requirements materials or a modified manufacturing process or because of internal external test results, and_begin, n
+In the event of amendments to technical documents due to changes to the specification customer requirements materials or a modified manufacturing process or because of internal external test results, xor_begin, y
+In the event of amendments to technical documents due to changes to the specification customer requirements materials or a modified manufacturing process or because of internal external test results, loop_begin, n
+In the event of amendments to technical documents due to changes to the specification customer requirements materials or a modified manufacturing process or because of internal external test results, polygon_begin, n
+In the event of amendments to technical documents due to changes to the specification customer requirements materials or a modified manufacturing process or because of internal external test results, end, n
+Upon receipt of a DCR from the DCC, then, y
+Upon receipt of a DCR from the DCC, and_begin, n
+Upon receipt of a DCR from the DCC, xor_begin, n
+Upon receipt of a DCR from the DCC, loop_begin, n
+Upon receipt of a DCR from the DCC, polygon_begin, n
+Upon receipt of a DCR from the DCC, end, n
+If the AWG determines the change requested is not feasible or appropriate, then, n
+If the AWG determines the change requested is not feasible or appropriate, and_begin, n
+If the AWG determines the change requested is not feasible or appropriate, xor_begin, y
+If the AWG determines the change requested is not feasible or appropriate, loop_begin, n
+If the AWG determines the change requested is not feasible or appropriate, polygon_begin, n
+If the AWG determines the change requested is not feasible or appropriate, end, n
+At this point, then, y
+At this point, and_begin, n
+At this point, xor_begin, n
+At this point, loop_begin, n
+At this point, polygon_begin, n
+At this point, end, n
+who will then, then, y
+who will then, and_begin, n
+who will then, xor_begin, n
+who will then, loop_begin, n
+who will then, polygon_begin, n
+who will then, end, n
+If the AWG determines that the change requested should be implemented, then, n
+If the AWG determines that the change requested should be implemented, and_begin, n
+If the AWG determines that the change requested should be implemented, xor_begin, y
+If the AWG determines that the change requested should be implemented, loop_begin, n
+If the AWG determines that the change requested should be implemented, polygon_begin, n
+If the AWG determines that the change requested should be implemented, end, n
+In the case of a complex suggestion in which the system change requires detailed implementation guidance, then, n
+In the case of a complex suggestion in which the system change requires detailed implementation guidance, and_begin, n
+In the case of a complex suggestion in which the system change requires detailed implementation guidance, xor_begin, y
+In the case of a complex suggestion in which the system change requires detailed implementation guidance, loop_begin, n
+In the case of a complex suggestion in which the system change requires detailed implementation guidance, polygon_begin, n
+In the case of a complex suggestion in which the system change requires detailed implementation guidance, end, n
+If the AWG determines it should approve the change proposed in the DCR, then, n
+If the AWG determines it should approve the change proposed in the DCR, and_begin, n
+If the AWG determines it should approve the change proposed in the DCR, xor_begin, y
+If the AWG determines it should approve the change proposed in the DCR, loop_begin, n
+If the AWG determines it should approve the change proposed in the DCR, polygon_begin, n
+If the AWG determines it should approve the change proposed in the DCR, end, n
+or otherwise, then, n
+or otherwise, and_begin, n
+or otherwise, xor_begin, y
+or otherwise, loop_begin, n
+or otherwise, polygon_begin, n
+or otherwise, end, n
+or, then, n
+or, and_begin, n
+or, xor_begin, y
+or, loop_begin, n
+or, polygon_begin, n
+or, end, n
+Once your products or services have been received in good order, then, y
+Once your products or services have been received in good order, and_begin, n
+Once your products or services have been received in good order, xor_begin, n
+Once your products or services have been received in good order, loop_begin, n
+Once your products or services have been received in good order, polygon_begin, n
+Once your products or services have been received in good order, end, n
+or, then, n
+or, and_begin, n
+or, xor_begin, y
+or, loop_begin, n
+or, polygon_begin, n
+or, end, n
+When your invoice is received by A P, then, y
+When your invoice is received by A P, and_begin, n
+When your invoice is received by A P, xor_begin, n
+When your invoice is received by A P, loop_begin, n
+When your invoice is received by A P, polygon_begin, n
+When your invoice is received by A P, end, n
+Once an EDI and physical invoices are in the queue for payment, then, y
+Once an EDI and physical invoices are in the queue for payment, and_begin, n
+Once an EDI and physical invoices are in the queue for payment, xor_begin, n
+Once an EDI and physical invoices are in the queue for payment, loop_begin, n
+Once an EDI and physical invoices are in the queue for payment, polygon_begin, n
+Once an EDI and physical invoices are in the queue for payment, end, n
+For invoices related to check payments or advance payments via check, then, n
+For invoices related to check payments or advance payments via check, and_begin, n
+For invoices related to check payments or advance payments via check, xor_begin, y
+For invoices related to check payments or advance payments via check, loop_begin, n
+For invoices related to check payments or advance payments via check, polygon_begin, n
+For invoices related to check payments or advance payments via check, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+Once verified, then, y
+Once verified, and_begin, n
+Once verified, xor_begin, n
+Once verified, loop_begin, n
+Once verified, polygon_begin, n
+Once verified, end, n
+After copying the files into the Bidding Administration share, then, y
+After copying the files into the Bidding Administration share, and_begin, n
+After copying the files into the Bidding Administration share, xor_begin, n
+After copying the files into the Bidding Administration share, loop_begin, n
+After copying the files into the Bidding Administration share, polygon_begin, n
+After copying the files into the Bidding Administration share, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+After authorization is obtained for projects and they are advertised, then, y
+After authorization is obtained for projects and they are advertised, and_begin, n
+After authorization is obtained for projects and they are advertised, xor_begin, n
+After authorization is obtained for projects and they are advertised, loop_begin, n
+After authorization is obtained for projects and they are advertised, polygon_begin, n
+After authorization is obtained for projects and they are advertised, end, n
+if it is determined that inadequate information was provided for the DCR to be approved or rejected, then, n
+if it is determined that inadequate information was provided for the DCR to be approved or rejected, and_begin, n
+if it is determined that inadequate information was provided for the DCR to be approved or rejected, xor_begin, y
+if it is determined that inadequate information was provided for the DCR to be approved or rejected, loop_begin, n
+if it is determined that inadequate information was provided for the DCR to be approved or rejected, polygon_begin, n
+if it is determined that inadequate information was provided for the DCR to be approved or rejected, end, n
+now, then, y
+now, and_begin, n
+now, xor_begin, n
+now, loop_begin, n
+now, polygon_begin, n
+now, end, n
+Once the files are received, then, y
+Once the files are received, and_begin, n
+Once the files are received, xor_begin, n
+Once the files are received, loop_begin, n
+Once the files are received, polygon_begin, n
+Once the files are received, end, n
+Afterwards, then, y
+Afterwards, and_begin, n
+Afterwards, xor_begin, n
+Afterwards, loop_begin, n
+Afterwards, polygon_begin, n
+Afterwards, end, n
+Once QA QC of the electronic files is 100% complete, then, y
+Once QA QC of the electronic files is 100% complete, and_begin, n
+Once QA QC of the electronic files is 100% complete, xor_begin, n
+Once QA QC of the electronic files is 100% complete, loop_begin, n
+Once QA QC of the electronic files is 100% complete, polygon_begin, n
+Once QA QC of the electronic files is 100% complete, end, n
+In the case of catalogue parts, then, n
+In the case of catalogue parts, and_begin, n
+In the case of catalogue parts, xor_begin, y
+In the case of catalogue parts, loop_begin, n
+In the case of catalogue parts, polygon_begin, n
+In the case of catalogue parts, end, n
+In the case of installations, then, n
+In the case of installations, and_begin, n
+In the case of installations, xor_begin, y
+In the case of installations, loop_begin, n
+In the case of installations, polygon_begin, n
+In the case of installations, end, n
+Depending upon the complexity of the offer, then, n
+Depending upon the complexity of the offer, and_begin, n
+Depending upon the complexity of the offer, xor_begin, y
+Depending upon the complexity of the offer, loop_begin, n
+Depending upon the complexity of the offer, polygon_begin, n
+Depending upon the complexity of the offer, end, n
+first of all, then, y
+first of all, and_begin, n
+first of all, xor_begin, n
+first of all, loop_begin, n
+first of all, polygon_begin, n
+first of all, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+After the DCR has been approved by the Executive Board the following activities follow, then, y
+After the DCR has been approved by the Executive Board the following activities follow, and_begin, n
+After the DCR has been approved by the Executive Board the following activities follow, xor_begin, n
+After the DCR has been approved by the Executive Board the following activities follow, loop_begin, n
+After the DCR has been approved by the Executive Board the following activities follow, polygon_begin, n
+After the DCR has been approved by the Executive Board the following activities follow, end, n
+then, then, y
+then, and_begin, n
+then, xor_begin, n
+then, loop_begin, n
+then, polygon_begin, n
+then, end, n
+If the DCR affects two or more subgroups, then, n
+If the DCR affects two or more subgroups, and_begin, n
+If the DCR affects two or more subgroups, xor_begin, y
+If the DCR affects two or more subgroups, loop_begin, n
+If the DCR affects two or more subgroups, polygon_begin, n
+If the DCR affects two or more subgroups, end, n
+Once the DCR has been dispositioned by the Technical Subgroup, then, y
+Once the DCR has been dispositioned by the Technical Subgroup, and_begin, n
+Once the DCR has been dispositioned by the Technical Subgroup, xor_begin, n
+Once the DCR has been dispositioned by the Technical Subgroup, loop_begin, n
+Once the DCR has been dispositioned by the Technical Subgroup, polygon_begin, n
+Once the DCR has been dispositioned by the Technical Subgroup, end, n
+If a DCR is rejected at any point in this process, then, n
+If a DCR is rejected at any point in this process, and_begin, n
+If a DCR is rejected at any point in this process, xor_begin, y
+If a DCR is rejected at any point in this process, loop_begin, n
+If a DCR is rejected at any point in this process, polygon_begin, n
+If a DCR is rejected at any point in this process, end, n
+Once approved and determined compliant, then, y
+Once approved and determined compliant, and_begin, n
+Once approved and determined compliant, xor_begin, n
+Once approved and determined compliant, loop_begin, n
+Once approved and determined compliant, polygon_begin, n
+Once approved and determined compliant, end, n
+where, then, y
+where, and_begin, n
+where, xor_begin, n
+where, loop_begin, n
+where, polygon_begin, n
+where, end, n
+Upon receipt of the Sub Revision from Technical Support, then, y
+Upon receipt of the Sub Revision from Technical Support, and_begin, n
+Upon receipt of the Sub Revision from Technical Support, xor_begin, n
+Upon receipt of the Sub Revision from Technical Support, loop_begin, n
+Upon receipt of the Sub Revision from Technical Support, polygon_begin, n
+Upon receipt of the Sub Revision from Technical Support, end, n
+periodic, then, n
+periodic, and_begin, n
+periodic, xor_begin, n
+periodic, loop_begin, y
+periodic, polygon_begin, n
+periodic, end, n

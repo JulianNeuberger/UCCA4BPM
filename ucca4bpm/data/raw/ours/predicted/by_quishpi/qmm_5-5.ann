@@ -1,0 +1,12 @@
+T0	Action 24 32	includes
+T1	Action 103 112	depending
+T2	Action 292 296	sent
+T3	Action 349 358	subjected
+T4	Entity 37 73	examination of product
+T5	Entity 122 129	result
+T6	Entity 323 332	equipment
+T7	Entity 323 332	equipment
+R0	Patient Arg1:T0 Arg2:T4
+R1	Patient Arg1:T1 Arg2:T5
+R2	Patient Arg1:T2 Arg2:T6
+R3	Patient Arg1:T3 Arg2:T6

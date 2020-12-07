@@ -1,0 +1,52 @@
+T52	Condition 735 861	the storehouse has successfully reserved or back-ordered every item of the part list and the preparation activity has finished
+T43	Condition 474 504	the part is available in-house
+T53	Entity 448 469	quantity of each part
+T47	Condition 525 544	it is not available
+T30	Entity 250 266	process instance
+T55	Entity 997 1013	process instance
+T54	Action 552 564	back-ordered
+T31	Entity 304 314	storehouse
+T49	Action 890 899	assembles
+T5	Action 80 88	receives
+T9	Action 270 278	finished
+T10	Action 350 358	informed
+T12	Action 512 520	reserved
+T48	Action 669 677	prepares
+T51	Action 984 992	finishes
+T56	Entity 904 911	bicycle
+T57	Entity 956 963	bicycle
+T38	Condition 176 182	reject
+T39	Condition 186 192	accept
+T40	Action 428 434	checks
+T26	Entity 92 97	order
+T27	Entity 92 97	order
+T50	Action 946 951	ships
+T42	Entity 478 482	part
+R8	Patient Arg1:T5 Arg2:T26
+R12	Patient Arg1:T9 Arg2:T30
+R13	Patient Arg1:T10 Arg2:T31
+R28	Sequence Arg1:T38 Arg2:T9
+R29	Conflict Arg1:T38 Arg2:T39
+R30	Sequence Arg1:T39 Arg2:T10
+R34	Sequence Arg1:T43 Arg2:T12
+R42	Sequence Arg1:T5 Arg2:T38
+R43	Sequence Arg1:T5 Arg2:T39
+R44	Sequence Arg1:T10 Arg2:T40
+R48	Sequence Arg1:T40 Arg2:T43
+R51	Conflict Arg1:T43 Arg2:T47
+R52	Sequence Arg1:T40 Arg2:T47
+R54	Sequence Arg1:T10 Arg2:T48
+R56	Sequence Arg1:T48 Arg2:T49
+R58	Sequence Arg1:T49 Arg2:T50
+R59	Sequence Arg1:T50 Arg2:T51
+R61	Sequence Arg1:T12 Arg2:T52
+R62	Patient Arg1:T40 Arg2:T53
+R63	Sequence Arg1:T47 Arg2:T54
+R64	Patient Arg1:T12 Arg2:T42
+R65	Patient Arg1:T54 Arg2:T42
+R66	Sequence Arg1:T54 Arg2:T52
+R68	Sequence Arg1:T52 Arg2:T49
+R70	Patient Arg1:T51 Arg2:T55
+R71	Patient Arg1:T49 Arg2:T56
+R72	Patient Arg1:T50 Arg2:T57
+A0	Event T5

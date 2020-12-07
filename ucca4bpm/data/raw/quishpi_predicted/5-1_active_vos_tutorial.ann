@@ -1,0 +1,32 @@
+T0	Condition 155 176	the loan is small and 
+T1	Condition 229 254	the customer is high risk 
+T2	Condition 280 298	the customer needs 
+T3	Action 9 17	approval
+T4	Action 36 45	receiving
+T5	Action 120 127	invoked
+T6	Action 215 223	approved
+T7	Action 268 274	denied
+T8	Action 372 376	sent
+T9	Action 420 428	receives
+T10	Entity 4 25	loan approval process
+T11	Entity 159 163	loan
+T12	Entity 48 56	customer
+T14	Entity 4 8	loan
+T15	Entity 48 75	customer request for loan
+T16	Entity 89 116	risk assessment web service
+T17	Entity 207 211	loan
+T18	Entity 260 264	loan
+T19	Entity 361 368	request
+T20	Entity 429 437	feedback
+R0	Agent Arg1:T4 Arg2:T10
+R1	Agent Arg1:T9 Arg2:T12
+R2	Patient Arg1:T3 Arg2:T14
+R3	Patient Arg1:T4 Arg2:T15
+R4	Patient Arg1:T5 Arg2:T16
+R5	Patient Arg1:T6 Arg2:T17
+R6	Patient Arg1:T7 Arg2:T18
+R7	Patient Arg1:T8 Arg2:T19
+R8	Patient Arg1:T9 Arg2:T20
+R11	Sequence Arg1:T0 Arg2:T6
+R12	Sequence Arg1:T1 Arg2:T7
+R13	Sequence Arg1:T2 Arg2:T8

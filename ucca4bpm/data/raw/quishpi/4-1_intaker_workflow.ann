@@ -1,0 +1,46 @@
+T43	Condition 2045 2088	the medical file of the patient is required
+T38	Entity 248 281	name and residence of the patient
+T34	Entity 3919 3933	treatment plan
+T36	Entity 3940 3954	treatment plan
+T53	Entity 3221 3234	first meeting
+T9	Condition 795 807	new patients
+T11	Entity 811 823	patient file
+T30	Entity 3361 3373	observations
+T37	Entity 548 559	information
+T39	Entity 304 315	information
+T21	Action 2634 2644	requesting
+T25	Action 3009 3019	registered
+T13	Action 996 1005	not leave
+T16	Action 1712 1721	assigning
+T33	Action 3907 3916	formulate
+T3	Action 229 237	inquires
+T6	Action 563 571	recorded
+T15	Action 1568 1576	assigned
+T18	Action 2536 2544	required
+T19	Action 2569 2577	prepares
+T24	Action 2924 2932	examined
+T41	Entity 1722 1730	intakers
+T42	Action 1916 1924	recorded
+T49	Action 2701 2709	received
+T8	Action 782 789	printed
+T10	Action 827 834	created
+T40	Entity 1552 1559	patient
+T55	Entity 2829 2836	meeting
+T7	Action 732 738	stored
+T17	Action 2163 2169	stores
+T29	Action 3348 3354	record
+T46	Action 911 917	stored
+T56	Action 641 647	handed
+T20	Action 2582 2587	sends
+T26	Action 3161 3166	added
+T32	Action 3487 3492	added
+T45	Action 452 457	makes
+T47	Action 873 878	print
+T48	Action 2110 2115	added
+T52	Action 3211 3216	plans
+T54	Action 2821 2826	plans
+T12	Action 957 961	kept
+T35	Action 3964 3968	ends
+T4	Action 331 334	put
+T23	Action 2769 2772	add
+R0	Sequence Arg1:T9 Arg2:T10

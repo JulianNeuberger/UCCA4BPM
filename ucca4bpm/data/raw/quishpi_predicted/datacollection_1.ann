@@ -1,0 +1,225 @@
+T0	Condition 1181 1198	an x-ray is taken 
+T1	Condition 1356 1378	a surgery is performed 
+T2	Condition 2129 2176	they decide that the invoice appears legit then 
+T3	Condition 2596 2613	a request is sent 
+T4	Action 16 23	created
+T5	Action 42 50	approved
+T6	Action 54 62	rejected
+T7	Action 82 90	approved
+T8	Action 108 112	paid
+T9	Action 140 148	approved
+T10	Action 174 178	paid
+T11	Action 206 214	rejected
+T12	Action 233 237	paid
+T13	Action 257 260	end
+T14	Action 287 294	exclude
+T15	Action 321 327	closed
+T16	Action 409 416	managed
+T17	Action 448 455	created
+T18	Action 473 480	created
+T19	Action 506 513	arrange
+T20	Action 600 608	arranged
+T21	Action 620 624	held
+T22	Action 649 654	enter
+T23	Action 715 728	participating
+T24	Action 751 757	submit
+T25	Action 800 803	get
+T26	Action 864 872	assigned
+T27	Action 937 944	propose
+T28	Action 970 978	assigned
+T29	Action 1009 1015	manage
+T30	Action 1039 1046	propose
+T31	Action 1075 1081	agreed
+T32	Action 1157 1166	examining
+T33	Action 1228 1235	checked
+T34	Action 1272 1280	applying
+T35	Action 1292 1302	performing
+T36	Action 1335 1344	performed
+T37	Action 1416 1422	occurs
+T38	Action 1460 1467	applied
+T39	Action 1492 1499	removed
+T40	Action 1563 1570	applied
+T41	Action 1665 1673	provided
+T42	Action 1733 1741	triggers
+T43	Action 1819 1827	followed
+T44	Action 1908 1912	take
+T45	Action 1944 1950	modify
+T46	Action 2035 2043	admitted
+T47	Action 2182 2187	enter
+T48	Action 2262 2270	received
+T49	Action 2290 2294	paid
+T50	Action 2312 2321	confirmed
+T51	Action 2350 2356	closed
+T52	Action 2387 2395	required
+T53	Action 2437 2442	enter
+T54	Action 2451 2455	scan
+T55	Action 2469 2474	enter
+T56	Action 2519 2524	given
+T57	Action 2546 2549	pay
+T58	Action 2634 2642	expected
+T59	Action 2688 2696	supposed
+T60	Action 2772 2780	expected
+T61	Action 2847 2858	registering
+T62	Action 2908 2914	billed
+T63	Action 2955 2961	billed
+T64	Action 3004 3011	charged
+T65	Entity 482 492	management
+T66	Entity 630 641	case worker
+T68	Entity 916 918	lo
+T69	Entity 1130 1146	process instance
+T70	Entity 1324 1330	x-ray
+T72	Entity 1711 1732	payment of ticket
+T73	Entity 1924 1933	customer
+T76	Entity 2 7	claim
+T77	Entity 32 34	it
+T78	Entity 32 34	it
+T79	Entity 66 71	claim
+T80	Entity 98 100	it
+T81	Entity 125 130	claim
+T82	Entity 150 152	it
+T83	Entity 191 196	claim
+T84	Entity 216 218	it
+T85	Entity 243 249	payout
+T86	Entity 295 305	everything
+T87	Entity 309 313	case
+T88	Entity 397 401	case
+T89	Entity 436 438	it
+T90	Entity 465 469	case
+T91	Entity 516 546	meeting between union case
+T92	Entity 589 596	meeting
+T93	Entity 609 611	it
+T94	Entity 655 663	metadata
+T95	Entity 734 741	meeting
+T96	Entity 762 766	case
+T97	Entity 806 827	local id at union
+T98	Entity 833 835	it
+T99	Entity 945 950	date
+T100	Entity 963 965	lo
+T101	Entity 1020 1024	case
+T102	Entity 1047 1052	date
+T103	Entity 1061 1065	date
+T104	Entity 1169 1176	patient
+T105	Entity 1209 1219	x-ray risk
+T106	Entity 1283 1287	cast
+T107	Entity 1303 1310	surgery
+T108	Entity 1324 1330	x-ray
+T109	Entity 1385 1415	prescription of rehabilitation
+T110	Entity 1452 1456	cast
+T111	Entity 1484 1488	cast
+T112	Entity 1550 1554	cast
+T113	Entity 1623 1657	personal information of passenger
+T114	Entity 1746 1771	completion of booking
+T115	Entity 1783 1804	payment of ticket
+T116	Entity 1913 1918	place
+T117	Entity 1964 1968	data
+T118	Entity 2019 2031	cancellation
+T119	Entity 2192 2221	relevant data into system
+T120	Entity 2275 2282	invoice
+T121	Entity 2275 2282	invoice
+T122	Entity 2301 2308	payment
+T123	Entity 2327 2339	invoice case
+T124	Entity 2362 2383	receipt of invoice
+T125	Entity 2443 2447	data
+T126	Entity 2460 2467	invoice
+T127	Entity 2475 2479	data
+T128	Entity 2503 2511	approval
+T129	Entity 2554 2561	invoice
+T130	Entity 2622 2630	proposal
+T131	Entity 2672 2684	confirmation
+T132	Entity 2760 2768	proposal
+T133	Entity 2859 2870	client data
+T134	Entity 2887 2899	room service
+T135	Entity 2931 2946	laundry service
+T136	Entity 2991 2995	bill
+R0	Agent Arg1:T19 Arg2:T65
+R1	Agent Arg1:T22 Arg2:T66
+R2	Agent Arg1:T23 Arg2:T66
+R3	Agent Arg1:T27 Arg2:T68
+R4	Agent Arg1:T32 Arg2:T69
+R5	Agent Arg1:T34 Arg2:T70
+R6	Agent Arg1:T35 Arg2:T70
+R7	Agent Arg1:T42 Arg2:T72
+R8	Agent Arg1:T45 Arg2:T73
+R9	Agent Arg1:T47 Arg2:T73
+R10	Agent Arg1:T61 Arg2:T69
+R11	Patient Arg1:T4 Arg2:T76
+R12	Patient Arg1:T5 Arg2:T77
+R13	Patient Arg1:T6 Arg2:T77
+R14	Patient Arg1:T7 Arg2:T79
+R15	Patient Arg1:T8 Arg2:T80
+R16	Patient Arg1:T9 Arg2:T81
+R17	Patient Arg1:T10 Arg2:T82
+R18	Patient Arg1:T11 Arg2:T83
+R19	Patient Arg1:T12 Arg2:T84
+R20	Patient Arg1:T13 Arg2:T85
+R21	Patient Arg1:T14 Arg2:T86
+R22	Patient Arg1:T15 Arg2:T87
+R23	Patient Arg1:T16 Arg2:T88
+R24	Patient Arg1:T17 Arg2:T89
+R25	Patient Arg1:T18 Arg2:T90
+R26	Patient Arg1:T19 Arg2:T91
+R27	Patient Arg1:T20 Arg2:T92
+R28	Patient Arg1:T21 Arg2:T93
+R29	Patient Arg1:T22 Arg2:T94
+R30	Patient Arg1:T23 Arg2:T95
+R31	Patient Arg1:T24 Arg2:T96
+R32	Patient Arg1:T25 Arg2:T97
+R33	Patient Arg1:T26 Arg2:T98
+R34	Patient Arg1:T27 Arg2:T99
+R35	Patient Arg1:T28 Arg2:T100
+R36	Patient Arg1:T29 Arg2:T101
+R37	Patient Arg1:T30 Arg2:T102
+R38	Patient Arg1:T31 Arg2:T103
+R39	Patient Arg1:T32 Arg2:T104
+R40	Patient Arg1:T33 Arg2:T105
+R41	Patient Arg1:T34 Arg2:T106
+R42	Patient Arg1:T35 Arg2:T107
+R43	Patient Arg1:T36 Arg2:T108
+R44	Patient Arg1:T37 Arg2:T109
+R45	Patient Arg1:T38 Arg2:T110
+R46	Patient Arg1:T39 Arg2:T111
+R47	Patient Arg1:T40 Arg2:T112
+R48	Patient Arg1:T41 Arg2:T113
+R49	Patient Arg1:T42 Arg2:T114
+R50	Patient Arg1:T43 Arg2:T115
+R51	Patient Arg1:T44 Arg2:T116
+R52	Patient Arg1:T45 Arg2:T117
+R53	Patient Arg1:T46 Arg2:T118
+R54	Patient Arg1:T47 Arg2:T119
+R55	Patient Arg1:T48 Arg2:T120
+R56	Patient Arg1:T49 Arg2:T120
+R57	Patient Arg1:T50 Arg2:T122
+R58	Patient Arg1:T51 Arg2:T123
+R59	Patient Arg1:T52 Arg2:T124
+R60	Patient Arg1:T53 Arg2:T125
+R61	Patient Arg1:T54 Arg2:T126
+R62	Patient Arg1:T55 Arg2:T127
+R63	Patient Arg1:T56 Arg2:T128
+R64	Patient Arg1:T57 Arg2:T129
+R65	Patient Arg1:T58 Arg2:T130
+R66	Patient Arg1:T59 Arg2:T131
+R67	Patient Arg1:T60 Arg2:T132
+R68	Patient Arg1:T61 Arg2:T133
+R69	Patient Arg1:T62 Arg2:T134
+R70	Patient Arg1:T63 Arg2:T135
+R71	Patient Arg1:T64 Arg2:T136
+R83	Sequence Arg1:T9 Arg2:T10
+R84	Sequence Arg1:T11 Arg2:T12
+R85	Sequence Arg1:T13 Arg2:T14
+R86	Sequence Arg1:T17 Arg2:T16
+R87	Sequence Arg1:T22 Arg2:T23
+R88	Sequence Arg1:T24 Arg2:T22
+R89	Sequence Arg1:T24 Arg2:T23
+R90	Sequence Arg1:T34 Arg2:T35
+R91	Sequence Arg1:T38 Arg2:T39
+R92	Sequence Arg1:T48 Arg2:T49
+R93	Sequence Arg1:T50 Arg2:T51
+R94	Sequence Arg1:T0 Arg2:T33
+R95	Sequence Arg1:T1 Arg2:T37
+R96	Sequence Arg1:T2 Arg2:T47
+R97	Sequence Arg1:T3 Arg2:T58
+A0	Event T9 
+A1	Event T11 
+A2	Event T24 
+A3	Event T48 
+A4	Event T50 

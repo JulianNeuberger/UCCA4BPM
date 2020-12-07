@@ -1,0 +1,149 @@
+the revision level is moved up to the next letter of the alphabet, activity
+the revision date is changed to reflect the date on which the NGEC Executive Board approved the Major Changes, activity
+The RCC shall forward all the changes to the Technical Support individual, activity
+who will enter the changes into the document, activity
+Sub revisions are created when Urgent DCRs have been approved, activity
+the inquiry requirements are clarified and incorporated in the offer, activity
+preliminary engineering plans are drawn up for customer specific modifications and complete installations, activity
+Then, template
+CALCULATIONS are made using an EDP controlled calculation model, activity
+The first essential technical documents and dimensional drawings are prepared during this phase, activity
+All the results of the three phases offer review preliminary engineering and calculation are laid down in a written offer and sent to the customer, activity
+After receipt of an order this is compared with the offer, activity
+if the result is positive an order confirmation is sent to the customer, activity
+notification shall go out to all parties who have registered for notification of revisions changes to documents, activity
+The DCB shall create and the RCC shall maintain a database of the name affiliation address phone number and email address of each person who has electronically registered for such notifications, activity
+Products that do not comply with the requirements are always marked, activity
+Aspects relating to marking approval clearance fault elimination and documentation are laid down in detail in special procedure instructions, activity
+A large part of the data that is accrued in conjunction with the described process methods or the products is processed and evaluated, activity
+The DCC shall determine whether a DCR meets the criteria for Urgent if not already so designated by the RCC Major or Minor, activity
+the RCC should be informed of that by the originator, activity
+and the DCR will be handled in accordance with the process outlined below, template
+the DCR shall be considered Major, activity
+If the originator submitting a DCR believes it should be handled as Urgent, template
+If the RCC agrees, template
+the RCC has the authority to classify it as Urgent, activity
+The DCC has the authority to approve Minor DCRs, activity
+In the event that it is unclear as to whether a DCR falls into the Major or Minor category, template
+All DCRs for specifications and documents are sent to the Revision Control Coordinator RCC, activity
+The RCC is responsible for forwarding the DCR to the appropriate Document Control Coordinator DCC, activity
+Rather than forwarding the DCR to the Document Control Board s he shall forward the DCR to the Accessibility Working Group AWG, activity
+The DCB portion of the DCR form see Appendix A shall be used by the DCC to record the forwarding of the DCR, activity
+Specified product and process characteristics are monitored, activity
+Faults are registered evaluated and appropriate corrective measures implemented, activity
+The data of all the measurement and testing equipment used during production for set testing functions is registered and it is calibrated at regular intervals, activity
+Similarly to ensure a constant product quality and to maintain the capacity for use of all the relevant production installations measures for their care and maintenance have been laid down and the implementation thereof is monitored, activity
+All production processes where the results cannot be monitored by follow up tests are monitored separately, activity
+Changes may be requested by any member of the NGEC Technical Subcommittee TSC or others, activity
+Specification revisions which are identified during periods in which participation by the full Technical Subcommittee membership is precluded closed periods such as during an active procurement bid evaluation or negotiation must be initiated in the form of a DCR, activity
+and submitted to the NGEC Review Panel, activity
+The Review Panel remains responsible for reviewing NGEC specification revisions, activity
+Proposed revisions which are accepted will be incorporated into the version of the specification against which the contract is awarded, activity
+changes to the specification which occurred during the proposal phase will be presented to the Revision Control and Document Control Coordinators, activity
+who will make a decision based on the nature of the revisions as to whether or not these revisions should be incorporated into a base specification, activity
+or should remain unique to the as built specification for the particular procurement, activity
+these changes will be submitted as DCRs and be handled using the existing Document Management Urgent Process, activity
+Once contract award occurs, template
+If it is determined that changes to the base specification are warranted, template
+the RCC shall enter DCRs into a log, activity
+forward them to the appropriate DCC, activity
+The DCC shall determine whether a DCR is Urgent if not already so designated by the RCC Major or Minor, activity
+Minor DCRs can be approved or rejected by the DCC, activity
+returned to the RCC for holding, activity
+Major DCRs will be forwarded to the appropriate DCB Technical Subgroup leader, activity
+the DCC will select the most appropriate Technical Subgroup leader, activity
+and it will be up to that individual to coordinate the DCR review with other affected Subgroups, activity
+The Technical Subgroup s will review the DCRs and make a recommendation, activity
+it is returned to the DCC who will then return it to the RCC, activity
+the RCC will create a Change Summary that will be routed to the Technical Subcommittee for approval, activity
+the RCC will forward it to the Review Panel for its review, activity
+The Review Panel will provide a recommendation to the NGEC Board to approve or reject the changes included in the Change Summary, activity
+the recommendation and Change Summary will be forwarded to the NGEC Executive Board for approval, activity
+The NGEC Executive Board has the ability to hold individual DCRs in question aside, activity
+while still approving or rejecting the remaining package of DCRs included in the Change Summary, activity
+The disposition of each submitted DCR will be provided to the originator, activity
+As they are received, template
+then, template
+then, template
+If the DCR affects two or more subgroups, template
+Once the DCR has been dispositioned by the Technical Subgroup, template
+At the beginning of the final review process, template
+Upon approval of the Change Summary, template
+Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval or disapproval of certain changes as appropriate, template
+The Revision Control Coordinator RCC shall be responsible for administering DCRs: reviewing for completeness assigning a tracking number collating and compiling completed DCRs and making the appropriate changes to the affected documents and managing the document revision process., activity
+The RCC shall also develop and administer a document archiving tracking and storage system, activity
+The RCC shall appoint an understudy, activity
+The name affiliation and contact information for the RCC and RCC understudy shall be communicated to all members of the TSC, activity
+Before new suppliers are approved, template
+they are submitted to a comprehensive qualification process, activity
+The purchasing departments ensure that the documents that are referred to have been reviewed and cleared, activity
+that they have been placed at the supplier s disposal, activity
+The supplier is informed immediately of any changes to purchasing documents., activity
+Incoming materials or products are inspected to ensure that they fulfil the quality requirements whereby a set goods inward inspection procedure is applied, activity
+The purchasing and quality management departments assess the main suppliers with regard to quality price fixing and services rendered at regular intervals, activity
+When appointing new employees the qualifications of the applicants are confirmed in accordance with the job description, activity
+Additionally they are instructed under the direction of experienced specialists, activity
+At the same time, template
+the employees also become acquainted with the quality assurance instructions processes and measures for their specialized area, activity
+the training requirements and the ensuing training measures for the following period of time are determined, activity
+The personnel department organizes and coordinates the respective training courses, activity
+an assessment of the effectiveness of the training is carried out, activity
+At CCH appropriate records are kept on the qualification training and instruction of employees, activity
+The RCC will be responsible for preparing change summaries and submitting them to the TSC, activity
+DCRs submitted after the final review process has begun for a specific revision level will be held by the RCC, activity
+The RCC and DCC shall use their judgment and experience to determine the cut off date to accept DCRs, activity
+The after sales service includes the examination of the supplied products to establish any faults and depending upon the results if required together with the customer, template
+it is repaired based on an estimate of costs, activity
+or the customer is offered a new appliance as a replacement, activity
+Before being sent back to the customer, template
+all equipment and systems are subjected to the required factory inspections to ensure that it is in good working order, activity
+All DCRs shall be archived for recordkeeping, activity
+The DCB shall develop the criteria, activity
+The criteria developed by the DCB shall be submitted to the TSC for review and approval, activity
+Rejected DCRs may be resubmitted by the originator upon receipt of rationale for rejection, activity
+The DCR may be returned to the originator at any step in the process, activity
+if it is determined that inadequate information was provided for the DCR to be approved or rejected, template
+The DCC will now forward the DCR to the appropriate Document Control Board for adjudication, activity
+the DCB can still vote to Reject or Approve Approve as Amended, activity
+In the case of catalogue parts, template
+a standard offer is submitted and the offer process is concluded, activity
+In the case of installations, template
+first of all the feasibility is clarified and then a fundamental decision made as to whether an offer is to be submitted, activity
+the offer is drawn up by an interdisciplinary project team, activity
+or it is attended to by the customer centre, activity
+Depending upon the complexity of the offer, template
+The Originator sends the DCR to the RCC, activity
+RCC shall enter the DCR into a log, activity
+forward it to the appropriate DCC, activity
+In parallel with this, template
+the RCC shall also notify the Executive Board and Review Panel that an Urgent DCR has been received and sent to the DCC, activity
+The DCC shall as soon as possible forward the DCR to the to the appropriate DCB Technical Subgroup leader, activity
+The Technical Subgroup s will review the DCRs, activity
+make a recommendation, activity
+it is returned to the DCC, activity
+who will then return it to the RCC, activity
+The RCC will forward DCRs that were approved or approved with amendment to the Technical Subcommittee and Review Panel, activity
+review the DCR and return it to the RCC, activity
+The Technical Subcommittee shall determine how best to obtain a vote on the DCR, activity
+The Review Panel role is to determine that the change is in keeping, activity
+Panel members shall determine how best to obtain a vote on the DCR, activity
+the RCC will forward the DCR to the Executive Board, activity
+The Executive Board will vote on the DCR, activity
+After the DCR has been approved by the Executive Board the following activities follow, template
+The RCC will notify the Originator that the DCR has been approved, activity
+return the DCR to the originator, activity
+The RCC will forward the DCR to Technical Support, activity
+the RCC forwards it and the DCR, activity
+then, template
+the DCC will select the most appropriate Technical Subgroup leader, activity
+review with other affected Subgroups, activity
+If the DCR affects two or more subgroups, template
+Once the DCR has been dispositioned by the Technical Subgroup, template
+the RCC will return the DCR to the DCC or Originator, activity
+If a DCR is rejected at any point in this process, template
+Once approved and determined compliant, template
+it will be incorporated into a Sub Revision of the affected document, activity
+where, template
+Upon receipt of the Sub Revision from Technical Support, template
+revision to the affected document, activity
+periodic, template

@@ -1,0 +1,18 @@
+T0	Action 18 26	archived
+T1	Action 79 88	archiving
+T2	Action 116 124	relating
+T3	Action 223 231	archived
+T4	Action 236 242	stored
+T5	Entity 250 253	rcc
+T6	Entity 4 8	dcrs
+T7	Entity 108 115	record
+T8	Entity 108 115	record
+T9	Entity 145 168	obsolete specification
+T10	Entity 145 168	obsolete specification
+R0	Agent Arg1:T3 Arg2:T5
+R1	Patient Arg1:T0 Arg2:T6
+R2	Patient Arg1:T1 Arg2:T7
+R3	Patient Arg1:T2 Arg2:T7
+R4	Patient Arg1:T3 Arg2:T9
+R5	Patient Arg1:T4 Arg2:T9
+R7	Sequence Arg1:T3 Arg2:T4

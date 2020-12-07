@@ -1,0 +1,39 @@
+T0	Action 5 15	appointing
+T1	Action 72 81	confirmed
+T2	Action 145 155	instructed
+T3	Action 240 246	become
+T4	Action 332 343	specialized
+T5	Action 362 371	guarantee
+T6	Action 436 443	ensuing
+T7	Action 470 479	following
+T8	Action 573 582	organizes
+T9	Action 703 707	kept
+T10	Action 826 833	carried
+T11	Entity 35 67	qualification of applicant
+T12	Entity 552 572	personnel department
+T13	Entity 16 29	new employee
+T14	Entity 35 67	qualification of applicant
+T15	Entity 136 140	they
+T16	Entity 225 234	employee
+T17	Entity 326 348	their area
+T18	Entity 374 400	purposive further training
+T19	Entity 444 494	training measure for period of time
+T20	Entity 480 494	period of time
+T21	Entity 603 630	respective training course
+T22	Entity 730 767	training qualification of employee
+T23	Entity 775 822	assessment of effectiveness of training
+R0	Agent Arg1:T0 Arg2:T11
+R1	Agent Arg1:T8 Arg2:T12
+R2	Patient Arg1:T0 Arg2:T13
+R3	Patient Arg1:T1 Arg2:T14
+R4	Patient Arg1:T2 Arg2:T15
+R5	Patient Arg1:T3 Arg2:T16
+R6	Patient Arg1:T4 Arg2:T17
+R7	Patient Arg1:T5 Arg2:T18
+R8	Patient Arg1:T6 Arg2:T19
+R9	Patient Arg1:T7 Arg2:T20
+R10	Patient Arg1:T8 Arg2:T21
+R11	Patient Arg1:T9 Arg2:T22
+R12	Patient Arg1:T10 Arg2:T23
+R15	Sequence Arg1:T1 Arg2:T0
+A0	Event T1 

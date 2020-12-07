@@ -1,0 +1,25 @@
+T2	Condition 148 193	the requested amount is lower or equal to 1M$
+T1	Condition 73 113	the requested amount is greater than 1M$
+T4	Condition 262 278	the risk is high
+T5	Condition 318 333	the risk is low
+T9	Action 300 309	requested
+T16	Action 134 143	requested
+T0	Action 19 27	collects
+T10	Action 348 356	accepted
+T12	Condition 418 426	rejected
+T14	Condition 406 414	accepted
+T3	Action 206 212	assess
+T17	Action 455 459	sent
+R0	Sequence Arg1:T0 Arg2:T1
+R1	Sequence Arg1:T0 Arg2:T2
+R2	Sequence Arg1:T2 Arg2:T3
+R3	Sequence Arg1:T4 Arg2:T9
+R5	Sequence Arg1:T5 Arg2:T10
+R9	Conflict Arg1:T14 Arg2:T12
+R10	Sequence Arg1:T3 Arg2:T5
+R11	Sequence Arg1:T9 Arg2:T14
+R12	Sequence Arg1:T9 Arg2:T12
+R13	Sequence Arg1:T1 Arg2:T16
+R14	Sequence Arg1:T12 Arg2:T17
+R15	Sequence Arg1:T14 Arg2:T17
+R16	Sequence Arg1:T10 Arg2:T17

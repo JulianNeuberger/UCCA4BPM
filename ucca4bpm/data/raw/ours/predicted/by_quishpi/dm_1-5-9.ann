@@ -1,0 +1,18 @@
+T0	Action 32 41	preparing
+T1	Action 63 73	submitting
+T2	Action 372 380	accepted
+T3	Action 412 421	submitted
+T4	Action 589 592	use
+T5	Entity 407 411	dcrs
+T6	Entity 4 7	rcc
+T7	Entity 42 58	change summary
+T8	Entity 74 78	them
+T9	Entity 351 393	further dcrs for dcr
+T10	Entity 593 607	their judgment
+R0	Agent Arg1:T3 Arg2:T5
+R1	Agent Arg1:T4 Arg2:T6
+R2	Patient Arg1:T0 Arg2:T7
+R3	Patient Arg1:T1 Arg2:T8
+R4	Patient Arg1:T2 Arg2:T9
+R5	Patient Arg1:T4 Arg2:T10
+R8	Sequence Arg1:T0 Arg2:T1

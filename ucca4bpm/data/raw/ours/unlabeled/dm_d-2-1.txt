@@ -1,0 +1,5 @@
+All DCRs for specifications and documents are sent to the Revision Control Coordinator (RCC).
+The RCC is responsible for forwarding the DCR to the appropriate Document Control Coordinator (DCC).
+If the DCC receives a DCR that meets the conditions listed in Section D.1, however, a change in the normal DCR handling process must occur.
+Rather than forwarding the DCR to the Document Control Board, (s)he shall forward the DCR to the Accessibility Working Group (AWG).
+The DCB portion of the DCR form (see Appendix A) shall be used by the DCC to record the forwarding of the DCR.

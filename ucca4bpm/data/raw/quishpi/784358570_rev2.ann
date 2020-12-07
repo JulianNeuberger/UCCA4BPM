@@ -1,0 +1,54 @@
+T33	Condition 676 722	enough human resources to process the delivery
+T24	Entity 813 856	best route to deliver all driver's packages
+T16	Entity 302 338	about the not longer available items
+T21	Entity 629 659	client about a potential delay
+T3	Condition 111 131	something is missing
+T4	Condition 455 471	everything is OK
+T8	Entity 204 220	missing products
+T30	Entity 499 511	all products
+T20	Entity 730 741	the package
+T32	Entity 535 546	The courier
+T29	Action 488 498	recollects
+T0	Action 22 31	reviewing
+T9	Action 745 754	picked up
+T12	Action 555 563	informed
+T15	Action 293 301	informed
+T25	Action 874 882	delivers
+T31	Entity 157 165	customer
+T10	Action 516 523	prepare
+T11	Entity 526 533	package
+T23	Action 801 808	decides
+T26	Entity 887 894	package
+T34	Action 617 624	informs
+T5	Action 150 156	inform
+T27	Action 907 913	update
+T28	Entity 918 924	system
+T1	Entity 36 41	order
+T2	Action 60 65	check
+T7	Action 194 199	order
+R0	Patient Arg1:T0 Arg2:T1
+R2	Patient Arg1:T7 Arg2:T8
+R3	Patient Arg1:T10 Arg2:T11
+R5	Patient Arg1:T15 Arg2:T16
+R7	Patient Arg1:T9 Arg2:T20
+R9	Patient Arg1:T23 Arg2:T24
+R10	Patient Arg1:T25 Arg2:T26
+R11	Patient Arg1:T27 Arg2:T28
+R12	Sequence Arg1:T0 Arg2:T2
+R13	Conflict Arg1:T3 Arg2:T4
+R14	Patient Arg1:T29 Arg2:T30
+R15	Sequence Arg1:T4 Arg2:T29
+R16	Sequence Arg1:T29 Arg2:T10
+R18	Sequence Arg1:T3 Arg2:T5
+R19	Patient Arg1:T5 Arg2:T31
+R20	Sequence Arg1:T5 Arg2:T7
+R21	Sequence Arg1:T7 Arg2:T5
+R22	Sequence Arg1:T3 Arg2:T7
+R23	Sequence Arg1:T7 Arg2:T15
+R24	Sequence Arg1:T25 Arg2:T27
+R25	Sequence Arg1:T23 Arg2:T25
+R26	Sequence Arg1:T23 Arg2:T9
+R27	Sequence Arg1:T10 Arg2:T12
+R28	Patient Arg1:T12 Arg2:T32
+R29	Sequence Arg1:T33 Arg2:T9
+R30	Patient Arg1:T34 Arg2:T21

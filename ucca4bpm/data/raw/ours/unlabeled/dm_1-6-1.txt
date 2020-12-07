@@ -1,0 +1,10 @@
+Once all DCRs have been dispositioned for an update cycle of a specification or document, the revision level is moved up to the next letter of the alphabet and the revision date is changed to reflect the date on which the NGEC Executive Board approved the Major Changes.
+The RCC shall forward all the changes to the Technical Support individual charged with the editing and formatting of the actual documents, who will enter the changes into the document.
+As described above, Sub-revisions are created when Urgent DCRs have been approved.
+The actual drawing-up of an offer comprises an OFFER REVIEW.
+During this phase the inquiry requirements are clarified and incorporated in the offer.
+Once all the relevant basic points have been reviewed and clarified, preliminary engineering plans are drawn up for customer-specific modifications and complete installations.
+The first essential technical documents and dimensional drawings are prepared during this phase.
+Then, on the basis of these preliminary documents, CALCULATIONS are made using an EDP-controlled calculation model.
+All the results of the three phases, offer review, preliminary engineering and calculation, are laid down in a written offer and sent to the customer.
+After receipt of an order, this is compared with the offer and, if the result is positive, an order confirmation is sent to the customer.

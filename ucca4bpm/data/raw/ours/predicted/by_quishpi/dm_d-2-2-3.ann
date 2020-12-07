@@ -1,0 +1,67 @@
+T0	Condition 176 248	the NGEC determines it does not want to implement the proposed change ( s ) 
+T1	Condition 417 462	the NGEC determines the change is appropriate 
+T2	Condition 689 795	the NGEC determines that the proposed Requirements_Document language requires only editorial modifications 
+T3	Condition 616 656	the AWG is required to perform more work 
+T4	Action 18 26	evaluate
+T5	Action 31 38	discuss
+T6	Action 43 51	proposed
+T7	Action 114 122	proposed
+T8	Action 144 148	make
+T9	Action 258 264	reject
+T10	Action 286 292	happen
+T11	Action 554 558	send
+T12	Action 676 684	notified
+T13	Action 804 808	make
+T14	Action 835 841	follow
+T15	Action 873 882	approving
+T16	Action 887 895	proposed
+T17	Action 936 944	amending
+T18	Action 949 958	approving
+T19	Action 1076 1083	request
+T20	Action 1177 1183	posted
+T21	Action 1349 1355	inform
+T22	Entity 4 7	tsc
+T24	Entity 135 139	ngec
+T30	Entity 52 58	change
+T31	Entity 52 58	change
+T32	Entity 123 129	change
+T33	Entity 149 171	one of decision
+T34	Entity 269 275	change
+T35	Entity 302 311	rejection
+T36	Entity 563 577	recommendation
+T37	Entity 662 665	tsc
+T38	Entity 823 822	itself modification
+T39	Entity 896 902	change
+T40	Entity 896 902	change
+T41	Entity 972 978	change
+T42	Entity 972 978	change
+T43	Entity 1191 1206	aashto web site
+T44	Entity 1360 1377	dcc of change
+R0	Agent Arg1:T4 Arg2:T22
+R1	Agent Arg1:T5 Arg2:T22
+R2	Agent Arg1:T8 Arg2:T24
+R3	Agent Arg1:T19 Arg2:T24
+R4	Agent Arg1:T21 Arg2:T24
+R5	Patient Arg1:T4 Arg2:T30
+R6	Patient Arg1:T6 Arg2:T30
+R7	Patient Arg1:T7 Arg2:T32
+R8	Patient Arg1:T8 Arg2:T33
+R9	Patient Arg1:T9 Arg2:T34
+R10	Patient Arg1:T10 Arg2:T35
+R11	Patient Arg1:T11 Arg2:T36
+R12	Patient Arg1:T12 Arg2:T37
+R13	Patient Arg1:T13 Arg2:T38
+R14	Patient Arg1:T15 Arg2:T39
+R15	Patient Arg1:T16 Arg2:T39
+R16	Patient Arg1:T17 Arg2:T41
+R17	Patient Arg1:T18 Arg2:T41
+R18	Patient Arg1:T20 Arg2:T43
+R19	Patient Arg1:T21 Arg2:T44
+R25	Sequence Arg1:T4 Arg2:T5
+R26	Sequence Arg1:T0 Arg2:T9
+R27	Sequence Arg1:T1 Arg2:T11
+R28	Sequence Arg1:T2 Arg2:T13
+R29	Sequence Arg1:T13 Arg2:T14
+R30	Sequence Arg1:T15 Arg2:T17
+R31	Sequence Arg1:T17 Arg2:T18
+R32	Sequence Arg1:T3 Arg2:T12

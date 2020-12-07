@@ -1,0 +1,178 @@
+T0	Condition 2065 2108	the medical file of the patient is required 
+T1	Condition 3319 3327	required 
+T2	Action 334 337	put
+T3	Action 456 461	makes
+T4	Action 568 576	recorded
+T5	Action 647 653	handed
+T6	Action 739 745	stored
+T7	Action 789 796	printed
+T8	Action 835 842	created
+T9	Action 920 926	stored
+T10	Action 967 971	kept
+T11	Action 1010 1015	leave
+T12	Action 1085 1093	produced
+T13	Action 1186 1194	contains
+T14	Action 1244 1249	added
+T15	Action 1354 1359	takes
+T16	Action 1385 1393	consists
+T17	Action 1487 1494	assigns
+T18	Action 1585 1593	assigned
+T19	Action 1700 1703	act
+T20	Action 1766 1771	takes
+T21	Action 1936 1944	recorded
+T22	Action 2131 2136	added
+T23	Action 2277 2283	passes
+T24	Action 2392 2397	keeps
+T25	Action 2439 2447	visiting
+T26	Action 2495 2497	is
+T27	Action 2561 2569	required
+T28	Action 2607 2612	sends
+T29	Action 2659 2669	requesting
+T30	Action 2727 2735	received
+T31	Action 2765 2771	inform
+T32	Action 2795 2798	add
+T33	Action 2847 2852	plans
+T34	Action 2896 2898	is
+T35	Action 2951 2959	examined
+T36	Action 3037 3047	registered
+T37	Action 3106 3110	puts
+T38	Action 3191 3196	added
+T39	Action 3240 3245	plans
+T40	Action 3359 3362	use
+T41	Action 3517 3522	added
+T42	Action 3623 3628	taken
+T43	Action 3659 3663	puts
+T44	Action 3766 3773	provide
+T45	Action 3940 3949	formulate
+T46	Action 3998 4002	ends
+T47	Entity 440 455	nursing officer
+T48	Entity 949 962	patient file
+T49	Entity 1168 1185	registration card
+T50	Entity 1313 1348	staff meeting of entire medical
+T51	Entity 1372 1384	medical team
+T52	Entity 1475 1486	team_leader
+T54	Entity 2384 2391	in_taker
+T55	Entity 2575 2593	secretarial office
+T60	Entity 3225 3239	2 in_taker
+T61	Entity 3348 3358	physician
+T62	Entity 3560 3581	meeting of 1
+T65	Entity 3974 3988	treatment plan
+T66	Entity 324 330	doctor
+T67	Entity 464 545	full inquiry into mental health social state of patient in question
+T68	Entity 553 564	information
+T69	Entity 639 643	form
+T70	Entity 712 735	information on form
+T71	Entity 712 735	information on form
+T72	Entity 819 831	patient file
+T73	Entity 849 866	registration form
+T74	Entity 949 962	patient file
+T75	Entity 1020 1028	building
+T76	Entity 1058 1080	2 registration card
+T77	Entity 1197 1217	set of basic patient
+T78	Entity 1229 1240	new patient
+T79	Entity 1360 1365	place
+T80	Entity 1397 1419	social_medical physician worker
+T81	Entity 1499 1530	new patient on list of new
+T82	Entity 1569 1576	patient
+T83	Entity 1711 1725	2 in_taker
+T84	Entity 1777 1800	account their region expertise
+T85	Entity 1920 1931	assignment
+T86	Entity 2116 2127	information
+T87	Entity 2297 2315	registration card
+T88	Entity 2403 2415	registration
+T89	Entity 2452 2459	patient
+T90	Entity 2505 2511	office
+T91	Entity 2523 2530	patient
+T92	Entity 2615 2621	letter
+T93	Entity 2676 2695	copy of medical
+T94	Entity 2719 2723	copy
+T95	Entity 2776 2790	2 in_taker
+T96	Entity 2803 2807	copy
+T97	Entity 2855 2879	meeting with patient
+T98	Entity 2899 2907	possible
+T99	Entity 2940 2947	patient
+T100	Entity 3009 3032	additional observation
+T101	Entity 3113 3132	copy of note
+T102	Entity 3164 3182	standard checklist
+T103	Entity 3250 3263	1 meeting
+T104	Entity 3363 3374	dictaphone
+T105	Entity 3479 3484	tape
+T106	Entity 3629 3634	place
+T107	Entity 3668 3675	patient
+T108	Entity 3778 3789	team_leader
+T109	Entity 3952 3966	treatment plan
+T110	Entity 4007 4023	intake procedure
+R0	Agent Arg1:T3 Arg2:T47
+R1	Agent Arg1:T11 Arg2:T48
+R2	Agent Arg1:T13 Arg2:T49
+R3	Agent Arg1:T15 Arg2:T50
+R4	Agent Arg1:T16 Arg2:T51
+R5	Agent Arg1:T17 Arg2:T52
+R6	Agent Arg1:T20 Arg2:T52
+R7	Agent Arg1:T24 Arg2:T54
+R8	Agent Arg1:T28 Arg2:T55
+R9	Agent Arg1:T31 Arg2:T55
+R10	Agent Arg1:T32 Arg2:T55
+R11	Agent Arg1:T33 Arg2:T54
+R12	Agent Arg1:T37 Arg2:T54
+R13	Agent Arg1:T39 Arg2:T60
+R14	Agent Arg1:T40 Arg2:T61
+R15	Agent Arg1:T42 Arg2:T62
+R16	Agent Arg1:T43 Arg2:T55
+R17	Agent Arg1:T45 Arg2:T54
+R18	Agent Arg1:T46 Arg2:T65
+R19	Patient Arg1:T2 Arg2:T66
+R20	Patient Arg1:T3 Arg2:T67
+R21	Patient Arg1:T4 Arg2:T68
+R22	Patient Arg1:T5 Arg2:T69
+R23	Patient Arg1:T6 Arg2:T70
+R24	Patient Arg1:T7 Arg2:T70
+R25	Patient Arg1:T8 Arg2:T72
+R26	Patient Arg1:T9 Arg2:T73
+R27	Patient Arg1:T10 Arg2:T74
+R28	Patient Arg1:T11 Arg2:T75
+R29	Patient Arg1:T12 Arg2:T76
+R30	Patient Arg1:T13 Arg2:T77
+R31	Patient Arg1:T14 Arg2:T78
+R32	Patient Arg1:T15 Arg2:T79
+R33	Patient Arg1:T16 Arg2:T80
+R34	Patient Arg1:T17 Arg2:T81
+R35	Patient Arg1:T18 Arg2:T82
+R36	Patient Arg1:T19 Arg2:T83
+R37	Patient Arg1:T20 Arg2:T84
+R38	Patient Arg1:T21 Arg2:T85
+R39	Patient Arg1:T22 Arg2:T86
+R40	Patient Arg1:T23 Arg2:T87
+R41	Patient Arg1:T24 Arg2:T88
+R42	Patient Arg1:T25 Arg2:T89
+R43	Patient Arg1:T26 Arg2:T90
+R44	Patient Arg1:T27 Arg2:T91
+R45	Patient Arg1:T28 Arg2:T92
+R46	Patient Arg1:T29 Arg2:T93
+R47	Patient Arg1:T30 Arg2:T94
+R48	Patient Arg1:T31 Arg2:T95
+R49	Patient Arg1:T32 Arg2:T96
+R50	Patient Arg1:T33 Arg2:T97
+R51	Patient Arg1:T34 Arg2:T98
+R52	Patient Arg1:T35 Arg2:T99
+R53	Patient Arg1:T36 Arg2:T100
+R54	Patient Arg1:T37 Arg2:T101
+R55	Patient Arg1:T38 Arg2:T102
+R56	Patient Arg1:T39 Arg2:T103
+R57	Patient Arg1:T40 Arg2:T104
+R58	Patient Arg1:T41 Arg2:T105
+R59	Patient Arg1:T42 Arg2:T106
+R60	Patient Arg1:T43 Arg2:T107
+R61	Patient Arg1:T44 Arg2:T108
+R62	Patient Arg1:T45 Arg2:T109
+R63	Patient Arg1:T46 Arg2:T110
+R83	Sequence Arg1:T6 Arg2:T7
+R84	Sequence Arg1:T25 Arg2:T24
+R85	Sequence Arg1:T30 Arg2:T31
+R86	Sequence Arg1:T31 Arg2:T32
+R87	Sequence Arg1:T1 Arg2:T39
+A0	Event T25 
+A1	Event T26 
+A2	Event T30 
+A3	Event T34 
+A4	Event T42 

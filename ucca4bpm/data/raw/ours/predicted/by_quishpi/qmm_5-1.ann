@@ -1,0 +1,111 @@
+T0	Action 26 36	registered
+T1	Action 191 198	bundled
+T2	Action 203 211	assessed
+T3	Action 275 282	defined
+T4	Action 342 349	defined
+T5	Action 379 386	written
+T6	Action 433 440	carried
+T7	Action 479 489	subdivides
+T8	Action 642 647	place
+T9	Action 764 772	repeated
+T10	Action 850 861	concretised
+T11	Action 978 983	drawn
+T12	Action 1075 1081	result
+T13	Action 1227 1234	carried
+T14	Action 1307 1314	defined
+T15	Action 1346 1355	developed
+T16	Action 1432 1441	supported
+T17	Action 1467 1475	detailed
+T18	Action 1682 1689	defined
+T19	Action 1805 1814	rechecked
+T20	Action 1843 1850	revised
+T21	Action 1854 1863	finalized
+T22	Action 1883 1886	set
+T23	Action 2039 2050	manufacture
+T24	Action 2202 2210	followed
+T25	Action 2257 2267	furnishing
+T26	Action 2426 2435	finalized
+T27	Action 2496 2502	closed
+T28	Action 2574 2582	relating
+T29	Action 2602 2610	archived
+T30	Action 2624 2629	filed
+T31	Action 2712 2717	filed
+T32	Action 2878 2886	modified
+T33	Action 2969 2978	processed
+T34	Entity 219 248	product management department
+T36	Entity 465 478	risk analysis
+T37	Entity 780 792	project team
+T38	Entity 1445 1460	further sample
+T39	Entity 2564 2573	document
+T40	Entity 0 21	customer requirement
+T41	Entity 162 174	requirement
+T42	Entity 162 174	requirement
+T43	Entity 252 271	development project
+T44	Entity 318 338	scope of project
+T45	Entity 357 378	initial specification
+T46	Entity 357 378	initial specification
+T47	Entity 490 589	project into 5 project from low stranger
+T48	Entity 653 698	focus on necessary focus by prolaunch
+T49	Entity 747 760	risk analysis
+T50	Entity 831 846	market analysis
+T51	Entity 1032 1063	concrete concept on content
+T52	Entity 1174 1170	production assessment dfmea
+T53	Entity 1244 1276	critical quality characteristic
+T54	Entity 1335 1342	product
+T55	Entity 1424 1428	this
+T56	Entity 1476 1502	planning by production
+T57	Entity 1625 1652	pfmea testing control plan instruction
+T58	Entity 1794 1800	basics
+T59	Entity 1794 1800	basics
+T60	Entity 1794 1800	basics
+T61	Entity 1869 1879	production
+T62	Entity 2053 2078	pilot series under series
+T63	Entity 2157 2191	successful validation with pilot
+T64	Entity 2275 2303	necessary training material
+T65	Entity 2332 2399	production document as such control capacity
+T66	Entity 2473 2492	development project
+T67	Entity 2564 2573	document
+T68	Entity 2564 2573	document
+T69	Entity 2736 2751	other document
+T70	Entity 2887 2908	manufacturing process
+T71	Entity 2955 2959	they
+R0	Agent Arg1:T1 Arg2:T34
+R1	Agent Arg1:T2 Arg2:T34
+R2	Agent Arg1:T7 Arg2:T36
+R3	Agent Arg1:T9 Arg2:T37
+R4	Agent Arg1:T16 Arg2:T38
+R5	Agent Arg1:T28 Arg2:T39
+R6	Patient Arg1:T0 Arg2:T40
+R7	Patient Arg1:T1 Arg2:T41
+R8	Patient Arg1:T2 Arg2:T41
+R9	Patient Arg1:T3 Arg2:T43
+R10	Patient Arg1:T4 Arg2:T44
+R11	Patient Arg1:T5 Arg2:T45
+R12	Patient Arg1:T6 Arg2:T45
+R13	Patient Arg1:T7 Arg2:T47
+R14	Patient Arg1:T8 Arg2:T48
+R15	Patient Arg1:T9 Arg2:T49
+R16	Patient Arg1:T10 Arg2:T50
+R17	Patient Arg1:T12 Arg2:T51
+R18	Patient Arg1:T13 Arg2:T52
+R19	Patient Arg1:T14 Arg2:T53
+R20	Patient Arg1:T15 Arg2:T54
+R21	Patient Arg1:T16 Arg2:T55
+R22	Patient Arg1:T17 Arg2:T56
+R23	Patient Arg1:T18 Arg2:T57
+R24	Patient Arg1:T19 Arg2:T58
+R25	Patient Arg1:T20 Arg2:T58
+R26	Patient Arg1:T21 Arg2:T58
+R27	Patient Arg1:T22 Arg2:T61
+R28	Patient Arg1:T23 Arg2:T62
+R29	Patient Arg1:T24 Arg2:T63
+R30	Patient Arg1:T25 Arg2:T64
+R31	Patient Arg1:T26 Arg2:T65
+R32	Patient Arg1:T27 Arg2:T66
+R33	Patient Arg1:T29 Arg2:T67
+R34	Patient Arg1:T30 Arg2:T67
+R35	Patient Arg1:T31 Arg2:T69
+R36	Patient Arg1:T32 Arg2:T70
+R37	Patient Arg1:T33 Arg2:T71
+R44	Sequence Arg1:T1 Arg2:T2
+R45	Sequence Arg1:T29 Arg2:T30

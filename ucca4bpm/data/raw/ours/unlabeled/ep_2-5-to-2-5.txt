@@ -1,0 +1,17 @@
+The Design Policy & Support, Engineering Document Management section is responsible for processing submitted images to get them in the format required for posting for advertisement by Bidding Administration.
+Once the files are received, the Engineering Document Management staff will QA/QC the files to insure they are in correct order, are full-size (24"x36"), contain the correct sheets for each project, and are in the correct file name format (PI#_SHEET#, i.e. 712930_0001).
+Furthermore, the staff will create a new folder for the year (if not already done previously) under the directory below, and then a subsequent subfolder with the name of the month of the Letting being processed (ie: 2012/February).
+Afterwards, they will copy all project folders into this newly created folder (all folder names must be the PI #, with dash if needed: i.e. 123456-).
+They will also verify that images are full-size.
+They also have to check the sheet order, sheet/drawing number, and quality by opening all of the PDF images using Bluebeam Revu or the Preview Pane in Windows Explorer.
+Any sheets that are illegible or missing shall be re-submitted by the PM.
+Sheet order may be corrected easily using Flash Renamer.
+Also check the file names to ensure they follow the standards file-naming scheme.
+Once QA/QC of the electronic files is 100% complete, copy entire project folder of PDF files over to the network directory.
+Rename the original scanned images (PDF format) in the folders that were copied in step 2 to a format of Contract ID # plus the sheet number (i.e. B11739-05-M002-2_0001.pdf). 
+The Flash Renamer software is used to rename all files.
+PDF images must be converted to TIF images in order to be uploaded to BIDX.
+They have to create another folder called TIF and subsequent subfolders for each project using the Contract ID’s (ie: B12205-06-000-2).
+Select each project’s PDF images and open them in MetaPrint.
+Click the Print icon in MetaPrint, and on the File/Ftp tab, choose 200 for Output Resolution, TIFF for Output file type, and navigate in the "Select save path" to where the images will be saved (the Contract ID folders that were created in previous step).
+Create a Zip file of the TIF images in the folder by the name of the Contract ID Number.

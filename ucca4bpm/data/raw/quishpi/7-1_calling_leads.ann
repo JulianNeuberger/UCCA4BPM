@@ -1,0 +1,20 @@
+T7	Condition 203 224	someone is interested
+T6	Entity 130 144	contact person
+T3	Entity 69 82	top five ones
+T13	Entity 319 332	next customer
+T1	Entity 30 40	open leads
+T10	Action 275 284	processes
+T4	Action 57 64	selects
+T0	Action 19 25	checks
+T12	Action 309 314	calls
+T5	Action 121 125	call
+T11	Entity 289 293	lead
+R0	Patient Arg1:T0 Arg2:T1
+R1	Patient Arg1:T4 Arg2:T3
+R2	Patient Arg1:T5 Arg2:T6
+R4	Patient Arg1:T10 Arg2:T11
+R5	Patient Arg1:T12 Arg2:T13
+R6	Sequence Arg1:T0 Arg2:T4
+R7	Sequence Arg1:T4 Arg2:T5
+R8	Sequence Arg1:T5 Arg2:T7
+R9	Sequence Arg1:T7 Arg2:T10

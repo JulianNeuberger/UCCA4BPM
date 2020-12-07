@@ -1,0 +1,4 @@
+The Revision Control Coordinator (RCC) shall be responsible for administering DCRs: reviewing for completeness, assigning a tracking number, collating and compiling completed DCRs and making the appropriate changes to the affected documents, and managing the document revision process.
+The RCC shall also develop and administer a document archiving, tracking and storage system for all DCRs, previous revisions of specifications, and other documents.
+The RCC shall appoint an understudy, who shall be fully trained on all aspects of the DCR process, and who can act as primary RCC if needed.
+The name, affiliation and contact information for the RCC and RCC understudy shall be communicated to all members of the TSC.

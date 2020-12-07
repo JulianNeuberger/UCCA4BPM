@@ -1,0 +1,19 @@
+Customer requirements are registered by various means of communication with the customer and on numerous different functional levels at CCH.
+Then, based on these requirements, which are then bundled and assessed by the product management department, a development project is defined.
+During this preliminary phase the scope of the project is defined and an initial specification written, and a risk and market price analysis is then carried out on this basis. 
+The risk analysis subdivides projects into 5 categories from low risk to risky: Runner, Minor Repeater, Major Repeater, Stranger and Alien. 
+The purpose of the categorization is to place more focus on the necessary tasks by the PROLaunch system.
+During the following Concept Phase, the risk analysis is repeated by the project team that has now been established and the market analysis is concretised based on the Market Customer Requirements (MCR).
+In addition, a first specification and an initial project plan are drawn up based on a rough concept.
+Phase 2 features a concrete concept on the content, which can result in a first prototype with which the specification is finalized.
+Where necessary, a DFMEA, a production assessment and a patent analysis are also carried out, and critical quality characteristics and a purchasing strategy are defined.
+During Phase 3 the product is developed in depth on the basis of the detailed concept and, where necessary, this is supported by further samples and a detailed planning by the production and purchasing departments.
+Necessary basics for the implementation, such as the selection of materials, if applicable, a PFMEA, testing instructions, control plans and tools are defined during this phase, on the basis of which any necessary investments are made.
+For the validation all the basics are rechecked and, if necessary, they are revised or finalized, and production is set up with the installation of all the production and testing facilities, installation of routines (e.g. KANBAN) and training of personnel. 
+The aim is to manufacture a pilot series under series production conditions and their verification for series production release.
+A successful validation with a pilot series is followed by the market launch with the preparation and furnishing of the necessary training materials and documents.
+In addition, production documents such as control and production plans, capacity assessments and PFMEA are finalized.
+After a successful market launch, a development project is closed after an individually determined startup phase.
+Here all the documents relating to the project are archived and formally filed.
+Where appropriate, the "Lessons Learned" from a project can also be recorded and filed together with the other documents.
+In the event of amendments to technical documents due to changes to the specification, customer requirements, materials or a modified manufacturing process or because of internal/external test results, they shall be processed in accordance with the specified amendment procedure.

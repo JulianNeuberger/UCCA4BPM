@@ -1,0 +1,12 @@
+T0	Action 34 42	approved
+T1	Action 63 65	go
+T2	Action 197 205	maintain
+T3	Action 437 443	ensure
+T4	Entity 187 190	rcc
+T5	Entity 7 24	document revision
+T6	Entity 44 56	notification
+T7	Entity 209 258	database of phone
+R0	Agent Arg1:T2 Arg2:T4
+R1	Patient Arg1:T0 Arg2:T5
+R2	Patient Arg1:T1 Arg2:T6
+R3	Patient Arg1:T2 Arg2:T7

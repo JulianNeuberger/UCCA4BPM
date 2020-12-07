@@ -1,0 +1,51 @@
+T0	Action 0 9	specified
+T1	Action 50 59	monitored
+T2	Action 72 82	registered
+T3	Action 84 93	evaluated
+T4	Action 204 208	laid
+T5	Action 301 310	processes
+T6	Action 396 403	include
+T7	Action 550 554	used
+T8	Action 602 612	registered
+T9	Action 623 633	calibrated
+T10	Action 670 676	ensure
+T11	Action 711 719	maintain
+T12	Action 837 841	laid
+T13	Action 881 890	monitored
+T14	Action 907 916	processes
+T15	Action 1089 1095	verify
+T16	Entity 787 795	measure
+T17	Entity 1065 1083	process parameter
+T18	Entity 10 17	product
+T19	Entity 10 17	product
+T20	Entity 61 67	fault
+T21	Entity 61 67	fault
+T22	Entity 168 191	control of faulty
+T23	Entity 423 408	s marking type
+T24	Entity 516 549	measurement equipment
+T25	Entity 500 527	data of measurement
+T26	Entity 617 619	it
+T27	Entity 679 703	constant product quality
+T28	Entity 724 771	capacity for use of relevant production
+T29	Entity 787 805	measure for their
+T30	Entity 855 869	implementation
+T31	Entity 896 906	production
+T32	Entity 1100 1123	capacity of process
+R0	Agent Arg1:T10 Arg2:T16
+R1	Agent Arg1:T15 Arg2:T17
+R2	Patient Arg1:T0 Arg2:T18
+R3	Patient Arg1:T1 Arg2:T18
+R4	Patient Arg1:T2 Arg2:T20
+R5	Patient Arg1:T3 Arg2:T20
+R6	Patient Arg1:T4 Arg2:T22
+R7	Patient Arg1:T6 Arg2:T23
+R8	Patient Arg1:T7 Arg2:T24
+R9	Patient Arg1:T8 Arg2:T25
+R10	Patient Arg1:T9 Arg2:T26
+R11	Patient Arg1:T10 Arg2:T27
+R12	Patient Arg1:T11 Arg2:T28
+R13	Patient Arg1:T12 Arg2:T29
+R14	Patient Arg1:T13 Arg2:T30
+R15	Patient Arg1:T14 Arg2:T31
+R16	Patient Arg1:T15 Arg2:T32
+R19	Sequence Arg1:T2 Arg2:T3

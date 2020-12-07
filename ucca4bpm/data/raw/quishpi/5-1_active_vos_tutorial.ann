@@ -1,0 +1,25 @@
+T12	Condition 276 351	the customer needs further review or the loan amount is for $10,000 or more
+T5	Condition 153 199	the loan is small and the customer is low risk
+T2	Entity 48 82	customer request for a loan amount
+T6	Condition 226 251	the customer is high risk
+T14	Action 368 388	sent to the approver
+T4	Entity 88 103	risk assessment
+T15	Entity 389 400	Web service
+T0	Action 36 45	receiving
+T7	Action 213 221	approved
+T3	Action 119 126	invoked
+T11	Action 265 271	denied
+T8	Entity 205 209	loan
+T10	Entity 257 261	loan
+R0	Patient Arg1:T3 Arg2:T4
+R1	Patient Arg1:T7 Arg2:T8
+R2	Sequence Arg1:T5 Arg2:T7
+R3	Conflict Arg1:T5 Arg2:T6
+R4	Patient Arg1:T11 Arg2:T10
+R5	Sequence Arg1:T6 Arg2:T11
+R6	Patient Arg1:T14 Arg2:T15
+R7	Sequence Arg1:T12 Arg2:T14
+R8	Sequence Arg1:T0 Arg2:T3
+R9	Sequence Arg1:T3 Arg2:T5
+R10	Sequence Arg1:T3 Arg2:T6
+R11	Sequence Arg1:T3 Arg2:T12

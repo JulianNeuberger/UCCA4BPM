@@ -1,0 +1,39 @@
+T0	Condition 471 610	the customer is independent or the subsidiary relationship is already modeled in ERP , the SO : Angebot / Auftrag directly creates the invoice . 
+T1	Action 48 56	receives
+T2	Action 101 109	prepares
+T3	Action 173 182	preparing
+T4	Action 197 205	shipping
+T5	Action 334 341	modeled
+T6	Action 367 371	adds
+T7	Action 390 399	invoicing
+T8	Action 438 444	create
+T9	Action 644 649	sends
+T10	Entity 32 30	angebot so
+T12	Entity 343 366	so address management
+T13	Entity 268 276	customer
+T14	Entity 220 235	angebot auftrag
+T15	Entity 59 75	subsidiary order
+T16	Entity 110 128	good for shipment
+T17	Entity 187 192	good
+T18	Entity 206 210	them
+T19	Entity 299 322	subsidiary relationship
+T20	Entity 372 386	parent company
+T21	Entity 400 407	address
+T22	Entity 449 456	invoice
+T23	Entity 654 661	invoice
+R0	Agent Arg1:T1 Arg2:T10
+R1	Agent Arg1:T2 Arg2:T10
+R2	Agent Arg1:T6 Arg2:T12
+R3	Agent Arg1:T9 Arg2:T14
+R4	Patient Arg1:T1 Arg2:T15
+R5	Patient Arg1:T2 Arg2:T16
+R6	Patient Arg1:T3 Arg2:T17
+R7	Patient Arg1:T4 Arg2:T18
+R8	Patient Arg1:T5 Arg2:T19
+R9	Patient Arg1:T6 Arg2:T20
+R10	Patient Arg1:T7 Arg2:T21
+R11	Patient Arg1:T8 Arg2:T22
+R12	Patient Arg1:T9 Arg2:T23
+R17	Sequence Arg1:T2 Arg2:T3
+R18	Sequence Arg1:T3 Arg2:T4
+A0	Event T1 

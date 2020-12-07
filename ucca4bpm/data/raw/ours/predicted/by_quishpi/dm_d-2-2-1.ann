@@ -1,0 +1,36 @@
+T0	Condition 324 394	the AWG determines the change requested is not feasible or appropriate 
+T1	Condition 524 590	the AWG determines that the change requested should be implemented 
+T2	Condition 1111 1139	the DCR text is satisfactory 
+T3	Condition 825 871	available — shall be included in the information 
+T4	Condition 1020 1087	the AWG determines it should approve the change proposed in the DCR 
+T5	Action 77 85	proposed
+T6	Action 114 119	reach
+T7	Action 237 241	make
+T8	Action 405 411	reject
+T9	Action 446 454	returned
+T10	Action 601 606	draft
+T11	Action 872 876	sent
+T12	Action 927 937	supporting
+T13	Action 996 1004	provided
+T14	Action 1098 1107	determine
+T15	Entity 98 101	awg
+T19	Entity 1115 1123	dcr text
+T20	Entity 86 92	change
+T21	Entity 244 258	recommendation
+T22	Entity 416 419	dcr
+T23	Entity 439 442	dcr
+T24	Entity 617 629	language for
+T25	Entity 938 954	documentation as
+R0	Agent Arg1:T6 Arg2:T15
+R1	Agent Arg1:T7 Arg2:T15
+R2	Patient Arg1:T5 Arg2:T20
+R3	Patient Arg1:T7 Arg2:T21
+R4	Patient Arg1:T8 Arg2:T22
+R5	Patient Arg1:T9 Arg2:T23
+R6	Patient Arg1:T10 Arg2:T24
+R7	Patient Arg1:T12 Arg2:T25
+R10	Sequence Arg1:T0 Arg2:T8
+R11	Sequence Arg1:T1 Arg2:T10
+R12	Sequence Arg1:T2 Arg2:T14
+R13	Sequence Arg1:T3 Arg2:T11
+R14	Sequence Arg1:T4 Arg2:T2

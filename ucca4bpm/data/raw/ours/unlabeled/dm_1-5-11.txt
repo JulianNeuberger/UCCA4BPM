@@ -1,0 +1,17 @@
+As they are received, the RCC shall enter DCRs into a log and then forward them to the appropriate DCC.
+The DCC shall determine whether a DCR is Urgent (if not already so designated by the RCC), Major or Minor.
+Minor DCRs can be approved or rejected by the DCC, and then returned to the RCC for holding until the beginning of the final review process.
+Major DCRs will be forwarded to the appropriate DCB Technical Subgroup leader for the functional group that is most appropriate for the DCR.
+If the DCR affects two or more subgroups, the DCC will select the most appropriate Technical Subgroup leader, and it will be up to that individual to coordinate the DCR review with other affected Subgroups.
+The Technical Subgroup(s) will review the DCRs and make a recommendation within 10 working days of receipt whether to approve, approve with amendment or reject each DCR.
+Once the DCR has been dispositioned by the Technical Subgroup, it is returned to the DCC, who will then return it to the RCC.
+At the beginning of the final review process, the RCC will create a Change Summary that will be routed to the Technical Subcommittee for approval.
+The Change Summary will provide the TSC, Review Panel and NGEC with the relevant information regarding each change.
+The intention is that all changes in a Change Summary will be voted on as a group, though the TSC can vote to reject individual DCRs in the Change Summary.
+Upon approval of the Change Summary, the RCC will forward it to the Review Panel for its review.
+The purpose of this review is to ensure the changes approved have not inadvertently or negatively affected a document’s compliance with the original requirements document.
+This step is analogous to the review of a completed specification before approval by the NGEC Board.
+The Review Panel will provide a recommendation to the NGEC Board to approve or reject the changes included in the Change Summary.
+Upon completion of the Review Panel review of the Change Summary and issuance of a recommendation for approval (or, disapproval of certain changes, as appropriate), the recommendation and Change Summary will be forwarded to the NGEC Executive Board for approval.
+The NGEC Executive Board has the ability to hold individual DCRs in question aside while still approving or rejecting the remaining package of DCRs included in the Change Summary.
+The disposition of each submitted DCR will be provided to the originator, both approved, approved as amended and rejected, together with the rationale for amending a DCR or its rejection.

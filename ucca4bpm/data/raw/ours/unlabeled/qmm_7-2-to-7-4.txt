@@ -1,0 +1,5 @@
+Products that do not comply with the requirements are always marked to prevent their inadvertent use and to prevent them from being delivered to customers.
+Aspects relating to, marking, approval, clearance, fault elimination, and documentation are laid down in detail in special procedure instructions.
+A large part of the data that is accrued in conjunction with the described process methods or the products is processed and evaluated using the commonly applied statistic procedures and analysis tools.
+The results of the data analyses serve as a basis for decisions relating to corrective and preventive measures.
+The connections described there are applied within the CCH organization to ensure that the Quality Control System Loop (PDCA) is closed.
