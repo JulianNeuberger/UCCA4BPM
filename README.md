@@ -3,17 +3,15 @@
 ## Minimal Installation for Reproducing Our Results
 install Miniconda: https://docs.conda.io/en/latest/miniconda.html
 
-create new venv
+create new venv with `conda create --name ucca4bpm` and activate it `conda activate ucca4bpm`
 
 run `conda config --add channels anaconda`
 
 run `conda config --add channels conda-forge`
 
-run `conda install python=3.6.11`
+run `conda install python=3.6.11 gensim=3.8.3 matplotlib=3.3.3 scikit-learn=0.20.1`
 
-run `conda install gensim=3.8.3 matplotlib=3.3.3 tensorflow`
-
-run `pip install dgl==0.5.2`
+run `pip install dgl==0.5.2 tensorflow==2.3.1`
 
 ## Reproducing Our Results
 
