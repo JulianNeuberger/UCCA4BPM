@@ -17,7 +17,7 @@ Make sure to edit the dgl config file to use tensorflow instead of pytorch, see 
 
 ## Reproducing Our Results
 
-Download the prepared data and copy them into `ucca4bpm/data/transformed`, so that e.g. file `ours_qian_srl_google300.pickle` is in ucca4bpm/data/transformed. https://drive.google.com/drive/folders/1jumtVxkOAswTOktmTxQ1ode33kf3MuTV?usp=sharing
+Download the prepared data and copy them into `ucca4bpm/data/transformed`, so that e.g. file `ours_qian_srl_google300.pickle` is in ucca4bpm/data/transformed. https://drive.google.com/file/d/15oPZ-3Gj3FoWyBBtUNkSjvKNGY_nIQy3/view?usp=sharing
 
 We have prepared several scripts for generating our runs and plots.
 
