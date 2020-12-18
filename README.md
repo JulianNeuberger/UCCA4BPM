@@ -13,6 +13,8 @@ run `conda install python=3.6.11 gensim=3.8.3 matplotlib=3.3.3 scikit-learn=0.20
 
 run `pip install dgl==0.5.2 tensorflow==2.3.1`
 
+Make sure to edit the dgl config file to use tensorflow instead of pytorch, see https://docs.dgl.ai/en/0.4.x/install/backend.html
+
 ## Reproducing Our Results
 
 Download the prepared data and copy them into `ucca4bpm/data/transformed`, so that e.g. file `ours_qian_srl_google300.pickle` is in ucca4bpm/data/transformed. https://drive.google.com/drive/folders/1jumtVxkOAswTOktmTxQ1ode33kf3MuTV?usp=sharing
